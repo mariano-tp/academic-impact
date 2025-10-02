@@ -19,7 +19,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa (CyTA)* (2020).  
+- **Published in**: *Ciencia y Técnica Administrativa (CyTA)*, (2020).  
 - **ISSN**: 1666-0736
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia_3.pdf)
@@ -41,10 +41,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana  
-- **Platform**: *SSRN (Social Science Research Network)* (2025)
+- **Platform**: *SSRN (Social Science Research Network)*, (2025)
 - **Language**: English    
 - **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
-- **Author’s Copy PDF**: [Download here](Preprints/2025-ai-us-healthcare.pdf)
+- **Author’s Copy PDF**: [Download here](preprints/2025-ai-us-healthcare.pdf)
 
 ---
 
