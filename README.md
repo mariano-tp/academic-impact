@@ -9,7 +9,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa (CyTA)*, 24(3), 2 (2025).  
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
+- **Published in**: *Técnica Administrativa*, Vol. 24, Nº 3 (2025)
 - **ISSN**: 1666-1680
 - **Language**: Spanish
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
@@ -19,8 +20,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa (CyTA)*, (2020).  
-- **ISSN**: 1666-0736
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
+- **Published in**: *Técnica Administrativa*, (2020)
+- **ISSN**: 1666-1680
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia_3.pdf)
 - **Author’s Copy PDF**: [Download here](papers/2020-evidencia-digital.pdf)
@@ -29,7 +31,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa (CyTA)*, Vol. 18, Nº 1 (2019).  
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
+- **Published in**: *Técnica Administrativa*, Vol. 18, Nº 1 (2019)
 - **ISSN**: 1666-0736
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
