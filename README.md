@@ -7,19 +7,21 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Published Papers
 
-### Creaciones con Inteligencia artificial: criterios de titularidad y marco normativo
+### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa*, 24(3), 2 (2025).  
-- **ISSN**: 1666-0736  
+- **Published in**: *Ciencia y Técnica Administrativa (CyTA)*, 24(3), 2 (2025).  
+- **ISSN**: 1666-1680
+- **Language**: Spanish
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **Author’s Copy PDF**: [Download here](papers/2025-creaciones-ia.pdf)
 
 ---
 
-### Informática forense: el camino de la evidencia digital
+### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa* (2020).  
-- **ISSN**: 1666-0736  
+- **Published in**: *Ciencia y Técnica Administrativa (CyTA)* (2020).  
+- **ISSN**: 1666-0736
+- **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia_3.pdf)
 - **Author’s Copy PDF**: [Download here](papers/2020-evidencia-digital.pdf)
 
@@ -27,8 +29,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa (CyTA) – Revista de Derecho y Tecnología*, Vol. 18, Nº 1 (2019).  
-- **ISSN**: 1666-0736  
+- **Published in**: *Ciencia y Técnica Administrativa (CyTA)*, Vol. 18, Nº 1 (2019).  
+- **ISSN**: 1666-0736
+- **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
 - **Author’s Copy PDF**: [Download here](papers/2019-derechos-ia.pdf)
 
@@ -36,10 +39,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Preprints
 
-### Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care
-- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana (Investigation)  
-- **Platform**: SSRN (Social Science Research Network)  
-- **Date**: 2025-09-10  
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
+- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana  
+- **Platform**: *SSRN (Social Science Research Network)* (2025)
+- **Language**: English    
 - **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author’s Copy PDF**: [Download here](Preprints/2025-ai-us-healthcare.pdf)
 
@@ -61,7 +64,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Inteligencia artificial: ¿Hacia un mundo feliz o distópico?
 - **Outlet**: Venezuela News – *Expediente.News*  
 - **Date**: 2023-03-10  
-- **Language**: Spanish  
 - **URL**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
 - **Description**: Article citing *Derechos y desafíos de la Inteligencia Artificial* (Torres Ponce, 2019).  
 - **Country**: Venezuela
