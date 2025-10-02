@@ -10,7 +10,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: *Técnica Administrativa*, Vol. 24, Nº 3 (2025)
+- **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)
 - **ISSN**: 1666-1680
 - **Language**: Spanish
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
@@ -21,7 +21,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: *Técnica Administrativa*, (2020)
+- **Published in**: Técnica Administrativa, (2020)
 - **ISSN**: 1666-1680
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia_3.pdf)
@@ -32,8 +32,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: *Técnica Administrativa*, Vol. 18, Nº 1 (2019)
-- **ISSN**: 1666-0736
+- **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
+- **ISSN**: 1666-1680
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
 - **Author’s Copy PDF**: [Download here](papers/2019-derechos-ia.pdf)
@@ -76,8 +76,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Outlet**: Venezuela News – *Expediente.News*  
 - **Date**: 2023-03-10  
 - **URL**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
-- **Description**: Article citing *Derechos y desafíos de la Inteligencia Artificial* (Torres Ponce, 2019).  
-- **Country**: Venezuela
+- **Description**: Article citing *Mariano Enrique Torres*. 
 
 ---
 
