@@ -59,6 +59,14 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ---
 
+### Academic Journals
+- **Revista Informática y Derecho (Uruguay, 2025)**  
+  Article: *La aplicación de técnicas de investigación en la detección y persecución de delitos económicos*.  
+  [Read online](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
+  *Cites: Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*
+
+---
+
 ## Press Mentions
 
 ### Inteligencia artificial: ¿Hacia un mundo feliz o distópico?
@@ -71,6 +79,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ---
 
 ## Google Scholar Citations
+[See profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ) 
 
 ### Derechos y desafíos de la Inteligencia Artificial (2019)
 - **Citations**: 8 (as of Oct 2025)  
@@ -92,14 +101,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - Artificial Intelligence & Law  
 - Digital Evidence  
 - Cloud-native Systems  
-- Operational Resilience (DORA)  
 - DevOps & Compliance in Financial Services
 
----
-
-## Notes
-This repository does not reproduce copyrighted works in full.  
-Only excerpts (cover, index, citation pages) are provided as **evidence of citation** and academic reference.
 ---
 
 ## Notes
