@@ -59,7 +59,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ---
 
-### Academic Journals
+## Academic Journals
 - **Revista Informática y Derecho (Uruguay, 2025)**  
   Article: *La aplicación de técnicas de investigación en la detección y persecución de delitos económicos*.  
   [Read online](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
