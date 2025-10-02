@@ -8,8 +8,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Published Papers
 
 - **Creaciones con Inteligencia artificial: criterios de titularidad y marco normativo** (2025)  
-  Published in *Técnica Administrativa*, 24(3), 2.  
-  [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
+  Published in *Ciencia y Técnica Administrativa*, 24(3), 2.  
+  [Read online](https://www.cyta.com.ar/ta/article.php?id=240302) | [PDF](papers/2025-creaciones-ia.pdf)
 
   *APA citation:* Torres Ponce, M. E. (2025). *Creaciones con Inteligencia artificial: criterios de titularidad y marco normativo.* Técnica Administrativa, 24(3), 2.  
 
@@ -17,7 +17,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 - **Informática forense: el camino de la evidencia digital** (2020)  
   Published in *Ciencia y Técnica Administrativa*.  
-  [Read online](https://cyta.com.ar/bookia/bookia_3.pdf)  
+  [Read online](https://cyta.com.ar/bookia/bookia_3.pdf) | [PDF](papers/2020-evidencia-digital.pdf)
 
   *APA citation:* Torres Ponce, M. E. (2020). *Informática forense: el camino de la evidencia digital.* Ciencia y Técnica Administrativa.  
 
@@ -35,7 +35,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 - **Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care** (2025)  
   SSRN Preprint.  
-  DOI: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  
+  DOI: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  [PDF](papers/2025-ai-us-healthcare.pdf) 
 
   *APA citation:* Torres Ponce, M. E., & Arana, M. N. (2025). *Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care.* SSRN Preprint.  
 
