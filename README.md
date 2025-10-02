@@ -7,42 +7,72 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Published Papers
 
-### Derechos y desafíos de la Inteligencia Artificial
+### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
-- **Published in**: *Ciencia y Técnica Administrativa (CyTA) – Revista de Derecho y Tecnología*, Vol. 18, Nº 1 (2019).  
+- **Published in**: *Ciencia y Técnica Administrativa* (CyTA), 15 July 2025.  
 - **ISSN**: 1666-0736  
-- **Pages**: 1–20  
-- **Official version (BookIA)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
-- **Author’s Copy PDF**: [Download here](papers/2019-derechos-ia.pdf)
-
-**Abstract**:  
-Este trabajo analiza los desafíos jurídicos, sociales y técnicos de la inteligencia artificial en el siglo XXI, con énfasis en la evidencia digital, la autonomía de sistemas y la necesidad de un marco regulatorio flexible que acompañe la innovación sin bloquearla.
+- **Language**: Spanish  
+- **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 
 **APA citation**:  
-Torres Ponce, M. E. (2019). *Derechos y desafíos de la Inteligencia Artificial*. Ciencia y Técnica Administrativa, 18(1), 1–20.
+Torres Ponce, M. E. (2025). *Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo.* Ciencia y Técnica Administrativa.  
 
 ---
 
-## Citations
+### Informática Forense y el camino de la Evidencia digital  
+(*Forensic Computing and the Path of Digital Evidence*)  
+- **Author**: Mariano Enrique Torres Ponce  
+- **Published in**: *Ciencia y Técnica Administrativa* (CyTA), 8 November 2020.  
+- **Language**: Spanish  
+- **Official version**: [Read online](https://www.cyta.com.ar/bookia/bookia.php?id=3)  
 
-### Books
-- **Derecho y nuevas tecnologías** (2021)  
-  Universidad de Buenos Aires – Thomson Reuters / La Ley.  
-  ISBN 978-987-03-4271-7 – Faculty of Law, UBA.  
-  Evidence extract: [PDF](citations/derecho-y-nuevas-tecnologias-2021.pdf)  
-  *Cites: Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*
-
----
-
-### Academic Journals
-- **Revista Informática y Derecho (Uruguay, 2025)**  
-  Article: *La aplicación de técnicas de investigación en la detección y persecución de delitos económicos*.  
-  [Read online](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
-  *Cites: Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*
+**APA citation**:  
+Torres Ponce, M. E. (2020). *Informática Forense y el camino de la Evidencia digital.* Ciencia y Técnica Administrativa.  
 
 ---
 
-### Press Mentions
+### Derechos y desafíos de la Inteligencia Artificial  
+(*Rights and Challenges of Artificial Intelligence*)  
+- **Author**: Mariano Enrique Torres Ponce  
+- **Published in**: *Ciencia y Técnica Administrativa* (CyTA), 15 December 2019.  
+- **Language**: Spanish  
+- **Official version (BookIA)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
+- **Author’s Copy PDF**: [Download here](papers/2019-derechos-ia.pdf)  
+
+**APA citation**:  
+Torres Ponce, M. E. (2019). *Derechos y desafíos de la Inteligencia Artificial.* Ciencia y Técnica Administrativa.  
+
+---
+
+## Preprints
+
+### Artificial Intelligence in U.S. Healthcare  
+**Subtitle**: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care  
+- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana (Investigation)  
+- **Published on**: SSRN, 10 September 2025.  
+- **Language**: English  
+- **DOI**: [https://doi.org/10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  
+
+**APA citation**:  
+Torres Ponce, M. E., & Arana, M. N. (2025). *Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care.* SSRN Preprint. https://doi.org/10.2139/ssrn.5468846  
+
+---
+
+## Book Chapters
+
+### Derecho y nuevas tecnologías  
+- **Book**: *Derecho y nuevas tecnologías* (2021).  
+- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley.  
+- **ISBN**: 978-987-03-4271-7  
+- **PDF extract of citation evidence**: [Download here](citations/2021-derecho-y-nuevas-tecnologias-extract-uniform.pdf)  
+- **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)  
+
+**Description**: This collective volume cites the work *Derechos y desafíos de la Inteligencia Artificial* (Torres Ponce, 2019).  
+
+---
+
+## Press Mentions
+
 - **Inteligencia artificial: ¿Hacia un mundo feliz o distópico?**  
   Venezuela News – *Expediente.News*  
   10 March 2023 | Newspaper article  
@@ -52,23 +82,33 @@ Torres Ponce, M. E. (2019). *Derechos y desafíos de la Inteligencia Artificial*
   Venezuela News. (2023, March 10). *Inteligencia artificial: ¿Hacia un mundo feliz o distópico?* Expediente.News.  
   https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/  
 
-  **Description**: Article citing the work *Derechos y desafíos de la Inteligencia Artificial* (Torres Ponce, 2019).  
+  **Description**: Article citing *Derechos y desafíos de la Inteligencia Artificial* (Torres Ponce, 2019).  
   **Country of publication**: Venezuela  
 
 ---
 
 ## Google Scholar Citations
 
-As of October 2025, my article *Derechos y desafíos de la Inteligencia Artificial* (2019)  
-has been cited **8 times** in academic publications indexed by Google Scholar.  
+### Derechos y desafíos de la Inteligencia Artificial (2019)  
+As of October 2025, this article has been cited **8 times** in academic publications indexed by Google Scholar.  
 [See full list on my Google Scholar profile](https://scholar.google.com/citations?user=XXXX)  
 
-### Selected citations
+**Selected citations**  
 - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.*  
   Derecho Global – Estudios sobre Derecho y Justicia. SciELO México.  
 
 - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.*  
   Estudios Constitucionales. SciELO Chile.  
+
+---
+
+### Informática Forense y el camino de la Evidencia digital (2020)  
+As of October 2025, this article has been cited **2 times** in academic publications indexed by Google Scholar.  
+
+**Selected citations**  
+- Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.  
+
+- Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.  
 
 ---
 
@@ -86,3 +126,4 @@ has been cited **8 times** in academic publications indexed by Google Scholar.
 
 This repository does not reproduce copyrighted works in full.  
 Only excerpts (cover, index, citation pages) are provided as **evidence of citation** and academic reference.
+
