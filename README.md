@@ -25,7 +25,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **ISSN**: 1666-1680
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
-- **Author’s Copy PDF**: [Download here](papers/2020-evidencia-digital.pdf)
+- **Author’s Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **ISSN**: 1666-1680
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
-- **Author’s Copy PDF**: [Download here](papers/2019-derechos-ia.pdf)
+- **Author’s Copy PDF**: [Download](papers/2019-derechos-ia.pdf)
 
 ---
 
@@ -47,7 +47,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Platform**: SSRN (Social Science Research Network), (2025)
 - **Language**: English    
 - **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
-- **Author’s Copy PDF**: [Download here](preprints/2025-ai-us-healthcare.pdf)
+- **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
 
 ---
 
