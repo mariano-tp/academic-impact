@@ -54,28 +54,29 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Book Chapters (as cited work)
 
 ### Derecho y nuevas tecnologías
-- **Author**: Gonzalo Ana Dobratinich (dir.)  
-- **Publisher**: Universidad de Buenos Aires - Thomson Reuters / La Ley (2021)  
+- **Author / Editor**: Gonzalo Ana Dobratinich (dir.)  
+- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)  
 - **ISBN**: 978-987-03-4271-7  
 - **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)  
-- **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract-uniform.pdf)  
-- **Note**: This collective volume **cites** *TORRES, Mariano, “Derechos y Desafíos de la Inteligencia Artificial”*.
+- **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)  
+- **Note**: This collective volume cites *TORRES, Mariano, “Derechos y Desafíos de la Inteligencia Artificial”*.  
+- **Country**: Argentina  
 
 ---
 
 ## Academic Journals (as cited work)
 
-### Revista Informática y Derecho
-- **Article**: La aplicación de técnicas de investigación en la detección y persecución de delitos económicos  
+### La aplicación de técnicas de investigación en la detección y persecución de delitos económicos
 - **Author**: José Heriberto García Peña  
-- **Published in**: Núm. 11 (2022)  
-- **Publisher**: Fundación de Cultura Universitaria  
+- **Publisher**: Fundación de Cultura Universitaria (FCU)  
+- **Published in**: Revista Informática y Derecho, Nº 11 (2022)  
 - **ISSN**: 2530-4496  
 - **Official listing**:  
   - **Article page**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
-  - **Issue (table of contents / cover)**: [Read online](https://revistas.fcu.edu.uy/index.php/informaticayderecho/issue/view/162/2)
-- **Cites**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*
-
+  - **Issue (table of contents / cover)**:  [Read online](https://revistas.fcu.edu.uy/index.php/informaticayderecho/issue/view/162/2)
+  - **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract-uniform.pdf)  
+- **Cites**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial.*  
+- **Country**: Uruguay
 
 ---
 
@@ -85,7 +86,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Outlet**: Venezuela News – *Expediente.News*  
 - **Date**: 2023-03-10  
 - **URL**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
-- **Description**: Article citing *Mariano Enrique Torres*. 
+- **Description**: Press mention - includes the line “Como señala el investigador argentino, **Mariano Enrique Torres**…”. This is a media mention (not a formal scholarly citation). 
+- **Country**: Venezuela  
 
 ---
 
