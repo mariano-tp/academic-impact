@@ -81,10 +81,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Press Mentions
 
 ### Inteligencia artificial: ¿Hacia un mundo feliz o distópico?
-- **Outlet**: Venezuela News – *Expediente.News*  
+- **Publisher**: Venezuela News – *Expediente.News*  
 - **Date**: 2023-03-10  
-- **URL**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
-- **Description**: Press mention - includes the line “Como señala el investigador argentino, *Mariano Enrique Torres*…”. This is a media mention (not a formal scholarly citation). 
+- **Official listing**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
+- **Note**: Press mention including the line *“Como señala el investigador argentino, Mariano Enrique Torres…”*. This is a media mention (not a formal scholarly citation). 
 - **Country**: Venezuela  
 
 ---
