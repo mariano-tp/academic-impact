@@ -55,7 +55,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Derecho y nuevas tecnologías
 - **Author / Editor**: Gonzalo Ana Dobratinich (dir.)  
-- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)  
+- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
 - **ISBN**: 978-987-03-4271-7  
 - **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)  
 - **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)  
@@ -68,7 +68,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### La aplicación de técnicas de investigación en la detección y persecución de delitos económicos
 - **Author**: José Heriberto García Peña  
-- **Publisher**: Fundación de Cultura Universitaria (FCU)  
+- **Publisher**: Fundación de Cultura Universitaria  
 - **Published in**: Revista Informática y Derecho, Nº 11 (2022)  
 - **ISSN**: 2530-4496  
 - **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
