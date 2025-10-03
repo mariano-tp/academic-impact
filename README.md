@@ -24,7 +24,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Published in**: Técnica Administrativa, (2020)
 - **ISSN**: 1666-1680
 - **Language**: Spanish  
-- **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia_3.pdf)
+- **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **Author’s Copy PDF**: [Download here](papers/2020-evidencia-digital.pdf)
 
 ---
