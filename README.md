@@ -71,10 +71,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Publisher**: Fundación de Cultura Universitaria (FCU)  
 - **Published in**: Revista Informática y Derecho, Nº 11 (2022)  
 - **ISSN**: 2530-4496  
-- **Official listing**:  
-  - **Article page**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
-  - **Issue (table of contents / cover)**:  [Read online](https://revistas.fcu.edu.uy/index.php/informaticayderecho/issue/view/162/2)
-  - **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)  
+- **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
+- **Citation evidence (PDF extract)**: [Download](citations/162-3-PB-extract.pdf)  
 - **Cites**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial.*  
 - **Country**: Uruguay
 
@@ -86,7 +84,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Outlet**: Venezuela News – *Expediente.News*  
 - **Date**: 2023-03-10  
 - **URL**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
-- **Description**: Press mention - includes the line “Como señala el investigador argentino, **Mariano Enrique Torres**…”. This is a media mention (not a formal scholarly citation). 
+- **Description**: Press mention - includes the line “Como señala el investigador argentino, *Mariano Enrique Torres*…”. This is a media mention (not a formal scholarly citation). 
 - **Country**: Venezuela  
 
 ---
