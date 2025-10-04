@@ -1,6 +1,12 @@
 # Academic Papers & Citation Evidence
 
 This repository collects some of my academic works and evidence of their citation in books, articles, journals, theses, and press.  
+**Inclusion criteria:** This repo lists **non-Scholar citations** with evidence files (books, regional journals, theses, institutional repositories, media).  
+Index-verified citations (Google Scholar) appear only in **Google Scholar Citations**.
+
+**Structure:**  
+`papers/` – Author copies · `preprints/` – SSRN/working papers · `citations/` – Citation evidence (PDF extracts) · `press/` – Media mentions
+
 It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.
 
 ---
@@ -16,7 +22,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 - **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
 
----
+
 
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
@@ -27,7 +33,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)  
 - **Author’s Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
 
----
+
 
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
@@ -38,7 +44,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
 - **Author’s Copy PDF**: [Download](papers/2019-derechos-ia.pdf)
 
----
 
 ## Preprints
 
@@ -50,6 +55,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
 
 ---
+
 
 ## Book Chapters (as cited work)
 
@@ -65,17 +71,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ---
 
 ## Academic Journals (as cited work)
-
-### La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos
-- **Author**: Adriana M. Porcelli  
-- **Publisher**: Universidad de Guanajuato / Derecho Global — Estudios sobre Derecho y Justicia (SciELO)  
-- **Published in**: Vol. 5, Nº 15 (2020)  
-- **Language**: Spanish  
-- **Official listing**: [SciELO México](https://www.scielo.org.mx/) (journal index)  
-- **Cites**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*  
-- **Country**: Mexico
-
----
 
 ### La aplicación de técnicas de investigación en la detección y persecución de delitos económicos
 - **Author**: José Heriberto García Peña  
@@ -101,7 +96,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/)  
 - **Citation evidence (PDF extract)**: [Download](citations/2023-unam-meza-extract.pdf)  
 - **Cites**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*  
-- **Country**: Mexico
+- **Country**: México
 
 ---
 
