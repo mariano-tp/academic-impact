@@ -89,7 +89,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### La inteligencia artificial frente a los derechos humanos: Retos y expectativas
 - **Author**: Juan Andrés Meza Sánchez  
-- **Institution**: Universidad Nacional Autónoma de México (UNAM) — Facultad de Derecho  
+- **Institution**: Universidad Nacional Autónoma de México (UNAM) - Facultad de Derecho  
 - **Type**: Master Thesis  
 - **Date**: 2023-12-02  
 - **Language**: Spanish  
@@ -100,9 +100,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### La responsabilidad civil derivada del uso de inteligencia artificial
 - **Author**: María Patrizia Domingues Villarroel  
-- **Institution**: Universidad de La Laguna (ULL) — Facultad de Derecho  
+- **Institution**: Universidad de La Laguna (ULL) - Facultad de Derecho  
 - **Program / Type**: Trabajo Fin de Grado (LL.B. Final Project)  
-- **Academic year**: 2020/2021 — **Call**: September  
+- **Academic year**: 2020/2021 - **Call**: September  
 - **Language**: Spanish 
 - **Official listing**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/bitstream/handle/915/25652/La%20responsabilidad%20civil%20derivada%20del%20uso%20de%20la%20inteligencia%20artificial.%20%20.pdf)  
 - **Cites**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*  
