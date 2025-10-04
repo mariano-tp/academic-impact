@@ -14,7 +14,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **ISSN**: 1666-1680
 - **Language**: Spanish
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
-- **Author’s Copy PDF**: [Download here](papers/2025-creaciones-ia.pdf)
+- **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
 
 ---
 
