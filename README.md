@@ -95,8 +95,19 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish  
 - **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/)  
 - **Citation evidence (PDF extract)**: [Download](citations/2023-unam-meza-extract.pdf)  
-- **Cites**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*  
-- **Country**: México
+- **Cites**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*  
+- **Country**: Mexico
+
+### La responsabilidad civil derivada del uso de inteligencia artificial
+- **Author**: María Patrizia Domingues Villarroel  
+- **Institution**: Universidad de La Laguna (ULL) — Facultad de Derecho  
+- **Program / Type**: Trabajo Fin de Grado (LL.B. Final Project)  
+- **Academic year**: 2020/2021 — **Call**: September  
+- **Language**: Spanish 
+- **Official listing**: [Repositorio ULL](https://riull.ull.es/xmlui/bitstream/handle/915/25652/La%20responsabilidad%20civil%20derivada%20del%20uso%20de%20la%20inteligencia%20artificial.%20%20.pdf)  
+- **Cites**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*  
+- **Country**: Spain
+
 
 ---
 
