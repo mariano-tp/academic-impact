@@ -104,7 +104,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Program / Type**: Trabajo Fin de Grado (LL.B. Final Project)  
 - **Academic year**: 2020/2021 — **Call**: September  
 - **Language**: Spanish 
-- **Official listing**: [Repositorio ULL](https://riull.ull.es/xmlui/bitstream/handle/915/25652/La%20responsabilidad%20civil%20derivada%20del%20uso%20de%20la%20inteligencia%20artificial.%20%20.pdf)  
+- **Official listing**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/bitstream/handle/915/25652/La%20responsabilidad%20civil%20derivada%20del%20uso%20de%20la%20inteligencia%20artificial.%20%20.pdf)  
 - **Cites**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*  
 - **Country**: Spain
 
