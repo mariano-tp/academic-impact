@@ -1,6 +1,6 @@
 # Academic Papers & Citation Evidence
 
-This repository collects some of my academic works and evidence of their citation in books, articles, journals, and press.  
+This repository collects some of my academic works and evidence of their citation in books, articles, journals, theses, and press.  
 It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.
 
 ---
@@ -10,10 +10,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)
-- **ISSN**: 1666-1680
-- **Language**: Spanish
-- **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
+- **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)  
+- **ISSN**: 1666-1680  
+- **Language**: Spanish  
+- **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 - **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
 
 ---
@@ -21,10 +21,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: Técnica Administrativa, (2020)
-- **ISSN**: 1666-1680
+- **Published in**: Técnica Administrativa (2020)  
+- **ISSN**: 1666-1680  
 - **Language**: Spanish  
-- **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
+- **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)  
 - **Author’s Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
 
 ---
@@ -32,8 +32,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
-- **ISSN**: 1666-1680
+- **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)  
+- **ISSN**: 1666-1680  
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
 - **Author’s Copy PDF**: [Download](papers/2019-derechos-ia.pdf)
@@ -44,9 +44,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana  
-- **Platform**: SSRN (Social Science Research Network), (2025)
+- **Platform**: SSRN (Social Science Research Network), (2025)  
 - **Language**: English    
-- **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
+- **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  
 - **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
 
 ---
@@ -55,7 +55,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Derecho y nuevas tecnologías
 - **Author / Editor**: Gonzalo Ana Dobratinich (dir.)  
-- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
+- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)  
 - **ISBN**: 978-987-03-4271-7  
 - **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)  
 - **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)  
@@ -66,15 +66,42 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Academic Journals (as cited work)
 
+### La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos
+- **Author**: Adriana M. Porcelli  
+- **Publisher**: Universidad de Guanajuato / Derecho Global — Estudios sobre Derecho y Justicia (SciELO)  
+- **Published in**: Vol. 5, Nº 15 (2020)  
+- **Language**: Spanish  
+- **Official listing**: [SciELO México](https://www.scielo.org.mx/) (journal index)  
+- **Cites**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*  
+- **Country**: Mexico
+
+---
+
 ### La aplicación de técnicas de investigación en la detección y persecución de delitos económicos
 - **Author**: José Heriberto García Peña  
 - **Publisher**: Fundación de Cultura Universitaria  
 - **Published in**: Revista Informática y Derecho, Nº 11 (2022)  
 - **ISSN**: 2530-4496  
-- **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
+- **Language**: Spanish  
+- **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
 - **Citation evidence (PDF extract)**: [Download](citations/162-3-PB-extract.pdf)  
-- **Cites**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial.*  
+- **Cites**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*  
 - **Country**: Uruguay
+
+---
+
+## Theses & Institutional References (as cited work)
+
+### La inteligencia artificial frente a los derechos humanos: Retos y expectativas
+- **Author**: Juan Andrés Meza Sánchez  
+- **Institution**: Universidad Nacional Autónoma de México (UNAM) — Facultad de Derecho  
+- **Type**: Master Thesis  
+- **Date**: 2023-12-02  
+- **Language**: Spanish  
+- **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/)  
+- **Citation evidence (PDF extract)**: [Download](citations/2023-unam-meza-extract.pdf)  
+- **Cites**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la Inteligencia Artificial.*  
+- **Country**: Mexico
 
 ---
 
@@ -83,8 +110,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Inteligencia artificial: ¿Hacia un mundo feliz o distópico?
 - **Publisher**: Venezuela News – *Expediente.News*  
 - **Date**: 2023-03-10  
+- **Language**: Spanish  
 - **Official listing**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)  
-- **Note**: Press mention including the line *“Como señala el investigador argentino, Mariano Enrique Torres…”*. This is a media mention (not a formal scholarly citation). 
+- **Note**: Press mention including the line *“Como señala el investigador argentino, Mariano Enrique Torres…”*. This is a **media mention** (not a formal scholarly citation).  
 - **Country**: Venezuela  
 
 ---
