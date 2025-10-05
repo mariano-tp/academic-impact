@@ -62,7 +62,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Derecho y nuevas tecnologías
 - **Author / Editor**: Gonzalo Ana Dobratinich (dir.)  
 - **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)  
-- **ISBN**: 978-987-03-4271-7  
+- **ISBN**: 978-987-03-4271-7
+- **Language**: Spanish
 - **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)  
 - **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)  
 - **Note**: This collective volume **cites** *TORRES, Mariano, “Derechos y Desafíos de la Inteligencia Artificial”*.  
