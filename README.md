@@ -95,7 +95,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Type**: Master’s Thesis  
 - **Date**: 2023-12-02  
 - **Language**: Spanish  
-- **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)  
+- **Official listing**: [Repositorio UNAM de la Dirección General de Bibliotecas (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)  
 - **Citation evidence (PDF extract)**: [Download](citations/2023-ia-ddhh-extract.pdf)  
 - **Cited as**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*  
 - **Country**: Mexico
