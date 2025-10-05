@@ -94,7 +94,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Type**: Master Thesis  
 - **Date**: 2023-12-02  
 - **Language**: Spanish  
-- **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/)  
+- **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)  
 - **Citation evidence (PDF extract)**: [Download](citations/2023-unam-meza-extract.pdf)  
 - **Cites**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*  
 - **Country**: Mexico
@@ -106,6 +106,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Academic year**: 2020/2021 - **Call**: September  
 - **Language**: Spanish 
 - **Official listing**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/bitstream/handle/915/25652/La%20responsabilidad%20civil%20derivada%20del%20uso%20de%20la%20inteligencia%20artificial.%20%20.pdf)  
+ **Citation evidence (PDF extract)**: [Download](citations/2021-responsabilidad-civil-extract.pdf)  
 - **Cites**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*  
 - **Country**: Spain
 
