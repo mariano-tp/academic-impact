@@ -81,7 +81,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **ISSN**: 2530-4496  
 - **Language**: Spanish  
 - **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
-- **Citation evidence (PDF extract)**: [Download](citations/162-3-PB-extract.pdf)  
+- **Citation evidence (PDF extract)**: [Download](citations/2022-162-3-PB-extract.pdf)  
 - **Cited as**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*  
 - **Country**: Uruguay
 
