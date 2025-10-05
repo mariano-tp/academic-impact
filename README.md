@@ -92,7 +92,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **ISSN**: 2707-4056 (online)  
 - **Language**: Spanish  
 - **Official listing**: [AMag Publications](https://revistas.amag.edu.pe/index.php/amag/issue/view/6)
-- **Citation evidence (PDF extract)**: [Download](citations/6-17-PB-extract.pdf)  
+- **Citation evidence (PDF extract)**: [Download](citations/2021-6-17-PB-extract.pdf)  
 - **Cited as**: *Torres, M. (2020). Informática forense y el camino de la Evidencia digital. Ciencia y Técnica Administrativa.*
 - **Country**: Peru
 
