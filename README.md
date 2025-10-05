@@ -60,13 +60,14 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Book Chapters (as cited work)
 
 ### Derecho y nuevas tecnologías
-- **Author / Editor**: Gonzalo Ana Dobratinich (dir.)  
+- **Author / Editor**: Gonzalo Ana Dobratinich (dir.)
+- **Type**: Collective volume
 - **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)  
 - **ISBN**: 978-987-03-4271-7
 - **Language**: Spanish
 - **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)  
 - **Citation evidence (PDF extract)**: [Download](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)  
-- **Note**: This collective volume **cites** *TORRES, Mariano, “Derechos y Desafíos de la Inteligencia Artificial”*.  
+- **Cited as**: *TORRES, Mariano, "Derechos y desafíos de la Inteligencia Artificial”.*  
 - **Country**: Argentina  
 
 ---
@@ -81,7 +82,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish  
 - **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
 - **Citation evidence (PDF extract)**: [Download](citations/162-3-PB-extract.pdf)  
-- **Cites**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*  
+- **Cited as**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*  
 - **Country**: Uruguay
 
 ---
@@ -91,23 +92,23 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### La inteligencia artificial frente a los derechos humanos: Retos y expectativas
 - **Author**: Juan Andrés Meza Sánchez  
 - **Institution**: Universidad Nacional Autónoma de México (UNAM) - Facultad de Derecho  
-- **Type**: Master Thesis  
+- **Type**: Master’s Thesis  
 - **Date**: 2023-12-02  
 - **Language**: Spanish  
 - **Official listing**: [Repositorio UNAM (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)  
 - **Citation evidence (PDF extract)**: [Download](citations/2023-ia-ddhh-extract.pdf)  
-- **Cites**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*  
+- **Cited as**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*  
 - **Country**: Mexico
 
 ### La responsabilidad civil derivada del uso de la inteligencia artificial
 - **Author**: María Patrizia Domingues Villarroel  
 - **Institution**: Universidad de La Laguna (ULL) - Facultad de Derecho  
-- **Program / Type**: Trabajo Fin de Grado (LL.B. Final Project)  
-- **Academic year**: 2020/2021 - **Call**: September  
+- **Type**: Undergraduate Final Project (TFG) 
+- **Date**: 2021-10  
 - **Language**: Spanish 
-- **Official listing**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/bitstream/handle/915/25652/La%20responsabilidad%20civil%20derivada%20del%20uso%20de%20la%20inteligencia%20artificial.%20%20.pdf)  
- **Citation evidence (PDF extract)**: [Download](citations/2021-responsabilidad-civil-extract.pdf)  
-- **Cites**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*  
+- **Official listing**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/handle/915/25652)  
+- **Citation evidence (PDF extract)**: [Download](citations/2021-responsabilidad-civil-extract.pdf)  
+- **Cited as**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*  
 - **Country**: Spain
 
 
