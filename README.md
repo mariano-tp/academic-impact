@@ -77,13 +77,25 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### La aplicación de técnicas de investigación en la detección y persecución de delitos económicos
 - **Author**: José Heriberto García Peña  
 - **Publisher**: Fundación de Cultura Universitaria  
-- **Published in**: Revista Informática y Derecho, Nº 11 (2022)  
+- **Published in**: Revista Informática y Derecho, Nº 11 (2022), pp. 67–83   
 - **ISSN**: 2530-4496  
 - **Language**: Spanish  
 - **Official listing**: [FCU Publications](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)  
 - **Citation evidence (PDF extract)**: [Download](citations/162-3-PB-extract.pdf)  
 - **Cited as**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*  
 - **Country**: Uruguay
+
+### Garantías procesales penales en la evidencia digital
+- **Author**: Gladys Liliana Gonzáles Obando  
+- **Publisher**: Academia de la Magistratura  
+- **Published in**: Revista de Investigación de la Academia de la Magistratura, Vol. 3, No. 5 (Jul–Dec 2021), pp. 165–174  
+- **ISSN**: 2707-4056 (online)  
+- **Language**: Spanish  
+- **Official listing**: [AMag Publications](https://revistas.amag.edu.pe/index.php/amag/issue/view/6)
+- **Citation evidence (PDF extract)**: [Download](citations/2021-riamag-garantias-procesales-extract.pdf)  
+- **Cited as**: *Torres, M. (2020). Informática forense y el camino de la Evidencia digital. Ciencia y Técnica Administrativa.*
+- **Country**: Peru
+
 
 ---
 
