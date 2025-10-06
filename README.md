@@ -53,7 +53,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Published in**: Open Access Repository (2025)  
 - **Language**: Spanish  
  **DOI**: [10.5281/zenodo.17278112](https://doi.org/10.5281/zenodo.17278112)  
-- **Author’s Copy PDF**: [Download](open-access/2025-saas-régimen-acceso-digital.pdf)
+- **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
 
 
 ## Preprints
