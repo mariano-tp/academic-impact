@@ -17,11 +17,12 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Published Papers
 
-### Evidencia Digital en Entornos Cloud Native: procedimientos forenses para arquitecturas distribuidas
+### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Author**: Mariano Enrique Torres Ponce  
-- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
+- **Publisher**: Ciencia y Técnica Administrativa 
 - **Published in**: Técnica Administrativa, Vol. 24 (2025)  
-- **ISSN**: 1666-1680  
+- **ISSN**: 1666-1680
+- **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)  
 - **Author’s Copy PDF**: [Download](papers/2025-evidencia-cloud-native.pdf)
@@ -29,9 +30,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
-- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
-- **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)  
+- **Publisher**: Ciencia y Técnica Administrativa
+- **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)
 - **ISSN**: 1666-1680
+- **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 - **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
@@ -40,9 +42,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
-- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
+- **Publisher**: Ciencia y Técnica Administrativa  
 - **Published in**: Técnica Administrativa (2020)  
-- **ISSN**: 1666-1680  
+- **ISSN**: 1666-1680
+- **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)  
 - **Author’s Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
@@ -51,9 +54,10 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
-- **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
+- **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)  
-- **ISSN**: 1666-1680  
+- **ISSN**: 1666-1680
+- **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
 - **Author’s Copy PDF**: [Download](papers/2019-derechos-ia.pdf)
@@ -65,6 +69,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-10-06
+- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17278112](https://doi.org/10.5281/zenodo.17278112)
 - **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
@@ -76,6 +81,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: SSRN (Social Science Research Network)
 - **Date of deposit**: 2025-09-10
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Preprint on SSRN)
 - **Language**: English    
 - **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  
 - **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
