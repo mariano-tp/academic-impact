@@ -45,6 +45,17 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author’s Copy PDF**: [Download](papers/2019-derechos-ia.pdf)
 
 
+## Open Access with DOI
+
+### Propiedad en transición. SaaS y el nuevo régimen de acceso digital
+- **Author**: Mariano Enrique Torres Ponce  
+- **Platform**: Zenodo  
+- **Published in**: Open Access Repository (2025)  
+- **Language**: Spanish  
+ **DOI**: [10.5281/zenodo.17278112](https://doi.org/10.5281/zenodo.17278112)  
+- **Author’s Copy PDF**: [Download](open-access/2025-saas-régimen-acceso-digital.pdf)
+
+
 ## Preprints
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
