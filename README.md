@@ -22,7 +22,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
 - **Published in**: Técnica Administrativa, Vol. 24 (2025)  
 - **ISSN**: 1666-1680  
-- **Date of publication**: 2025-10-15  
 - **Language**: Spanish  
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)  
 - **Author’s Copy PDF**: [Download](papers/2025-evidencia-cloud-native.pdf)
@@ -32,7 +31,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)  
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)  
-- **ISSN**: 1666-1680  
+- **ISSN**: 1666-1680
 - **Language**: Spanish  
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 - **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
@@ -63,19 +62,20 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Open Access with DOI
 
 ### Propiedad en transición. SaaS y el nuevo régimen de acceso digital
-- **Author**: Mariano Enrique Torres Ponce  
-- **Platform**: Zenodo  
-- **Published in**: Open Access Repository (2025)  
-- **Language**: Spanish  
- **DOI**: [10.5281/zenodo.17278112](https://doi.org/10.5281/zenodo.17278112)  
+- **Author**: Mariano Enrique Torres Ponce
+- **Repository**: Zenodo
+- **Date of deposit**: 2025-10-06
+- **Language**: Spanish
+- **DOI**: [10.5281/zenodo.17278112](https://doi.org/10.5281/zenodo.17278112)
 - **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
 
 
 ## Preprints
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
-- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana  
-- **Platform**: SSRN (Social Science Research Network), (2025)  
+- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
+- **Repository**: SSRN (Social Science Research Network)
+- **Date of deposit**: 2025-09-10
 - **Language**: English    
 - **DOI**: [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  
 - **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
