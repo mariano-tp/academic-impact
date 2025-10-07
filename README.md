@@ -94,7 +94,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Derecho y nuevas tecnologías
 - **Author / Editor**: Gonzalo Ana Dobratinich (dir.)
 - **Type**: Collective volume
-- **Publisher**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
+- **Publisher**: Universidad de Buenos Aires - Thomson Reuters / La Ley (2021)
 - **ISBN**: 978-987-03-4271-7
 - **Language**: Spanish
 - **Official listing**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)
