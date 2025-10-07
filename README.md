@@ -20,7 +20,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa 
-- **Published in**: Técnica Administrativa, Vol. 24 (2025)  
+- **Published in**: Técnica Administrativa, Vol. 24, Nº 4, Order: 2, Issue: 104 (2025)  
 - **ISSN**: 1666-1680
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
@@ -31,7 +31,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa
-- **Published in**: Técnica Administrativa, Vol. 24, Nº 3 (2025)
+- **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
 - **ISSN**: 1666-1680
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
