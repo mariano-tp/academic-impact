@@ -65,7 +65,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Open Access with DOI
 
-### Propiedad en transición. SaaS y el nuevo régimen de acceso digital
+### Propiedad en transición: SaaS y el nuevo régimen de acceso digital
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-10-06
