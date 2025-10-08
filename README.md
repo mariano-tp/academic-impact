@@ -65,6 +65,16 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Open Access with DOI
 
+### Inteligencia artificial en salud mental: Seguridad del paciente, ética y derecho
+- **Authors**: Mariano Enrique Torres Ponce, Sandra Susana Arroyo Giuliani
+- **Repository**: Zenodo
+- **Date of deposit**: 2025-10-08
+- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani (Open Access via Zenodo)
+- **Language**: Spanish
+- **DOI**: [10.5281/zenodo.17297096](https://doi.org/10.5281/zenodo.17297096)
+- **Author’s Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
+
+
 ### Propiedad en transición: SaaS y el nuevo régimen de acceso digital
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
