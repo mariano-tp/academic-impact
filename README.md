@@ -87,6 +87,16 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Preprints
 
+### Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services
+- **Authors**: Mariano Enrique Torres Ponce
+- **Repository**: SSRN (Social Science Research Network)
+- **Date of deposit**: 2025-09-29
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Preprint on SSRN)
+- **Language**: English
+- **DOI**: [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
+- **Author’s Copy PDF**: [Download](preprints/2025-cloud-native-dora.pdf)
+
+
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: SSRN (Social Science Research Network)
