@@ -28,7 +28,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author’s Copy PDF**: [Download](papers/2025-evidencia-cloud-native.pdf)
 
 
-### Creaciones con Inteligencia artificial: Criterios de titularidad y marco normativo
+### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
@@ -65,7 +65,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Open Access with DOI
 
-### Inteligencia artificial en salud mental: Seguridad del paciente, ética y derecho
+### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce, Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-10-08
@@ -75,7 +75,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author’s Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
 
 
-### Propiedad en transición: SaaS y el nuevo régimen de acceso digital
+### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-10-06
@@ -87,7 +87,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Preprints
 
-### Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework for Financial Services
+### Cloud-Native Resilience and DORA Compliance: A DevOps implementation framework for financial services
 - **Authors**: Mariano Enrique Torres Ponce
 - **Repository**: SSRN (Social Science Research Network)
 - **Date of deposit**: 2025-09-29
