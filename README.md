@@ -71,7 +71,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Date of deposit**: 2025-10-08
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani (Open Access via Zenodo)
 - **Language**: Spanish
-- **DOI**: [10.5281/zenodo.17297096](https://doi.org/10.5281/zenodo.17297096)
+- **DOI**: [10.5281/zenodo.17303350](https://doi.org/10.5281/zenodo.17303350)
 - **Author’s Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
 
 
@@ -81,7 +81,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Date of deposit**: 2025-10-06
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: Spanish
-- **DOI**: [10.5281/zenodo.17278112](https://doi.org/10.5281/zenodo.17278112)
+- **DOI**: [10.5281/zenodo.17303308](https://doi.org/10.5281/zenodo.17303308)
 - **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
 
 
