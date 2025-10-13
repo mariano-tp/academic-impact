@@ -88,7 +88,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
-- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
+- **Authors**: Mariano Enrique Torres Ponce, María Noel Arana
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-09-10
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Open Access via Zenodo)
