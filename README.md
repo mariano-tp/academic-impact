@@ -67,7 +67,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
-- **Authors**: Mariano Enrique Torres Ponce, Sandra Susana Arroyo Giuliani
+- **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-10-08
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani (Open Access via Zenodo)
@@ -88,7 +88,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
-- **Authors**: Mariano Enrique Torres Ponce, María Noel Arana
+- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: Zenodo
 - **Date of deposit**: 2025-09-10
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Open Access via Zenodo)
