@@ -73,7 +73,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani (Open Access via Zenodo)
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17303350](https://doi.org/10.5281/zenodo.17303350)
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5590730](https://doi.org/10.2139/ssrn.5590730)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5590730](https://doi.org/10.2139/ssrn.5590730)
 - **Author’s Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
 
 
@@ -94,7 +94,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Preprint on SSRN)
 - **Language**: English    
 - **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
 
 ## Preprints
