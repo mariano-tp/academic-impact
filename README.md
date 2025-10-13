@@ -95,7 +95,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English    
 - **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
-- **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
+- **Author’s Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
 
 ## Preprints
 
