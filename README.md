@@ -92,7 +92,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Date of deposit**: 2025-09-29
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: English
-- **DOI**: [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
+- **DOI**: [10.5281/zenodo.17344908](https://doi.org/10.5281/zenodo.17344908)
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author’s Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 
