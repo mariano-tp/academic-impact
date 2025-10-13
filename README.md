@@ -93,8 +93,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Date of deposit**: 2025-09-10
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Preprint on SSRN)
 - **Language**: English    
-- **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.2139/ssrn.5468846](https://doi.org/10.5281/zenodo.17344640)  
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)  
+- **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
+- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author’s Copy PDF**: [Download](preprints/2025-ai-us-healthcare.pdf)
 
 ## Preprints
