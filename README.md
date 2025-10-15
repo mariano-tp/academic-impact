@@ -80,7 +80,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
-- **Date of deposit**: 2025-10-06
+- **Year**: 2025
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17303308](https://doi.org/10.5281/zenodo.17303308)
@@ -89,7 +89,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Cloud-Native Resilience and DORA Compliance: A DevOps implementation framework for financial services
 - **Authors**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
-- **Date of deposit**: 2025-09-29
+- **Year**: 2025
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: English
 - **DOI**: [10.5281/zenodo.17344908](https://doi.org/10.5281/zenodo.17344908)
@@ -99,13 +99,22 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: Zenodo
-- **Date of deposit**: 2025-09-10
+- **Year**: 2025
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Open Access via Zenodo)
 - **Language**: English    
 - **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author’s Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
 
+
+### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
+- **Author**: Mariano Enrique Torres Ponce
+- **Repository**: Zenodo
+- **Year**: 2023
+- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **Language**: Spanish
+- **DOI**: [10.5281/zenodo.17350240](https://doi.org/10.5281/zenodo.17350240)
+- **Author’s Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
 
 ---
 
