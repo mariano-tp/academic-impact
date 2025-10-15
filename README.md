@@ -65,17 +65,15 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Open Access with DOI
 
-
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
-- **Date of deposit**: 2025-10-08
+- **Year**: 2025
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani (Open Access via Zenodo)
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17303350](https://doi.org/10.5281/zenodo.17303350)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5590730](https://doi.org/10.2139/ssrn.5590730)
 - **Author’s Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
-
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
 - **Author**: Mariano Enrique Torres Ponce
@@ -87,7 +85,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
 
 ### Cloud-Native Resilience and DORA Compliance: A DevOps implementation framework for financial services
-- **Authors**: Mariano Enrique Torres Ponce
+- **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Year**: 2025
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
@@ -105,7 +103,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author’s Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
-
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
