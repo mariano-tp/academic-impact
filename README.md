@@ -27,7 +27,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)  
 - **Author’s Copy PDF**: [Download](papers/2025-evidencia-cloud-native.pdf)
 
-
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa
@@ -38,8 +37,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 - **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
 
-
-
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa  
@@ -49,8 +46,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)  
 - **Author’s Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
-
-
 
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
@@ -114,7 +109,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author’s Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
 
 ---
-
 
 ## Book Chapters (as cited work)
 
