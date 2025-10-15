@@ -115,7 +115,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Year**: 2023
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: English
-- **DOI**: [10.5281/zenodo.17363578]((https://doi.org/10.5281/zenodo.17363578)
+- **DOI**: [10.5281/zenodo.17363578](https://doi.org/10.5281/zenodo.17363578)
 - **Author’s Copy PDF**: [Download](open-access/2023-sre-law-technological-risk.pdf)
 
 ---
