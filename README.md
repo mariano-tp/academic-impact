@@ -60,6 +60,16 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Open Access with DOI
 
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
+- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
+- **Repository**: Zenodo
+- **Year**: 2025
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Open Access via Zenodo)
+- **Language**: English    
+- **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
+- **Author’s Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
+
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
@@ -89,16 +99,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author’s Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
-- **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
-- **Repository**: Zenodo
-- **Year**: 2025
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Open Access via Zenodo)
-- **Language**: English    
-- **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
-- **Author’s Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
-
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
@@ -107,7 +107,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17350240](https://doi.org/10.5281/zenodo.17350240)
 - **Author’s Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
-
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
 - **Author**: Mariano Enrique Torres Ponce
