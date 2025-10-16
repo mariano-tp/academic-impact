@@ -89,7 +89,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17303308](https://doi.org/10.5281/zenodo.17303308)
 - **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
 
-### Cloud-Native Resilience and DORA Compliance: A DevOps implementation framework for financial services
+### Cloud-Native Resilience and DORA Compliance: A DevOps implementation framework for Financial Services
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Year**: 2025
