@@ -99,6 +99,15 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author’s Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 
+### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
+- **Author**: Mariano Enrique Torres Ponce
+- **Repository**: Zenodo
+- **Year**: 2025
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **Language**: English
+- **DOI**: [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)
+- **Author’s Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf) 
+
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
@@ -106,6 +115,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17350240](https://doi.org/10.5281/zenodo.17350240)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5603512](https://doi.org/10.2139/ssrn.5603512)
 - **Author’s Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
@@ -115,6 +125,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
 - **Language**: English
 - **DOI**: [10.5281/zenodo.17363578](https://doi.org/10.5281/zenodo.17363578)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5613230](https://doi.org/10.2139/ssrn.5613230)
 - **Author’s Copy PDF**: [Download](open-access/2023-sre-law-technological-risk.pdf)
 
 ---
