@@ -64,7 +64,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2025-10-09
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **DOI**: [10.5281/zenodo.17344908](https://doi.org/10.5281/zenodo.17344908)
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
@@ -74,7 +74,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
 - **Date**: 2025-06-03
-- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani (Open Access via Zenodo)
+- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17303350](https://doi.org/10.5281/zenodo.17303350)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5590730](https://doi.org/10.2139/ssrn.5590730)
@@ -84,7 +84,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2025-04-28
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **DOI**: [10.5281/zenodo.17423552](https://doi.org/10.5281/zenodo.17423552)
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5497878)
@@ -94,7 +94,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2025-04-16
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17303308](https://doi.org/10.5281/zenodo.17303308)
 - **Author’s Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
@@ -104,7 +104,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: Zenodo
 - **Date**: 2025-01-16
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana (Open Access via Zenodo)
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana
 - **Language**: English    
 - **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)  
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
@@ -115,7 +115,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2023-12-15
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **DOI**: [10.5281/zenodo.17350240](https://doi.org/10.5281/zenodo.17350240)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5603512](https://doi.org/10.2139/ssrn.5603512)
@@ -125,7 +125,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2023-02-07
-- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **DOI**: [10.5281/zenodo.17363578](https://doi.org/10.5281/zenodo.17363578)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5613230](https://doi.org/10.2139/ssrn.5613230)
