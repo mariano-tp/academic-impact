@@ -207,6 +207,20 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Cited as**: *ENRIQUE TORRES MARIANO, “Derechos y desafíos de la Inteligencia Artificial”*
 - **Country**: Spain
 
+---
+
+## Professional & Legal Media
+
+### La responsabilidad civil derivada del uso de inteligencia artificial
+- **Author**: María Patrizia Domingues Villarroel  
+- **Publisher**: ElDerecho – Lefebvre (Spain)  
+- **Section**: Tribuna profesional  
+- **Date**: 2022-07-01  
+- **Language**: Spanish  
+- **Official listing**: [Read online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)  
+- **Note**: Professional adaptation of the undergraduate thesis *“La responsabilidad civil derivada del uso de la inteligencia artificial”* (Universidad de La Laguna, 2021, RIULL), which cites *Torres Ponce, M. E., “Derechos y desafíos de la Inteligencia Artificial”*.
+
+
 
 ---
 
