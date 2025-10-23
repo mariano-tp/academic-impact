@@ -99,6 +99,17 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author’s Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 
+
+### Cloud-Native Resilience: DevOps and DORA in Financial Services
+- **Author**: Mariano Enrique Torres Ponce
+- **Repository**: Zenodo
+- **Year**: 2025
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce (Open Access via Zenodo)
+- **Language**: English
+- **DOI**: [[10.5281/zenodo.5497878](https://doi.org/10.5281/zenodo.5497878)
+- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
+- **Author’s Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
+- 
 ### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
