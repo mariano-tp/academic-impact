@@ -22,6 +22,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Publisher**: Ciencia y Técnica Administrativa 
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 4, Order: 2, Issue: 104 (2025)  
 - **ISSN**: 1666-1680
+- **Date**: 2025-10-15
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)  
@@ -32,16 +33,18 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
 - **ISSN**: 1666-1680
+- **Date**: 2025-07-15
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)  
 - **Author’s Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
 
 ### Informática Forense: El camino de la evidencia digital
-- **Author**: Mariano Enrique Torres Ponce  
-- **Publisher**: Ciencia y Técnica Administrativa  
-- **Published in**: Técnica Administrativa (2020)  
+- **Author**: Mariano Enrique Torres Ponce
+- **Publisher**: Ciencia y Técnica Administrativa 
+- **Published in**: Técnica Administrativa (2020)
 - **ISSN**: 1666-1680
+- **Date**: 2020-11-08
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)  
@@ -50,8 +53,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Derechos y desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce  
 - **Publisher**: Ciencia y Técnica Administrativa
-- **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)  
+- **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
 - **ISSN**: 1666-1680
+- **Date**: 2019-12-15
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish  
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)  
@@ -171,7 +175,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Citation evidence (PDF extract)**: [Download](citations/2021-garantias-procesales-extract.pdf)
 - **Cited as**: *Torres, M. (2020). Informática forense y el camino de la Evidencia digital. Ciencia y Técnica Administrativa.*
 - **Country**: Peru
-
 
 ---
 
