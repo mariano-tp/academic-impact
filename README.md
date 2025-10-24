@@ -135,6 +135,15 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5613230](https://doi.org/10.2139/ssrn.5613230)
 - **Author’s Copy PDF**: [Download](open-access/2023-sre-law-technological-risk.pdf)
 
+### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
+- **Author**: Mariano Enrique Torres Ponce  
+- **Repository**: Zenodo  
+- **Date**: 2022-08-22  
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
+- **Language**: Spanish  
+- **DOI**: [10.5281/zenodo.17438437](https://doi.org/10.5281/zenodo.17438437)  
+- **Author’s Copy PDF**: [Download](open-access/2022-del-panoptico-al-datapoint.pdf)  
+
 ---
 
 ## Book Chapters (as cited work)
