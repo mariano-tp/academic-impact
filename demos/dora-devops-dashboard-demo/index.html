@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DORA x DevOps — Demo (browser-only)</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>DORA x DevOps — Demo</h1>
+  <p>Simulador 100% en el navegador para ver cómo prácticas DevOps impactan en el cumplimiento DORA.</p>
+</header>
+
+<main>
+  <section class="grid">
+    <div class="card">
+      <h2>Parámetros técnicos</h2>
+      <div class="field"><label>Multi‑región activa (0–1)</label><input type="range" id="multiRegion" min="0" max="1" step="0.01" value="0.6"><output id="multiRegionOut">0.60</output></div>
+      <div class="field"><label>Inmutabilidad de backups (0–1)</label><input type="range" id="immutableBackups" min="0" max="1" step="0.01" value="0.5"><output id="immutableBackupsOut">0.50</output></div>
+      <div class="field"><label>Pruebas de resiliencia/chaos por trimestre</label><input type="range" id="chaosPerQuarter" min="0" max="12" step="1" value="2"><output id="chaosPerQuarterOut">2</output></div>
+      <div class="field"><label>Cobertura de monitoreo/alertas (0–1)</label><input type="range" id="monitoringCoverage" min="0" max="1" step="0.01" value="0.7"><output id="monitoringCoverageOut">0.70</output></div>
+      <div class="field"><label>Escaneo de vulnerabilidades continuo (0–1)</label><input type="range" id="vulnScanning" min="0" max="1" step="0.01" value="0.7"><output id="vulnScanningOut">0.70</output></div>
+      <div class="field"><label>SBOM + firma de artefactos CI/CD (0–1)</label><input type="range" id="sbomSigning" min="0" max="1" step="0.01" value="0.6"><output id="sbomSigningOut">0.60</output></div>
+      <div class="field"><label>Change failure rate (CFR %)</label><input type="range" id="cfr" min="0" max="100" step="1" value="20"><output id="cfrOut">20%</output></div>
+      <div class="field"><label>MTTR (horas)</label><input type="range" id="mttr" min="0" max="72" step="1" value="6"><output id="mttrOut">6 h</output></div>
+      <div class="field"><label>RTO objetivo (horas)</label><input type="range" id="rtoTarget" min="0" max="24" step="1" value="4"><output id="rtoTargetOut">4 h</output></div>
+      <div class="field"><label>RPO objetivo (minutos)</label><input type="range" id="rpoTarget" min="0" max="720" step="5" value="30"><output id="rpoTargetOut">30 min</output></div>
+      <div class="field"><label>Concentración de terceros (0=diversificado, 1=único)</label><input type="range" id="thirdPartyConcentration" min="0" max="1" step="0.01" value="0.5"><output id="thirdPartyConcentrationOut">0.50</output></div>
+      <div class="actions"><button id="presetConservador">Preset conservador</button><button id="presetAgresivo">Preset agresivo</button><button id="exportJson">Exportar JSON</button></div>
+    </div>
+
+    <div class="card">
+      <h2>Score por pilar DORA</h2>
+      <canvas id="radar"></canvas>
+      <div class="legend"><span class="pill">Riesgo ICT</span><span class="pill">Incidentes</span><span class="pill">Testing</span><span class="pill">Terceros</span><span class="pill">Info sharing</span></div>
+      <p class="muted">Score [0–100] aproximado con fines didácticos.</p>
+    </div>
+
+    <div class="card">
+      <h2>Métricas clave</h2>
+      <canvas id="bars"></canvas>
+      <p class="muted">Métricas operativas reescaladas a 0–100 para comparar.</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Interpretación</h2>
+    <ul>
+      <li>Riesgo ICT: monitoreo, escaneo, SBOM/firmas, CFR, MTTR.</li>
+      <li>Incidentes: MTTR vs RTO, cobertura de alertas, ejercicios.</li>
+      <li>Testing: caos por trimestre, multi‑región, backups inmutables.</li>
+      <li>Terceros: concentración y controles de supply chain.</li>
+      <li>Info sharing: aproximado por cobertura y drills.</li>
+    </ul>
+  </section>
+</main>
+
+<footer><p>MIT — Demo estático para GitHub Pages.</p></footer>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Del Panóptico al Datapoint — Demo de vigilancia por arquitectura</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+</head>
+<body>
+<header>
+  <h1>Del Panóptico al Datapoint</h1>
+  <p>Demostración interactiva de <strong>vigilancia por arquitectura</strong>: modificá topología, RBAC, logging y segmentación de red para ver cómo cambia la <em>capacidad de observación</em> sobre los datos.</p>
+</header>
+
+<main>
+  <section class="controls card">
+    <div class="row">
+      <label>Centralización (0=descentralizada, 1=centralizada)
+        <input type="range" id="centralization" min="0" max="1" step="0.01" value="0.6">
+      </label>
+      <output id="centralizationOut">0.60</output>
+    </div>
+    <div class="row">
+      <label>RBAC (0=permisivo, 1=estricto)
+        <input type="range" id="rbac" min="0" max="1" step="0.01" value="0.5">
+      </label>
+      <output id="rbacOut">0.50</output>
+    </div>
+    <div class="row">
+      <label>Logging/Observabilidad (0=bajo, 1=alto)
+        <input type="range" id="logging" min="0" max="1" step="0.01" value="0.7">
+      </label>
+      <output id="loggingOut">0.70</output>
+    </div>
+    <div class="row">
+      <label>Segmentación de red (0=plana, 1=segmentada)
+        <input type="range" id="segmentation" min="0" max="1" step="0.01" value="0.4">
+      </label>
+      <output id="segmentationOut">0.40</output>
+    </div>
+
+    <div class="row buttons">
+      <button id="preset-low">Escenario: Baja vigilancia</button>
+      <button id="preset-high">Escenario: Alta vigilancia</button>
+      <button id="export">Exportar snapshot JSON</button>
+    </div>
+  </section>
+
+  <section class="viz card">
+    <div class="status">
+      <div>Índice de vigilancia: <strong id="score">0.00</strong></div>
+      <div class="muted">El índice estima la capacidad efectiva de observación sobre el dato de usuario según la arquitectura.</div>
+    </div>
+    <svg id="graph" width="900" height="520" role="img" aria-label="Grafo de arquitectura"></svg>
+    <div class="legend">
+      <span class="dot user"></span> Usuario/Cliente
+      <span class="dot data"></span> Dato sensible
+      <span class="dot control"></span> Nodos de control (Admin/Monitor)
+      <span class="dot infra"></span> Nodos de infraestructura
+    </div>
+  </section>
+
+  <section class="explain card">
+    <h2>Cómo leer el gráfico</h2>
+    <p>El nodo “Dato” representa la información sensible. Los enlaces muestran posibles flujos de observación o acceso. Los colores indican el tipo de nodo. El tamaño del borde del “Dato” crece con el índice de vigilancia (más exposición efectiva).</p>
+    <p>El índice combina cuatro factores:</p>
+    <ul>
+      <li>Centralización: refuerza rutas hacia un “centro” (facilita vigilancia).</li>
+      <li>RBAC: reglas estrictas reducen visibilidad desde nodos de control.</li>
+      <li>Logging: mayor observabilidad aumenta capacidad de inspección indirecta.</li>
+      <li>Segmentación: redes segmentadas bloquean parte de las rutas.</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>Código con licencia MIT. Demo 100% client-side (ideal para GitHub Pages).</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

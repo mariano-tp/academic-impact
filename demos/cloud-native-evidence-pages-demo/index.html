@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cloud‑Native Evidence (Browser‑only)</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- JSZip and FileSaver from CDN for download -->
+  <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Cloud‑Native Evidence Demo (GitHub Pages)</h1>
+    <p>Prototipo 100% en el navegador: registra consentimiento e ingestión, genera un log encadenado por hash y permite descargar un paquete de evidencia.</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Consentimiento</h2>
+      <form id="consent-form">
+        <label>Subject ID
+          <input type="text" id="c-subject" required placeholder="user-123">
+        </label>
+        <label>Scope
+          <input type="text" id="c-scope" required placeholder="telemedicina:consulta">
+        </label>
+        <label>Granted
+          <select id="c-granted">
+            <option value="true" selected>true</option>
+            <option value="false">false</option>
+          </select>
+        </label>
+        <button type="submit">Registrar consentimiento</button>
+      </form>
+      <pre id="consent-out"></pre>
+    </section>
+
+    <section class="card">
+      <h2>Ingesta</h2>
+      <form id="ingest-form">
+        <label>Actor
+          <input type="text" id="i-actor" required placeholder="service-A">
+        </label>
+        <label>Resource
+          <input type="text" id="i-resource" required placeholder="record-001">
+        </label>
+        <label>Payload (JSON)
+          <textarea id="i-payload" rows="4" placeholder='{"bp":"120/80"}'></textarea>
+        </label>
+        <button type="submit">Registrar ingesta</button>
+      </form>
+      <pre id="ingest-out"></pre>
+    </section>
+
+    <section class="card">
+      <h2>Log de auditoría</h2>
+      <div class="actions">
+        <button id="btn-clear">Borrar log</button>
+        <button id="btn-export">Descargar evidencia</button>
+      </div>
+      <p class="muted">Cadena root (último hash): <span id="chain-root">(vacío)</span></p>
+      <pre id="log-view"></pre>
+    </section>
+  </main>
+
+  <footer>
+    <p>Código con licencia MIT. Funciona offline (LocalStorage). Ideal para GitHub Pages.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
