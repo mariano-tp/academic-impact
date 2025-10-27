@@ -28,6 +28,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Defines forensic methodology for evidence preservation in cloud-native architectures, addressing volatility, traceability, and procedural validity under distributed infrastructures.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)
 - **Author's Copy PDF**: [Download](papers/2025-evidencia-cloud-native.pdf)
+- **Interactive Supplementary Material**: [View online](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) . This browser-based demo complements the paper *Digital Evidence in Cloud-Native Environments: Forensic Procedures for Distributed Architectures*.  
+It simulates a hash-chained audit log and allows downloading a reproducible evidence package in JSON format.
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce
