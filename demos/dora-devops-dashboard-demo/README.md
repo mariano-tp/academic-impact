@@ -1,20 +1,21 @@
-DORA x DevOps — Demo (GitHub Pages)
+**DORA x DevOps - Demo (GitHub Pages)**
 
-Qué es
-Un simulador 100% en el navegador que traduce prácticas DevOps en señales de cumplimiento DORA. Ajustá parámetros (multi‑región, backups inmutables, caos por trimestre, monitoreo, SBOM/firmas, CFR, MTTR, RTO/RPO, concentración de terceros) y mirá el score por pilar y global.
+Overview
+A fully browser-based simulator that translates DevOps practices into indicators of DORA compliance.  
+Adjust the parameters (multi-region configuration, immutable backups, quarterly chaos testing, monitoring coverage, SBOM and artefact signing, CFR, MTTR, RTO/RPO, and third-party concentration) and observe both pillar-specific and overall scores.
 
-Cómo desplegar
-1) Subí estos archivos a un repositorio (rama main).
-2) Settings → Pages → Deploy from a branch → main / root.
-3) Abrí la URL de Pages.
+Deployment  
+1) Upload these files to a repository (main branch).
+2) Go to *Settings → Pages → Deploy from a branch → main / root.*
+3) Open the resulting GitHub Pages URL.
 
-Uso
-1) Mové los deslizadores o cargá un preset.
-2) Revisá el radar y la barra de “Global”.
-3) Exportá un JSON con parámetros y scores.
+Usage  
+1) Move the sliders or load one of the preset configurations.  
+2) Review the radar chart and the “Global” bar to interpret overall performance.  
+3) Export a JSON file containing the selected parameters and computed scores.
 
-Nota
-Modelo pedagógico. No reemplaza una evaluación formal pero ayuda a alinear prácticas con objetivos de resiliencia bajo DORA.
+Note  
+This is a pedagogical model. It does not replace a formal compliance assessment but helps align operational practices with the resilience objectives defined under DORA.
 
-Licencia
-MIT.
+Licence  
+MIT Licence.
