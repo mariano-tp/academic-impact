@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cloud-Native Evidence Demo (GitHub Pages)</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+<header>
+  <h1>Cloud-Native Evidence Demo (GitHub Pages)</h1>
+  <p>Prototipo 100 % ejecutado en el navegador. Este demo acompaña el paper 
+  <em>“Evidencia digital en entornos cloud-native: procedimientos forenses para arquitecturas distribuidas”</em>,
+  publicado en <em>Técnica Administrativa</em> (2025). 
+  Ilustra una metodología forense para el registro y preservación de evidencia digital en infraestructuras distribuidas,
+  mediante una cadena de eventos encadenada por hash que puede descargarse en formato JSON para verificación posterior.</p>
+  <p><strong>Interactive Supplementary Material.</strong> 
+  This browser-only demo complements the paper 
+  <em>“Digital Evidence in Cloud-Native Environments: Forensic Procedures for Distributed Architectures”</em>. 
+  It simulates a hash-chained audit log, illustrating how distributed evidence can be preserved, verified, 
+  and reproduced without relying on backend infrastructure.</p>
+</header>
+
+<div class="card" style="max-width:960px;margin:12px auto;">
+  <div style="display:flex;gap:8px;flex-wrap:wrap;">
+    <button id="btn-fill-example">Autollenar ejemplo</button>
+    <button id="btn-gen-payload">Generar payload de ejemplo</button>
+    <button id="btn-run-demo">Ejecutar demo completa</button>
+    <span id="helper-status" style="margin-left:auto;color:#6b7280;"></span>
+  </div>
+</div>
+
+<main>
+  <section class="card">
+    <h2>Consentimiento</h2>
+    <form id="consent-form">
+      <label>Subject ID <input id="c-subject" required></label>
+      <label>Scope <input id="c-scope" required></label>
+      <label>Granted <input id="c-granted" value="true"></label>
+      <button type="submit">Registrar consentimiento</button>
+    </form>
+  </section>
+
+  <section class="card">
+    <h2>Ingesta</h2>
+    <form id="ingest-form">
+      <label>Actor <input id="i-actor" required></label>
+      <label>Resource <input id="i-resource" required></label>
+      <label>Payload (JSON)<textarea id="i-payload" rows="3" required></textarea></label>
+      <button type="submit">Registrar ingesta</button>
+    </form>
+  </section>
+
+  <section class="card">
+    <h2>Log de auditoría</h2>
+    <div class="actions" style="margin-bottom:8px;">
+      <button id="btn-view-table">Ver tabla</button>
+      <button id="btn-view-json">Ver JSON</button>
+    </div>
+    <div id="log-table" style="display:none;overflow:auto;border:1px solid #e5e7eb;border-radius:10px;">
+      <table style="width:100%;border-collapse:collapse;font-size:13px;">
+        <thead>
+          <tr>
+            <th style="text-align:left;padding:8px;border-bottom:1px solid #e5e7eb;">ts</th>
+            <th style="text-align:left;padding:8px;border-bottom:1px solid #e5e7eb;">type</th>
+            <th style="text-align:left;padding:8px;border-bottom:1px solid #e5e7eb;">hash</th>
+            <th style="text-align:left;padding:8px;border-bottom:1px solid #e5e7eb;">prev</th>
+            <th style="text-align:left;padding:8px;border-bottom:1px solid #e5e7eb;">data</th>
+          </tr>
+        </thead>
+        <tbody id="log-tbody"></tbody>
+      </table>
+    </div>
+    <pre id="log-view" class="log"></pre>
+    <p><button id="btn-clear">Borrar log</button> <button id="btn-download">Descargar evidencia</button></p>
+    <p id="root-hash"></p>
+  </section>
+</main>
+
+<footer><p>Código con licencia MIT. Funciona offline (LocalStorage). Ideal para GitHub Pages.</p></footer>
+</body>
+</html>

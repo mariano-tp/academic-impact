@@ -1,0 +1,11 @@
+body{font-family:system-ui,Segoe UI,Roboto,Ubuntu,Arial,sans-serif;margin:0;background:#fafafa;color:#111;line-height:1.4}
+header{background:#f5f5f7;padding:20px;border-bottom:1px solid #e5e7eb}
+h1{margin-top:0}
+main{max-width:960px;margin:0 auto;padding:16px}
+.card{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:16px;margin:16px 0;box-shadow:0 1px 2px rgba(0,0,0,0.05)}
+label{display:block;margin-bottom:8px}
+input,textarea{width:100%;padding:6px;margin-top:4px;border:1px solid #ccc;border-radius:6px;font-family:inherit}
+button{padding:8px 12px;border:1px solid #111;background:#111;color:#fff;border-radius:8px;cursor:pointer}
+button:hover{opacity:.9}
+pre.log{background:#111;color:#eee;padding:10px;border-radius:8px;overflow:auto;font-size:12px}
+#helper-status{font-size:13px}
