@@ -28,7 +28,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Defines forensic methodology for evidence preservation in cloud-native architectures, addressing volatility, traceability, and procedural validity under distributed infrastructures.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)
 - **Author's Copy PDF**: [Download](papers/2025-evidencia-cloud-native.pdf)
-- **Interactive supplementary material**: [View online](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) . This browser-based demo complements the paper *Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas*.  It simulates a hash-chained audit log and allows downloading a reproducible evidence package in JSON format.
+- **Interactive supplementary material**: [Cloud-Native Evidence Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) . This browser-based demo complements the paper *Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas*.  It simulates a hash-chained audit log and allows downloading a reproducible evidence package in JSON format.
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Author**: Mariano Enrique Torres Ponce
@@ -80,7 +80,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17344908](https://doi.org/10.5281/zenodo.17344908)
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
-- **Interactive supplementary material**: [View online](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
+- **Interactive supplementary material**: [DORA x DevOps - Interactive Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
