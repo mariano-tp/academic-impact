@@ -89,7 +89,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
 - **Language**: English  
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
-- **DOI**: [10.5281/zenodo.17453922](https://doi.org/10.5281/zenodo.17453922)  
+- **DOI**: [10.5281/zenodo.17453922](https://doi.org/10.5281/zenodo.17479260)  
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
 - **Author’s Copy PDF**: [Download](open-access/2025-open-source-cra.pdf)
 
