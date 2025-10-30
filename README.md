@@ -136,7 +136,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
 - **DOI**: [10.5281/zenodo.17484092](https://doi.org/10.5281/zenodo.17484092)  
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
-- **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra)
+- **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra.pdf)
 
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
