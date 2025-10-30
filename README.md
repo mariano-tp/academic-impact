@@ -82,17 +82,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 - **Interactive supplementary material**: [DORA x DevOps - Interactive Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
 
-### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
-- **Author**: Mariano Enrique Torres Ponce  
-- **Repository**: Zenodo  
-- **Date**: 2025-08-06  
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
-- **Language**: English  
-- **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
-- **DOI**: [10.5281/zenodo.17453922](https://doi.org/10.5281/zenodo.17479260)  
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
-- **Author’s Copy PDF**: [Download](open-access/2025-open-source-cra.pdf)
-
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
@@ -136,6 +125,19 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author's Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
+
+
+### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
+- **Author**: Mariano Enrique Torres Ponce  
+- **Repository**: Zenodo  
+- **Date**: 2024-11-11  
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
+- **Language**: English  
+- **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
+- **DOI**: [10.5281/zenodo.17484092](https://doi.org/10.5281/zenodo.17484092)  
+- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
+- **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra)
+
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
