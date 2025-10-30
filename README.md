@@ -105,16 +105,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5497878)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
 
-### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
-- **Author**: Mariano Enrique Torres Ponce
-- **Repository**: Zenodo
-- **Date**: 2025-04-16
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
-- **Language**: Spanish
-- **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
-- **DOI**: [10.5281/zenodo.17303308](https://doi.org/10.5281/zenodo.17303308)
-- **Author's Copy PDF**: [Download](open-access/2025-saas-regimen-acceso-digital.pdf)
-
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: Zenodo
@@ -138,6 +128,16 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
 - **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra.pdf)
 
+
+### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
+- **Author**: Mariano Enrique Torres Ponce
+- **Repository**: Zenodo
+- **Date**: 2024-07-24
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
+- **Language**: Spanish
+- **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
+- **DOI**: [10.5281/zenodo.17303308](https://doi.org/10.5281/zenodo.17489148)
+- **Author's Copy PDF**: [Download](open-access/2024-saas-regimen-acceso-digital.pdf)
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
