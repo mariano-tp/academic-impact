@@ -109,13 +109,13 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Repository**: Zenodo
-- **Date**: 2025-01-16
+- **Date**: 2024-12-20
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
-- **Author's Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
+- **Author's Copy PDF**: [Download](open-access/2024-ai-us-healthcare.pdf)
 
 
 ### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
