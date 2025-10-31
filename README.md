@@ -77,7 +77,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Presents a regulatory–technical framework integrating DORA compliance with DevOps and resilience engineering practices in the financial sector.
-- **DOI**: [10.5281/zenodo.17344908](https://doi.org/10.5281/zenodo.17344908)
+- **DOI**: [10.5281/zenodo.17344907](https://doi.org/10.5281/zenodo.17344907)
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 - **Interactive supplementary material**: [DORA x DevOps - Interactive Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
@@ -101,7 +101,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
-- **DOI**: [10.5281/zenodo.17423552](https://doi.org/10.5281/zenodo.17423552)
+- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5497878)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
 
@@ -112,7 +112,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & María Noel Arana
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
-- **DOI**: [10.5281/zenodo.17344640](https://doi.org/10.5281/zenodo.17344640)
+- **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
 - **Author's Copy PDF**: [Download](open-access/2025-ai-us-healthcare.pdf)
 
@@ -124,7 +124,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
 - **Language**: English  
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
-- **DOI**: [10.5281/zenodo.17484092](https://doi.org/10.5281/zenodo.17484092)  
+- **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)  
 - **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
 - **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra.pdf)
 
@@ -146,7 +146,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
-- **DOI**: [10.5281/zenodo.17350240](https://doi.org/10.5281/zenodo.17350240)
+- **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5603512](https://doi.org/10.2139/ssrn.5603512)
 - **Author's Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
 
@@ -157,7 +157,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Introduces the concept of reliability as a legal and ethical standard for operational governance, bridging SRE and technological accountability.
-- **DOI**: [10.5281/zenodo.17363578](https://doi.org/10.5281/zenodo.17363578)
+- **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5613230](https://doi.org/10.2139/ssrn.5613230)
 - **Author's Copy PDF**: [Download](open-access/2023-sre-law-technological-risk.pdf)
 
@@ -168,7 +168,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: Spanish
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
-- **DOI**: [10.5281/zenodo.17438437](https://doi.org/10.5281/zenodo.17438437)
+- **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
 - **Author's Copy PDF**: [Download](open-access/2022-del-panoptico-al-datapoint.pdf)
 
 ---
