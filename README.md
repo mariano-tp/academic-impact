@@ -10,6 +10,7 @@ Index-verified citations (Google Scholar) appear only in **Google Scholar Citati
 `preprints/` - Working papers and early drafts
 `citations/` - Citation evidence (PDF extracts)
 `press/` - Media mentions
+`demos/` - Interactive materials and implementation prototypes linked to specific papers
 
 It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.
 
