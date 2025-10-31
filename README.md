@@ -103,7 +103,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5497878)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5497878)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
@@ -126,7 +126,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English  
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)  
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
 - **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra.pdf)
 
 
@@ -138,6 +138,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5687822](https://doi.org/10.2139/ssrn.5687822)  
 - **Author's Copy PDF**: [Download](open-access/2024-saas-regimen-acceso-digital.pdf)
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
