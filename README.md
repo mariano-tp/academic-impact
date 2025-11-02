@@ -79,7 +79,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English
 - **Abstract**: Presents a regulatory–technical framework integrating DORA compliance with DevOps and resilience engineering practices in the financial sector.
 - **DOI**: [10.5281/zenodo.17344907](https://doi.org/10.5281/zenodo.17344907)
-- **Parallel version**: Available also on SSRN – [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
+- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 - **Interactive supplementary material**: [DORA x DevOps - Interactive Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
 
@@ -178,7 +178,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana  
 - **Repository**: Zenodo  
 - **Date**: 2021-11-23  
-- **License**: CC BY-NC-ND 4.0 – © 2021 María Noel Arana &  Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 - © 2021 María Noel Arana &  Mariano Enrique Torres Ponce
 - **Language**: English  
 - **Abstract**: Analyzes the transformation of medical responsibility under telemedicine and digital health during the COVID-19 pandemic. The study examines how digital infrastructures reshape clinical judgment, ethical accountability, and legal frameworks, highlighting the convergence of medicine, law, and technology in redefining care.  
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
