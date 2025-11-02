@@ -181,7 +181,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 – © 2021 María Noel Arana &  Mariano Enrique Torres Ponce
 - **Language**: English  
 - **Abstract**: Analyzes the transformation of medical responsibility under telemedicine and digital health during the COVID-19 pandemic. The study examines how digital infrastructures reshape clinical judgment, ethical accountability, and legal frameworks, highlighting the convergence of medicine, law, and technology in redefining care.  
-- **DOI**: [10.5281/zenodo.17344676](https://doi.org/10.5281/zenodo.17344676)  
+- **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)  
 - - **Author’s Copy PDF**: [Download](open-access/2021-digital-medicine-health-emergencies.pdf)
 
 ---
