@@ -46,13 +46,14 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa
-- **Published in**: Técnica Administrativa (2020)
+- **Published in**: Técnica Administrativa, Vol. 19 (2020)
 - **ISSN**: 1666-1680
 - **Date**: 2020-11-08
 - **License**: CC BY 4.0 - © Ciencia y Técnica Administrativa (CyTA)
 - **Language**: Spanish
 - **Abstract**: Reviews the evolution of digital forensics and chain of custody, focusing on integrity verification and procedural transparency in electronic evidence.
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
+- **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Author's Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
 
 ### Derechos y desafíos de la Inteligencia Artificial
