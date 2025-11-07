@@ -174,6 +174,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
 - **Parallel version**: Available also on SSRN - [10.2139/ssrn.5687482](https://doi.org/10.2139/ssrn.5687482)
+- **Permanent URI (Internet Archive)**: [https://archive.org/details/el-panoptico-al-datapoint-vigilancia-y-control-por-arquitectura-2022](https://archive.org/details/el-panoptico-al-datapoint-vigilancia-y-control-por-arquitectura-2022)  
 - **Author's Copy PDF**: [Download](open-access/2022-del-panoptico-al-datapoint.pdf)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility
