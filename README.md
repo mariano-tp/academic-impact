@@ -81,7 +81,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English
 - **Abstract**: Presents a regulatory–technical framework integrating DORA compliance with DevOps and resilience engineering practices in the financial sector.
 - **DOI**: [10.5281/zenodo.17344907](https://doi.org/10.5281/zenodo.17344907)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5541800)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5541800)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
 - **Interactive supplementary material**: [DORA x DevOps - Interactive Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
 
@@ -93,7 +93,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Analyzes ethical and legal aspects of AI use in mental health, focusing on patient safety, accountability, and algorithmic bias in clinical contexts.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5590730](https://doi.org/10.2139/ssrn.5590730)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5590730)
 - **Author's Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
 
 
@@ -105,7 +105,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5541800](https://doi.org/10.2139/ssrn.5497878)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5497878)
 - **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
@@ -116,7 +116,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5468846](https://doi.org/10.2139/ssrn.5468846)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5468846)
 - **Author's Copy PDF**: [Download](open-access/2024-ai-us-healthcare.pdf)
 
 
@@ -128,7 +128,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English  
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)  
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5552760](https://doi.org/10.2139/ssrn.5552760)  
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5552760)  
 - **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra.pdf)
 
 
@@ -140,7 +140,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5687822](https://doi.org/10.2139/ssrn.5687822)  
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5687822)  
 - **Author's Copy PDF**: [Download](open-access/2024-saas-regimen-acceso-digital.pdf)
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
@@ -163,7 +163,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English
 - **Abstract**: Introduces the concept of reliability as a legal and ethical standard for operational governance, bridging SRE and technological accountability.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5613230](https://doi.org/10.2139/ssrn.5613230)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5613230)
 - **Author's Copy PDF**: [Download](open-access/2023-sre-law-technological-risk.pdf)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
@@ -187,7 +187,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English  
 - **Abstract**: Analyzes the transformation of medical responsibility under telemedicine and digital health during the COVID-19 pandemic. The study examines how digital infrastructures reshape clinical judgment, ethical accountability, and legal frameworks, highlighting the convergence of medicine, law, and technology in redefining care.  
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5695082](https://doi.org/10.2139/ssrn.5695082)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5695082)
 - **Author’s Copy PDF**: [Download](open-access/2021-digital-medicine-health-emergencies.pdf)
 
 ---
