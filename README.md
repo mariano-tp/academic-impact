@@ -151,7 +151,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
-- **Parallel version**: Available also on SSRN - [10.2139/ssrn.5603512](https://doi.org/10.2139/ssrn.5603512)
+- - **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144860501/El_impacto_de_la_adopción_de_Kubernetes_y_GitOps_en_la_gobernanza_del_cambio_un_análisis_desde_el_paradigma_post_COVID)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/impacto-adopcion-kubernetes-gitops-gobernanza-cambio-2023)
 - **Author's Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
@@ -174,7 +175,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.  
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)  
 - **Parallel version**: Available also on Academia.edu – [https://www.academia.edu/144846179/Del_Panóptico_al_Datapoint_Vigilancia_y_control_por_arquitectura](https://www.academia.edu/144846179/Del_Panóptico_al_Datapoint_Vigilancia_y_control_por_arquitectura)  
-- **Permanent URI (Internet Archive)**: [https://archive.org/details/el-panoptico-al-datapoint-vigilancia-y-control-por-arquitectura-2022](https://archive.org/details/el-panoptico-al-datapoint-vigilancia-y-control-por-arquitectura-2022)  
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/el-panoptico-al-datapoint-vigilancia-y-control-por-arquitectura-2022)
 - **Author’s Copy PDF**: [Download](open-access/2022-del-panoptico-al-datapoint.pdf)
 
 
