@@ -93,8 +93,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Analyzes ethical and legal aspects of AI use in mental health, focusing on patient safety, accountability, and algorithmic bias in clinical contexts.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
-- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5590730)
-- **Author's Copy PDF**: [Download](open-access/2025-ia-salud-mental-seguridad-etica-derecho.pdf)
+- **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144846460/Inteligencia_Artificial_en_Salud_Mental_Seguridad_del_paciente_%C3%A9tica_y_derecho)  
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
 
 ### Cloud-Native Resilience: DevOps and DORA in Financial Services
