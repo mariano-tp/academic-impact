@@ -145,7 +145,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)  
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
-### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
+### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2023-12-15
