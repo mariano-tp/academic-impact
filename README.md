@@ -89,7 +89,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Repository**: Zenodo
 - **Date**: 2025-06-03
-- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: Spanish
 - **Abstract**: Analyzes ethical and legal aspects of AI use in mental health, focusing on patient safety, accountability, and algorithmic bias in clinical contexts.
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
