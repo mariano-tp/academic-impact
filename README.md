@@ -140,8 +140,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
-- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5687822)  
-- **Author's Copy PDF**: [Download](open-access/2024-saas-regimen-acceso-digital.pdf)
+- **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144868571/Propiedad_en_Transici%C3%B3n_SaaS_y_el_nuevo_r%C3%A9gimen_de_acceso_digital)  
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)  
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
 ### El impacto de la adopción de Kubernetes y GitOps en la gobernanza del cambio: un análisis desde el paradigma post-COVID
 - **Author**: Mariano Enrique Torres Ponce
