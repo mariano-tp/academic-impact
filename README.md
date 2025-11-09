@@ -166,7 +166,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Introduces the concept of reliability as a legal and ethical standard for operational governance, bridging SRE and technological accountability.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5613230)
-- **Author's Copy PDF**: [Download](open-access/2023-sre-law-technological-risk.pdf)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
 - **Author**: Mariano Enrique Torres Ponce  
