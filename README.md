@@ -161,7 +161,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2023-02-07
-- **License**: CC BY 4.0 - © Mariano Enrique Torres Ponce
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Introduces the concept of reliability as a legal and ethical standard for operational governance, bridging SRE and technological accountability.
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
