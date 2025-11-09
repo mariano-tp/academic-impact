@@ -154,8 +154,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
 - **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144860501/El_impacto_de_la_adopción_de_Kubernetes_y_GitOps_en_la_gobernanza_del_cambio_un_análisis_desde_el_paradigma_post_COVID)
-- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/impacto-adopcion-kubernetes-gitops-gobernanza-cambio-2023)
-- **Author's Copy PDF**: [Download](open-access/2023-kubernetes-gitops-gobernanza.pdf)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility
 - **Author**: Mariano Enrique Torres Ponce
