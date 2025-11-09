@@ -191,7 +191,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Analyzes the transformation of medical responsibility under telemedicine and digital health during the COVID-19 pandemic. The study examines how digital infrastructures reshape clinical judgment, ethical accountability, and legal frameworks, highlighting the convergence of medicine, law, and technology in redefining care.  
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
 - **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5695082)
-- **Author’s Copy PDF**: [Download](open-access/2021-digital-medicine-health-emergencies.pdf)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
+- **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 ---
 
