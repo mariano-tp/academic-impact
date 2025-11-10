@@ -56,7 +56,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Author's Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
 
-### Derechos y desafíos de la Inteligencia Artificial
+### Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
@@ -190,7 +190,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Book Chapters (as cited work)
 
-### Derecho y nuevas tecnologías
+### Derecho y Nuevas Tecnologías
 - **Author / Editor**: Gonzalo Ana Dobratinich (dir.)
 - **Type**: Collective volume
 - **Publisher**: Universidad de Buenos Aires - Thomson Reuters / La Ley (2021)
@@ -205,7 +205,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Academic Journals (as cited work)
 
-### La aplicación de técnicas de investigación en la detección y persecución de delitos económicos
+### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Author**: José Heriberto García Peña
 - **Publisher**: Fundación de Cultura Universitaria
 - **Published in**: Revista Informática y Derecho, Nº 11 (2022), pp. 67–83
@@ -216,7 +216,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Cited as**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*
 - **Country**: Uruguay
 
-### Garantías procesales penales en la evidencia digital
+### Garantías Procesales Penales en la Evidencia Digital
 - **Author**: Gladys Liliana Gonzáles Obando
 - **Publisher**: Academia de la Magistratura
 - **Published in**: Revista de Investigación de la Academia de la Magistratura, Vol. 3, No. 5 (Jul–Dec 2021), pp. 165–174
@@ -231,7 +231,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Theses & Institutional References (as cited work)
 
-### La inteligencia artificial frente a los derechos humanos: Retos y expectativas
+### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Author**: Juan Andrés Meza Sánchez
 - **Institution**: Universidad Nacional Autónoma de México (UNAM) - Facultad de Derecho
 - **Type**: Master's Thesis
@@ -242,7 +242,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Cited as**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*
 - **Country**: Mexico
 
-### La responsabilidad civil derivada del uso de la inteligencia artificial
+### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
 - **Author**: María Patrizia Domingues Villarroel
 - **Institution**: Universidad de La Laguna (ULL) - Facultad de Derecho
 - **Type**: Undergraduate Final Project (TFG)
@@ -257,7 +257,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Professional & Legal Media
 
-### La responsabilidad civil derivada del uso de inteligencia artificial
+### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
 - **Author**: María Patrizia Domingues Villarroel
 - **Publisher**: ElDerecho - Lefebvre
 - **Section**: Tribuna profesional
@@ -271,7 +271,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Press Mentions
 
-### Inteligencia artificial: ¿Hacia un mundo feliz o distópico?
+### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
 - **Publisher**: Venezuela News – *Expediente.News*
 - **Date**: 2023-03-10
 - **Language**: Spanish
@@ -284,7 +284,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Google Scholar Citations
 [See profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ)
 
-### Derechos y desafíos de la Inteligencia Artificial (2019)
+### Derechos y Desafíos de la Inteligencia Artificial (2019)
 - **Citations**: 8 (as of Oct 2025)
 - **Selected citations**:
 - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
@@ -292,7 +292,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ---
 
-### Informática forense: el camino de la evidencia digital (2020)
+### Informática Forense: El camino de la evidencia digital (2020)
 - **Citations**: 2 (as of Oct 2025)
 - **Selected citations**:
 - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
