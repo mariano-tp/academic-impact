@@ -56,7 +56,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Reviews the evolution of digital forensics and chain of custody, focusing on integrity verification and procedural transparency in electronic evidence.
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
-- **Author's Copy PDF**: [Download](papers/2020-evidencia-digital.pdf)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508884)
+- **Author's Copy PDF**: [Download](papers/TorresPonce_2020_Informática-Forense-y-Evidencia-Digital.pdf)
 
 ### Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce
