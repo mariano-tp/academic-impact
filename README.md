@@ -43,7 +43,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Explores authorship and ownership in AI-assisted works, analyzing comparative legal standards and the transition from human creativity to algorithmic co-authorship.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240302)
-- **Author's Copy PDF**: [Download](papers/2025-creaciones-ia.pdf)
+- **Author's Copy PDF**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
 
 ### Informática Forense: El camino de la evidencia digital
 - **Author**: Mariano Enrique Torres Ponce
