@@ -129,8 +129,9 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: English  
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)  
-- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5552760)  
-- **Author’s Copy PDF**: [Download](open-access/2024-open-source-cra.pdf)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5552760)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
+- **Author’s Copy PDF**: [Download](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
