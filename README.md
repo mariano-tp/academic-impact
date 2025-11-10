@@ -118,7 +118,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
 - **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5468846)
-- **Author's Copy PDF**: [Download](open-access/2024-ai-us-healthcare.pdf)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 
 ### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
