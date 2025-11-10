@@ -83,7 +83,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5497878)
-- **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
