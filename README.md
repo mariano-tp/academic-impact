@@ -69,7 +69,8 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Abstract**: Early theoretical exploration of AI ethics and digital rights, introducing the human–machine dilemma and accountability in automated decision-making.
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
-- **Author's Copy PDF**: [Download](papers/2019-derechos-ia.pdf)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508689)
+- **Author's Copy PDF**: [Download](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf)
 
 ---
 
