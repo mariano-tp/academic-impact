@@ -77,7 +77,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Cloud-Native Resilience: DevOps and DORA in Financial Services
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
-- **Date**: 2025-10-13
+- **Date**: 2025-09-17
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
