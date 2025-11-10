@@ -73,17 +73,17 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ## Open Access with DOI
 
-### Cloud-Native Resilience and DORA Compliance: A DevOps implementation framework for Financial Services
+
+### Cloud-Native Resilience: DevOps and DORA in Financial Services
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
-- **Date**: 2025-10-09
+- **Date**: 2025-10-13
 - **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
 - **Language**: English
-- **Abstract**: Presents a regulatory–technical framework integrating DORA compliance with DevOps and resilience engineering practices in the financial sector.
-- **DOI**: [10.5281/zenodo.17344907](https://doi.org/10.5281/zenodo.17344907)
-- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5541800)
-- **Author's Copy PDF**: [Download](open-access/2025-cloud-native-dora.pdf)
-- **Interactive supplementary material**: [DORA x DevOps - Interactive Demo (GitHub Pages)](https://mariano-tp.github.io/academic-impact/demos/dora-devops-dashboard-demo/). Complements the paper *“Cloud-Native Resilience and DORA Compliance: A DevOps Implementation Framework.”* It demonstrates how operational metrics (MTTR, CFR, RTO/RPO, multi-region resilience, supply-chain security) can be modeled within a DORA compliance framework.
+- **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
+- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5497878)
+- **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
@@ -97,17 +97,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
-
-### Cloud-Native Resilience: DevOps and DORA in Financial Services
-- **Author**: Mariano Enrique Torres Ponce
-- **Repository**: Zenodo
-- **Date**: 2025-04-28
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce
-- **Language**: English
-- **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
-- **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5497878)
-- **Author's Copy PDF**: [Download](open-access/2025-cloud-native-devops-dora.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
