@@ -169,7 +169,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
 - **Author**: Mariano Enrique Torres Ponce  
-- **Repository**: [Zenodo](https://doi.org/10.5281/zenodo.17438436)  
+- **Repository**: Zenodo
 - **Date**: 2022-08-22  
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce  
 - **Language**: Spanish  
