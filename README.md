@@ -118,7 +118,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 
-### Open Source Under the Cyber Resilience Act: Compliance Automation and Governance Models for Sustainable Security
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 - **Author**: Mariano Enrique Torres Ponce  
 - **Repository**: Zenodo  
 - **Date**: 2024-11-11  
