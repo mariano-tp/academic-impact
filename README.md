@@ -80,7 +80,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ## Open Access with DOI
 
 
-### Cloud-Native Resilience: DevOps and DORA in Financial Services
+### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
 - **Repository**: Zenodo
 - **Date**: 2025-09-17
