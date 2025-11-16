@@ -174,7 +174,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce  
 - **Language**: English  
 - **Abstract**: Analyses football’s lex sportiva as a transnational legal system shaped by institutions, technology and procedural standards.  
-- **DOI**: *(pending Zenodo assignment)*  
+- **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
 - **Parallel version**: Available also on SSRN *(pending link)*  
 - **Permanent URI (Internet Archive)**: *(to be added after upload)*  
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
