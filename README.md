@@ -167,6 +167,19 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
+### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
+- **Author**: Mariano Enrique Torres Ponce  
+- **Repository**: Zenodo  
+- **Date**: 2022-11-18  
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce  
+- **Language**: English  
+- **Abstract**: Analyses football’s lex sportiva as a transnational legal system shaped by institutions, technology and procedural standards.  
+- **DOI**: *(pending Zenodo assignment)*  
+- **Parallel version**: Available also on SSRN *(pending link)*  
+- **Permanent URI (Internet Archive)**: *(to be added after upload)*  
+- **Author’s Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
+
+
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
 - **Author**: Mariano Enrique Torres Ponce  
 - **Repository**: Zenodo
