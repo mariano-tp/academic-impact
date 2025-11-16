@@ -170,11 +170,11 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
 - **Author**: Mariano Enrique Torres Ponce  
 - **Repository**: Zenodo
-- **Date**: 2022-08-22  
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce  
-- **Language**: Spanish  
+- **Date**: 2022-03-10
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Language**: Spanish
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.  
-- **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)  
+- **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
 - **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144846179/Del_Panóptico_al_Datapoint_Vigilancia_y_control_por_arquitectura)  
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
