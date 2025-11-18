@@ -93,16 +93,17 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
-- **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
-- **Repository**: Zenodo
-- **Date**: 2025-06-03
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
-- **Language**: Spanish
-- **Abstract**: Analyzes ethical and legal aspects of AI use in mental health, focusing on patient safety, accountability, and algorithmic bias in clinical contexts.
-- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
-- **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144846460/Inteligencia_Artificial_en_Salud_Mental_Seguridad_del_paciente_%C3%A9tica_y_derecho)  
-- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)
+- **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani  
+- **Repository**: Zenodo  
+- **Date**: 2025-06-03  
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani  
+- **Language**: Spanish  
+- **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.  
+- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)  
+- **Parallel version**: Available also on [HAL (CNRS)](https://hal.science/hal-05369852)  
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)  
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
+
 
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
