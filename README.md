@@ -59,7 +59,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508884)
-- **Author's Copy PDF**: [Download](papers/TorresPonce_2020_Informática-Forense-y-Evidencia-Digital.pdf)
+- **Author's Copy PDF**: [Download](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf)/[Download BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
 
 ### Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Mariano Enrique Torres Ponce
