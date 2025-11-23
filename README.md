@@ -174,7 +174,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Date**: 2022-11-18  
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce  
 - **Language**: English  
-- **Abstract**: Analyses football’s lex sportiva as a transnational legal system shaped by institutions, technology and procedural standards.  
+- **Abstract**: Analyses football’s *lex sportiva* as a transnational legal system shaped by institutions, technology and procedural standards.  
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
 - **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5756542)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
