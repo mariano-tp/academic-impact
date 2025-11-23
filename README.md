@@ -100,7 +100,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish  
 - **Abstract**: Analyzes ethical, legal, and clinical risks of artificial intelligence in mental health, emphasizing patient safety, algorithmic bias, cultural limitations, and the irreplaceable role of the human therapeutic relationship.  
 - **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)  
-- **Parallel version**: Available also on [HAL (CNRS)](https://hal.science/hal-05369852)  
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)  
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
@@ -152,7 +151,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
-- **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144860501/El_impacto_de_la_adopción_de_Kubernetes_y_GitOps_en_la_gobernanza_del_cambio_un_análisis_desde_el_paradigma_post_COVID)
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5603512)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
@@ -189,7 +188,6 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 - **Language**: Spanish
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.  
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
-- **Parallel version**: Available also on [Academia.edu](https://www.academia.edu/144846179/Del_Panóptico_al_Datapoint_Vigilancia_y_control_por_arquitectura)  
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
