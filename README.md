@@ -5,14 +5,15 @@ This repository collects some of my academic works and evidence of their citatio
 Index-verified citations (Google Scholar) appear only in **Google Scholar Citations**.
 
 **Structure:**
-`papers/` - Author copies
-`open-access/` - Published open access works (Institutional repositories)
-`preprints/` - Working papers and early drafts
-`citations/` - Citation evidence (PDF extracts)
-`press/` - Media mentions
-`demos/` - Interactive materials and implementation prototypes linked to specific papers
+`papers/` - Author copies  
+`open-access/` - Published open access works (Institutional repositories)  
+`preprints/` - Working papers and early drafts  
+`citations/` - Citation evidence (PDF extracts)  
+`press/` - Media mentions  
+`demos/` - Interactive materials and implementation prototypes linked to specific papers  
 
-It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.
+It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.  
+A curated landing page with extended abstracts is also available on [Academia.edu](https://uba.academia.edu/METorresPonce)
 
 ---
 
