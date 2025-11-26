@@ -104,7 +104,17 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17297095)  
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
-
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
+- **Author**: Mariano Enrique Torres Ponce  
+- **Repository**: Zenodo  
+- **Date**: 2025-05-21  
+- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
+- **Language**: English  
+- **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
+- **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)  
+- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5552760)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
+- **Author’s Copy PDF**: [Download](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
@@ -117,19 +127,6 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5468846)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
-
-
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
-- **Author**: Mariano Enrique Torres Ponce  
-- **Repository**: Zenodo  
-- **Date**: 2024-11-11  
-- **License**: CC BY-NC-ND 4.0 - © Mariano Enrique Torres Ponce  
-- **Language**: English  
-- **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.  
-- **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)  
-- **Parallel version**: Available also on [SSRN](https://doi.org/10.2139/ssrn.5552760)
-- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
-- **Author’s Copy PDF**: [Download](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
