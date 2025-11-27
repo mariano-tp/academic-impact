@@ -202,6 +202,17 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
+### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida
+- **Author**: Mariano Enrique Torres Ponce  
+- **Repository**: Zenodo  
+- **Date**: 2019-04-10  
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Language**: Spanish  
+- **Abstract**: Analyzes how documentary clarity and traceability strengthen institutional responsibility and support accountability in information security.
+- **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17735815)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17735815)
+- **Author’s Copy PDF**: [Download](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+
 ---
 ## SSRN eJournal Distribution
 
