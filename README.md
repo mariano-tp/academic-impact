@@ -360,5 +360,4 @@ This section documents the confirmed and scheduled editorial inclusions.
 
 ## Notes
 
-This repository does not reproduce copyrighted works in full.
-Only excerpts (cover, index, citation pages) are provided as **evidence of citation** and academic reference.
+*This repository does not reproduce copyrighted works in full. Only excerpts (cover, index, citation pages) are provided as evidence of citation and academic reference.*
