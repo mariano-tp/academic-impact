@@ -188,15 +188,17 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Clasificado en:**
 - Artificial Intelligence eJournal (CompSciRN)
 
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
 **SSRN ID:** 5552760  
 **Repositorios principales:** Zenodo y SSRN  
 
+**Distribuido en:**
+- **Software Engineering eJournal (CompSciRN/CMBO)** Vol. 8, Issue 108 (28-11-2025)
+
 **Distribución programada:**
-- **Software Engineering eJournal (CompSciRN)** (28-11-2025)
-- **Innovation Law & Policy eJournal (IRPN)** (09-12-2025)
-- **Risk, Regulation & Policy eJournal (LSN)** (09-12-2025)
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (28-04-2026)
+- **Innovation Law & Policy eJournal (IRPN)** (09-12-2025)  
+- **Risk, Regulation & Policy eJournal (LSN)** (09-12-2025)  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (28-04-2026)  
 - **Entrepreneurship & Law eJournal (ERPN)** (04-06-2026)
 
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
