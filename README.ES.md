@@ -1,4 +1,4 @@
-> Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.es.md)
+> Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
 # Trabajos Académicos y Evidencias de Citación
 Este repositorio reúne una selección de mis publicaciones académicas y la evidencia documental de su citación en libros, artículos científicos, revistas, tesis y medios de comunicación.
 
