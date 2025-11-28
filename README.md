@@ -18,7 +18,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 ---
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
-*Digital Evidence in Cloud-Native Environments: Forensic Procedures for Distributed Architectures*
+*Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 4, Order: 2, Issue: 104 (2025)
@@ -34,7 +34,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Interactive supplementary material**: [Cloud-Native Evidence Demo](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
-*AI-Generated Creations: Ownership Criteria and Regulatory Framework*
+*AI Creations: Ownership criteria and regulatory framework*
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
@@ -49,7 +49,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Author's Copy PDF**: [Download](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
 
 ### Informática Forense: El camino de la evidencia digital  
-*Digital Forensics: The Path of Digital Evidence*
+*Computer Forensics: The path of digital evidence*
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa
 - **Published in**: Técnica Administrativa, Vol. 19 (2020)
@@ -93,7 +93,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
-*Artificial Intelligence in Mental Health: Patient Safety, Ethics and Law*
+*Artificial Intelligence in Mental Health: Patient safety, ethics, and law*
 - **Authors**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
 - **Date**: 2025-06-03
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
@@ -126,7 +126,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
-*Ownership in Transition: SaaS and the New Digital Access Regime*
+*Property in Transition: SaaS and the new regime of digital access*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2024-07-24
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -138,7 +138,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
-*The Impact of Kubernetes and GitOps Adoption on Change Governance: A Post-COVID Paradigm Analysis*
+*The Impact of Kubernetes and GitOps Adoption on Change Governance: An analysis from the post-COVID paradigm*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2023-12-15
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -172,7 +172,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
 ### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
-*From the Panopticon to the Datapoint: Surveillance and Control by Architecture*
+*From the Panopticon to the Datapoint: Governance and control by design*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2022-03-10
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -194,7 +194,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida  
-*Institutional Responsibility in Information Security: Documentary Evidence and Due Diligence*
+*Institutional Responsibility in Information Security: Documentary evidence and due diligence*
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2019-04-10
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
