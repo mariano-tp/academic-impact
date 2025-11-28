@@ -6,7 +6,7 @@ Este repositorio reúne una selección de mis publicaciones académicas y la evi
 Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de [***Google Scholar***](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
 **Estructura del repositorio:**  
-`papers/` – Copias de autor  
+`papers/` – Copias del autor  
 `open-access/` – Publicaciones en acceso abierto (repositorios institucionales)  
 `citations/` – Extractos que acreditan la citación (PDF)  
 `demos/` – Material interactivo y prototipos vinculados a publicaciones específicas  
