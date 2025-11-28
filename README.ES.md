@@ -14,6 +14,21 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com/mariano-tp)), orientado a DevOps e ingeniería cloud, así como la página curada con resúmenes ampliados disponible en [Academia.edu](https://uba.academia.edu/METorresPonce).
 
 ---
+## Índice
+1. [Artículos publicados (Revisados por pares)](#artículos-publicados-revisados-por-pares)
+2. [Publicaciones en acceso abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
+3. [Distribución en eJournals de SSRN](#distribución-en-ejournals-de-ssrn)
+4. [Capítulos de libro (como obra citada)](#capítulos-de-libro-como-obra-citada)
+5. [Revistas académicas (como obra citada)](#revistas-académicas-como-obra-citada)
+6. [Tesis y referencias institucionales (como obra citada)](#tesis-y-referencias-institucionales-como-obra-citada)
+7. [Medios jurídicos y profesionales](#medios-jurídicos-y-profesionales)
+8. [Menciones en prensa](#menciones-en-prensa)
+9. [Citaciones en Google Scholar](#citaciones-en-google-scholar)
+10. [Líneas de investigación](#líneas-de-investigación)
+11. [Nota final](#nota-final)
+
+
+---
 ## Artículos publicados (Revisados por pares)
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
