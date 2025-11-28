@@ -17,6 +17,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 ## Artículos publicados (Revisados por pares)
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
+- **Editorial**: Ciencia y Técnica Administrativa
 - **Revista**: Técnica Administrativa, Vol. 24, Nº 4, Orden: 2, Número: 104 (2025)
 - **ISSN**: 1666-1680
 - **Fecha**: 2025-10-15
@@ -31,6 +32,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Autor**: Mariano Enrique Torres Ponce
+- **Editorial**: Ciencia y Técnica Administrativa
 - **Revista**: Técnica Administrativa, Vol. 24, Nº 3, Orden: 2, Número: 103 (2025)
 - **ISSN**: 1666-1680
 - **Fecha**: 2025-07-15
@@ -44,6 +46,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 
 ### Informática Forense: El camino de la evidencia digital
 - **Autor**: Mariano Enrique Torres Ponce
+- **Editorial**: Ciencia y Técnica Administrativa
 - **Revista**: Técnica Administrativa, Vol. 19 (2020)
 - **ISSN**: 1666-1680
 - **Fecha**: 2020-11-08
@@ -57,6 +60,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 
 ### Derechos y Desafíos de la Inteligencia Artificial
 - **Autor**: Mariano Enrique Torres Ponce
+- **Editorial**: Ciencia y Técnica Administrativa
 - **Revista**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
 - **ISSN**: 1666-1680
 - **Fecha**: 2019-12-15
