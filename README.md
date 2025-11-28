@@ -208,32 +208,32 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 ## SSRN eJournal Distribution
 
 A subset of these working papers has been selected and distributed through curated SSRN Subject Matter eJournals.  
-This section documents those editorial inclusions.
+This section documents the confirmed and scheduled editorial inclusions.
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
 **SSRN ID:** 5468846  
-**Primary repositories:** Zenodo + SSRN  
+**Primary repositories:** Zenodo & SSRN  
 
 **Distributed in:**
-- **Public Health Law & Policy eJournal (LSN)**  Vol. 16, Issue 51 — Nov 6, 2025  
-  Edited by **Scott C. Burris** (Director, Center for Public Health Law Research, Temple University)
-- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Issue 32 — Oct 1, 2025  
+- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Issue 51 (Nov 6, 2025)  
+- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Issue 32 (Oct 1, 2025)
 
 **Classified in:**
 - Artificial Intelligence eJournal (CompSciRN)
 
-
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
 **SSRN ID:** 5552760  
-**Primary repositories:** Zenodo + SSRN  
+**Primary repositories:** Zenodo & SSRN  
+
 **Scheduled distribution:**
-- Software Engineering eJournal (CompSciRN) — Nov 28, 2025  
-- Innovation Law & Policy eJournal (IRPN) — Dec 9, 2025  
-- Risk, Regulation & Policy eJournal (LSN) — Dec 9, 2025  
-- Cybersecurity, Privacy & Networks eJournal (CompSciRN) — Apr 28, 2026  
-- Entrepreneurship & Law eJournal (ERPN) — Jun 4, 2026  
+- **Software Engineering eJournal (CompSciRN)** (Nov 28, 2025)  
+- **Innovation Law & Policy eJournal (IRPN)** (Dec 9, 2025)  
+- **Risk, Regulation & Policy eJournal (LSN)** (Dec 9, 2025)  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (Apr 28, 2026)  
+- **Entrepreneurship & Law eJournal (ERPN)** (Jun 4, 2026)
 
 **Classification networks:** CompSciRN, IRPN, LSN, ERPN
+
 
 
 ---
