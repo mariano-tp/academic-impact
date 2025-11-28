@@ -6,7 +6,7 @@ This repository collects some of my academic works and evidence of their citatio
 **Inclusion criteria:** This repo lists **non-Scholar citations** with evidence files (books, regional journals, theses, institutional repositories, media).
 Index-verified citations (Google Scholar) appear only in [***Google Scholar***](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-**Structure:**  
+**Repository Structure:**  
 `papers/` - Author copies  
 `open-access/` - Published open access works (Institutional repositories)  
 `citations/` - Citation evidence (PDF extracts)  
@@ -14,6 +14,20 @@ Index-verified citations (Google Scholar) appear only in [***Google Scholar***](
 
 It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.  
 A curated landing page with extended abstracts is also available on [Academia.edu](https://uba.academia.edu/METorresPonce)
+
+---
+## Table of Contents
+1. [Published Papers (Peer-Reviewed)](#published-papers-peer-reviewed)
+2. [Open Access Publications with DOI](#open-access-publications-with-doi)
+3. [SSRN eJournal Distribution](#ssrn-ejournal-distribution)
+4. [Book Chapters (as cited work)](#book-chapters-as-cited-work)
+5. [Academic Journals (as cited work)](#academic-journals-as-cited-work)
+6. [Theses & Institutional References (as cited work)](#theses--institutional-references-as-cited-work)
+7. [Professional & Legal Media](#professional--legal-media)
+8. [Press Mentions](#press-mentions)
+9. [Google Scholar Citations](#google-scholar-citations)
+10. [Research Interests](#research-interests)
+11. [Notes](#notes)
 
 ---
 ## Published Papers (Peer-Reviewed)
