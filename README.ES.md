@@ -179,7 +179,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 **SSRN ID:** 5468846  
-**Repositorios principales:** Zenodo + SSRN  
+**Repositorios principales:** Zenodo y SSRN  
 
 **Distribuido en:**
 - **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025), editado por Scott C. Burris (Temple University)
@@ -190,7 +190,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 **SSRN ID:** 5552760  
-**Repositorios principales:** Zenodo + SSRN  
+**Repositorios principales:** Zenodo y SSRN  
 
 **Distribución programada:**
 - **Software Engineering eJournal (CompSciRN)** (28-11-2025)
