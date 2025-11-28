@@ -158,22 +158,22 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 ---
 ## Distribución en eJournals de SSRN
-Un subconjunto de los manuscritos ha sido seleccionado para su distribución en eJournals curados de SSRN. Se documentan a continuación las inclusiones editoriales.
+Un subconjunto de los manuscritos ha sido seleccionado para su difusión en revistas electrónicas especializadas de SSRN. A continuación se detallan las inclusiones editoriales confirmadas y programadas.
 
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
 **SSRN ID:** 5468846  
 **Distribuido en:**
-- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Issue 51 — Nov 6, 2025
-- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Issue 32 — Oct 1, 2025
+- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025)  
+- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Número 32 (01-10-2025)  
 
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
 **SSRN ID:** 5552760  
 **Distribución programada:**
-- Software Engineering eJournal (CompSciRN) — Nov 28, 2025
-- Innovation Law & Policy eJournal (IRPN) — Dec 9, 2025
-- Risk, Regulation & Policy eJournal (LSN) — Dec 9, 2025
-- Cybersecurity, Privacy & Networks eJournal (CompSciRN) — Apr 28, 2026
-- Entrepreneurship & Law eJournal (ERPN) — Jun 4, 2026
+- **Software Engineering eJournal (CompSciRN)** (28-11-2025)  
+- **Innovation Law & Policy eJournal (IRPN)** (09-12-2025)  
+- **Risk, Regulation & Policy eJournal (LSN)** (09-12-2025)  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (28-04-2026)  
+- **Entrepreneurship & Law eJournal (ERPN)** (04-06-2026)
 
 ---
 ## Capítulos de libro (como obra citada)
@@ -183,7 +183,7 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **ISBN**: 978-987-03-4271-7
 - **Idioma**: Español
 - **Enlace oficial**: [UBA](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)
-- **Evidencia de citación**: [extracto PDF](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)
+- **Evidencia de citación**: [Extracto PDF](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)
 - **Citado como**: TORRES, Mariano, "Derechos y desafíos de la Inteligencia Artificial"
 - **País**: Argentina
 
@@ -195,7 +195,7 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **ISSN**: 2530-4496
 - **Idioma**: Español
 - **Enlace oficial**: [FCU](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
-- **Evidencia de citación**: [extracto PDF](citations/2022-deteccion-delitos-extract.pdf)
+- **Evidencia de citación**: [Extracto PDF](citations/2022-deteccion-delitos-extract.pdf)
 - **País**: Uruguay
 
 ### Garantías Procesales Penales en la Evidencia Digital
@@ -204,7 +204,7 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **ISSN**: 2707-4056
 - **Idioma**: Español
 - **Enlace oficial**: [AMag](https://revistas.amag.edu.pe/index.php/amag/issue/view/6)
-- **Evidencia de citación**: [extracto PDF](citations/2021-garantias-procesales-extract.pdf)
+- **Evidencia de citación**: [Extracto PDF](citations/2021-garantias-procesales-extract.pdf)
 - **País**: Perú
 
 ---
@@ -215,7 +215,7 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **Tipo**: Tesis de maestría (2023)
 - **Idioma**: Español
 - **Enlace oficial**: [RU-DGB UNAM](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)
-- **Evidencia de citación**: [extracto PDF](citations/2023-ia-ddhh-extract.pdf)
+- **Evidencia de citación**: [Extracto PDF](citations/2023-ia-ddhh-extract.pdf)
 - **País**: México
 
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
@@ -224,7 +224,7 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **Tipo**: Trabajo Final de Grado (2021)
 - **Idioma**: Español
 - **Enlace oficial**: [RIULL](https://riull.ull.es/xmlui/handle/915/25652)
-- **Evidencia de citación**: [extracto PDF](citations/2021-responsabilidad-civil-extract.pdf)
+- **Evidencia de citación**: [Extracto PDF](citations/2021-responsabilidad-civil-extract.pdf)
 - **País**: España
 
 ---
@@ -234,7 +234,7 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **Medio**: ElDerecho – Lefebvre
 - **Fecha**: 2022-07-01
 - **Idioma**: Español
-- **Enlace**: [leer online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
+- **Enlace**: [Leer online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
 - **Nota**: Adaptación profesional de la tesis de grado que cita la obra original.
 - **País**: España
 
@@ -257,8 +257,6 @@ Un subconjunto de los manuscritos ha sido seleccionado para su distribución en 
 - **Citaciones seleccionadas**:
 - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
 - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
-
----
 
 ### Informática Forense: El camino de la evidencia digital (2020)
 - **Citaciones**: 2 (a diciembre de 2025)
