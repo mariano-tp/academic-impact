@@ -14,7 +14,7 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp), orientado a DevOps e ingeniería cloud, así como la página curada con resúmenes ampliados disponible en [Academia.edu](https://uba.academia.edu/METorresPonce).
 
 ---
-## Artículos en revistas con revisión por pares
+## Artículos publicados (Revisados por pares)
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
 - **Revista**: Técnica Administrativa, Vol. 24, Nº 4, Orden: 2, Número: 104 (2025)
