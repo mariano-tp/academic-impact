@@ -71,7 +71,8 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 
 ---
 ## Publicaciones en acceso abierto con DOI
-### Cloud-Native Resilience: DevOps and DORA in financial services
+### Cloud-Native Resilience: DevOps and DORA in financial services  
+*Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2025-09-17
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -82,17 +83,8 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
 - **PDF del autor**: [descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
-### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho
-- **Autores**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
-- **Fecha**: 2025-06-03
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
-- **Idioma**: Español
-- **Resumen**: Analiza riesgos éticos, jurídicos y clínicos de la IA en salud mental, subrayando seguridad del paciente, sesgo algorítmico y la relación terapéutica humana.
-- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
-- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17297095)
-- **PDF del autor**: [descargar](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
-
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
+*Código abierto bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2025-05-21
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -103,7 +95,8 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
 - **PDF del autor**: [descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
+*Inteligencia artificial en el sistema de salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con especial atención a la atención pediátrica*
 - **Autores**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Fecha**: 2024-12-20
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & María Noel Arana
@@ -114,29 +107,8 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **PDF del autor**: [descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
-### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital
-- **Autor**: Mariano Enrique Torres Ponce
-- **Fecha**: 2024-07-24
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
-- **Idioma**: Español
-- **Resumen**: Explora la transformación de la propiedad digital en regímenes de acceso bajo economías SaaS y de plataformas.
-- **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
-- **Versión paralela**: [SSRN](http://dx.doi.org/10.2139/ssrn.5687822)
-- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17278111)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
-
-### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID
-- **Autor**: Mariano Enrique Torres Ponce
-- **Fecha**: 2023-12-15
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
-- **Idioma**: Español
-- **Resumen**: Aborda la gobernanza de infraestructura post-pandemia mediante GitOps, resiliencia y entrega continua.
-- **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5603512)
-- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17350239)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
-
-### SRE in the Law of Technological Risk: Reliability and responsibility
+### SRE in the Law of Technological Risk: Reliability and responsibility  
+*SRE en el derecho del riesgo tecnológico: Confiabilidad y responsabilidad*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2023-02-07
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -147,7 +119,8 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
 - **PDF del autor**: [descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
-### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
+### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
+*Fútbol y la arquitectura de la justicia global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2022-11-18
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -158,17 +131,8 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17625619)
 - **PDF del autor**: [descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
-### Del Panóptico al Datapoint: Vigilancia y control por arquitectura
-- **Autor**: Mariano Enrique Torres Ponce
-- **Fecha**: 2022-03-10
-- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
-- **Idioma**: Español
-- **Resumen**: Examina la evolución de la vigilancia hacia la gobernanza algorítmica inherente a la arquitectura digital.
-- **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
-- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17438436)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
-
-### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility
+### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility  
+*Medicina digital en emergencias sanitarias: Redefinición de la responsabilidad clínica y jurídica*
 - **Autores**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Fecha**: 2021-11-23
 - **Licencia**: CC BY-NC-ND 4.0 – © 2021 María Noel Arana & Mariano Enrique Torres Ponce
