@@ -24,7 +24,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Propone una metodología forense para la preservación de evidencia digital en arquitecturas cloud-native, con especial atención a la volatilidad de los entornos distribuidos, la trazabilidad y la validez procesal.
-- **Versión oficial**: [Leer en CyTA](https://www.cyta.com.ar/ta/article.php?id=240402)
+- **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240402)
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575262)
 - **PDF del autor**: [descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
@@ -39,7 +39,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Analiza la atribución de autoría y titularidad en obras generadas con asistencia de inteligencia artificial, comparando estándares jurídicos y explorando la transición hacia modelos de coautoría algorítmica.
-- **Versión oficial**: [Leer en CyTA](https://www.cyta.com.ar/ta/article.php?id=240302)
+- **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
 - **PDF del autor**: [descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
@@ -53,7 +53,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Examina la evolución de la informática forense y la cadena de custodia, con énfasis en la verificación de integridad y la transparencia procesal de la evidencia electrónica.
-- **Versión oficial (BookIA/PDF)**: [Leer en BookIA](https://cyta.com.ar/bookia/bookia.php?id=3)
+- **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508884)
 - **PDF del autor**: [descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
@@ -67,7 +67,7 @@ Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp
 - **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**: Exploración temprana sobre ética de la inteligencia artificial y derechos digitales, centrada en el dilema humano-máquina y la responsabilidad en la toma de decisiones automatizada.
-- **Versión oficial (BookIA/PDF)**: [Leer en BookIA](https://cyta.com.ar/bookia/bookia.php?id=1)
+- **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=1)
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
 - **PDF del autor**: [descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
