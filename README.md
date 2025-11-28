@@ -16,7 +16,7 @@ It complements my professional GitHub portfolio ([mariano-tp](https://github.com
 A curated landing page with extended abstracts is also available on [Academia.edu](https://uba.academia.edu/METorresPonce)
 
 ---
-
+## Open Access with DOI
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
 *Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
 - **Author**: Mariano Enrique Torres Ponce
