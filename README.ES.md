@@ -4,7 +4,7 @@ Este repositorio reúne una selección de mis publicaciones académicas y la evi
 **Criterio de inclusión:** Se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de archivos probatorios (libros, revistas regionales, tesis, repositorios institucionales y prensa).  
 Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de **Google Scholar**.
 
-**Estructura del repositorio:**
+**Estructura del repositorio:**  
 `papers/` – Copias de autor  
 `open-access/` – Publicaciones en acceso abierto (repositorios institucionales)  
 `preprints/` – Versiones preliminares y manuscritos en proceso  
