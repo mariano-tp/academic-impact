@@ -182,7 +182,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Repositorios principales:** Zenodo y SSRN  
 
 **Distribuido en:**
-- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025), editado por Scott C. Burris (Temple University)
+- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025)
 - **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Número 32 (01-10-2025)
 
 **Clasificado en:**
