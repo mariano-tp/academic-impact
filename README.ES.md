@@ -158,22 +158,33 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 ---
 ## Distribución en eJournals de SSRN
-Un subconjunto de los manuscritos ha sido seleccionado para su difusión en revistas electrónicas especializadas de SSRN. A continuación se detallan las inclusiones editoriales confirmadas y programadas.
 
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
+Un subconjunto de estos manuscritos ha sido seleccionado para su distribución en eJournals temáticos curados por SSRN.  
+A continuación se documentan las inclusiones editoriales confirmadas y programadas.
+
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 **SSRN ID:** 5468846  
-**Distribuido en:**
-- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025)  
-- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Número 32 (01-10-2025)  
+**Repositorios principales:** Zenodo + SSRN  
 
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
+**Distribuido en:**
+- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025), editado por Scott C. Burris (Temple University)
+- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Número 32 (01-10-2025)
+
+**Clasificado en:**
+- Artificial Intelligence eJournal (CompSciRN)
+
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security
 **SSRN ID:** 5552760  
+**Repositorios principales:** Zenodo + SSRN  
+
 **Distribución programada:**
-- **Software Engineering eJournal (CompSciRN)** (28-11-2025)  
-- **Innovation Law & Policy eJournal (IRPN)** (09-12-2025)  
-- **Risk, Regulation & Policy eJournal (LSN)** (09-12-2025)  
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (28-04-2026)  
+- **Software Engineering eJournal (CompSciRN)** (28-11-2025)
+- **Innovation Law & Policy eJournal (IRPN)** (09-12-2025)
+- **Risk, Regulation & Policy eJournal (LSN)** (09-12-2025)
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (28-04-2026)
 - **Entrepreneurship & Law eJournal (ERPN)** (04-06-2026)
+
+**Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
 
 ---
 ## Capítulos de libro (como obra citada)
