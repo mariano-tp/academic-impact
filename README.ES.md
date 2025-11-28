@@ -3,7 +3,7 @@
 Este repositorio reúne una selección de mis publicaciones académicas y la evidencia documental de su citación en libros, artículos científicos, revistas, tesis y medios de comunicación.
 
 **Criterio de inclusión:** Se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de archivos probatorios (libros, revistas regionales, tesis, repositorios institucionales y prensa).  
-Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de **Google Scholar**.
+Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de [***Google Scholar***](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
 **Estructura del repositorio:**  
 `papers/` – Copias de autor  
