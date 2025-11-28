@@ -8,9 +8,7 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 **Estructura del repositorio:**  
 `papers/` – Copias de autor  
 `open-access/` – Publicaciones en acceso abierto (repositorios institucionales)  
-`preprints/` – Versiones preliminares y manuscritos en proceso  
 `citations/` – Extractos que acreditan la citación (PDF)  
-`press/` – Menciones en medios de comunicación  
 `demos/` – Material interactivo y prototipos vinculados a publicaciones específicas  
 
 Complementa mi portafolio profesional en GitHub [](https://github.com/mariano-tp), orientado a DevOps e ingeniería cloud, así como la página curada con resúmenes ampliados disponible en [Academia.edu](https://uba.academia.edu/METorresPonce).
