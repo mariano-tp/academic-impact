@@ -20,7 +20,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
 *Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
 - **Author**: Mariano Enrique Torres Ponce
-- **Publisher**: Ciencia y Técnica Administrativa
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 4, Order: 2, Issue: 104 (2025)
 - **ISSN**: 1666-1680
 - **Date**: 2025-10-15
@@ -36,7 +36,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
 *AI Creations: Ownership criteria and regulatory framework*
 - **Author**: Mariano Enrique Torres Ponce
-- **Publisher**: Ciencia y Técnica Administrativa
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
 - **ISSN**: 1666-1680
 - **Date**: 2025-07-15
@@ -51,7 +51,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 ### Informática Forense: El camino de la evidencia digital  
 *Computer Forensics: The path of digital evidence*
 - **Author**: Mariano Enrique Torres Ponce
-- **Publisher**: Ciencia y Técnica Administrativa
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)
 - **Published in**: Técnica Administrativa, Vol. 19 (2020)
 - **ISSN**: 1666-1680
 - **Date**: 2020-11-08
@@ -66,7 +66,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 ### Derechos y Desafíos de la Inteligencia Artificial  
 *Rights and Challenges of Artificial Intelligence*
 - **Author**: Mariano Enrique Torres Ponce
-- **Publisher**: Ciencia y Técnica Administrativa
+- **Publisher**: Ciencia y Técnica Administrativa (CyTA)
 - **Published in**: Técnica Administrativa, Vol. 18, Nº 1 (2019)
 - **ISSN**: 1666-1680
 - **Date**: 2019-12-15
