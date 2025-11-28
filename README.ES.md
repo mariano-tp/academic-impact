@@ -1,5 +1,5 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.es.md)
-# Trabajos académicos y evidencia de citación
+# Trabajos Académicos y Evidencias de Citación
 Este repositorio reúne una selección de mis publicaciones académicas y la evidencia documental de su citación en libros, artículos científicos, revistas, tesis y medios de comunicación.
 
 **Criterio de inclusión:** Se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de archivos probatorios (libros, revistas regionales, tesis, repositorios institucionales y prensa).  
