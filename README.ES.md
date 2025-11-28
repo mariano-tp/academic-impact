@@ -11,7 +11,7 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 `citations/` – Extractos que acreditan la citación (PDF)  
 `demos/` – Material interactivo y prototipos vinculados a publicaciones específicas  
 
-Complementa mi portafolio profesional en GitHub [mariano-tp](https://github.com/mariano-tp), orientado a DevOps e ingeniería cloud, así como la página curada con resúmenes ampliados disponible en [Academia.edu](https://uba.academia.edu/METorresPonce).
+Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com/mariano-tp)), orientado a DevOps e ingeniería cloud, así como la página curada con resúmenes ampliados disponible en [Academia.edu](https://uba.academia.edu/METorresPonce).
 
 ---
 ## Artículos publicados (Revisados por pares)
