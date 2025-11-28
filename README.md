@@ -1,7 +1,7 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
 # Academic Papers & Citation Evidence
 
-This repository collects some of my academic works and evidence of their citation in books, articles, journals, theses, and press.
+This repository collects some of my academic works and evidence of their citation in books, articles, journals, theses, and press.  
 **Inclusion criteria:** This repo lists **non-Scholar citations** with evidence files (books, regional journals, theses, institutional repositories, media).
 Index-verified citations (Google Scholar) appear only in **Google Scholar Citations**.
 
