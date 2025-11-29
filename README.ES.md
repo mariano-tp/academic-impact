@@ -18,14 +18,14 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 1. [Artículos Publicados (Revisados por pares)](#artículos-publicados-revisados-por-pares)
 2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
 3. [Distribución en eJournals de SSRN](#distribución-en-ejournals-de-ssrn)
-4. [Capítulos de libro (como obra citada)](#capítulos-de-libro-como-obra-citada)
-5. [Revistas académicas (como obra citada)](#revistas-académicas-como-obra-citada)
-6. [Tesis y referencias institucionales (como obra citada)](#tesis-y-referencias-institucionales-como-obra-citada)
-7. [Medios jurídicos y profesionales](#medios-jurídicos-y-profesionales)
-8. [Menciones en prensa](#menciones-en-prensa)
+4. [Capítulos de Libro (Como obra citada)](#capítulos-de-libro-como-obra-citada)
+5. [Revistas Académicas (Como obra citada)](#revistas-académicas-como-obra-citada)
+6. [Tesis y Referencias Institucionales (Como obra citada)](#tesis-y-referencias-institucionales-como-obra-citada)
+7. [Medios Jurídicos y Profesionales](#medios-jurídicos-y-profesionales)
+8. [Menciones en Prensa](#menciones-en-prensa)
 9. [Citaciones en Google Scholar](#citaciones-en-google-scholar)
-10. [Líneas de investigación](#líneas-de-investigación)
-11. [Nota final](#nota-final)
+10. [Líneas de Investigación](#líneas-de-investigación)
+11. [Nota Final](#nota-final)
 
 
 ---
@@ -204,7 +204,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
 
 ---
-## Capítulos de libro (como obra citada)
+## Capítulos de Libro (Como obra citada)
 ### Derecho y Nuevas Tecnologías
 - **Director**: Gonzalo Ana Dobratinich
 - **Editorial**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
@@ -216,7 +216,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Argentina
 
 ---
-## Revistas académicas (como obra citada)
+## Revistas Académicas (Como obra citada)
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Autor**: José Heriberto García Peña
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
@@ -256,7 +256,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: España
 
 ---
-## Medios jurídicos y profesionales
+## Medios Jurídicos y Profesionales
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
 - **Autor**: María Patrizia Domingues Villarroel
 - **Medio**: ElDerecho – Lefebvre
@@ -267,7 +267,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: España
 
 ---
-## Menciones en prensa
+## Menciones en Prensa
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
 - **Medio**: Expediente.News (Venezuela)
 - **Fecha**: 2023-03-10
@@ -292,12 +292,12 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
 - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
 ---
-## Líneas de investigación
+## Líneas de Investigación
 - Inteligencia artificial y derecho
 - Evidencia digital e informática forense
 - Arquitecturas cloud-native
 - DevOps, cumplimiento normativo y resiliencia operativa en servicios financieros
 
 ---
-## Nota final
+## Nota Final
 *Este repositorio no reproduce íntegramente obras protegidas por derechos de autor. Solo se incluyen extractos (portada, índice y páginas de citación) con fines probatorios y de referencia académica.*
