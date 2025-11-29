@@ -15,8 +15,8 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 ---
 ## Índice
-1. [Artículos publicados (Revisados por pares)](#artículos-publicados-revisados-por-pares)
-2. [Publicaciones en acceso abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
+1. [Artículos Publicados (Revisados por pares)](#artículos-publicados-revisados-por-pares)
+2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
 3. [Distribución en eJournals de SSRN](#distribución-en-ejournals-de-ssrn)
 4. [Capítulos de libro (como obra citada)](#capítulos-de-libro-como-obra-citada)
 5. [Revistas académicas (como obra citada)](#revistas-académicas-como-obra-citada)
@@ -29,7 +29,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 
 ---
-## Artículos publicados (Revisados por pares)
+## Artículos Publicados (Revisados por pares)
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
 - **Editorial**: Ciencia y Técnica Administrativa (CyTA)
@@ -88,7 +88,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
-## Publicaciones en acceso abierto con DOI
+## Publicaciones en Acceso Abierto con DOI
 ### Cloud-Native Resilience: DevOps and DORA in financial services  
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
