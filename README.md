@@ -126,7 +126,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
-- **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
 - **Authors**: Mariano Enrique Torres Ponce; María Noel Arana
