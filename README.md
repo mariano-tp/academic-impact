@@ -207,6 +207,17 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
+### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
+*IT Contracting in Argentina: Business continuity, source code escrow and infrastructure provision*
+- **Author**: Mariano Enrique Torres Ponce
+- **Date**: 2019-08-07
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Language**: Spanish
+- **Abstract**: Analyzes how IT contracts protect operational continuity through safeguards and accountability.
+- **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
+
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida  
 *Institutional Responsibility in Information Security: Documentary evidence and due diligence*
 - **Author**: Mariano Enrique Torres Ponce
