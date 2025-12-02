@@ -193,6 +193,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Language**: Spanish
 - **Abstract**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
+- **Parallel version**: [SSRN](https://ssrn.com/abstract=5788802)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17438436)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
