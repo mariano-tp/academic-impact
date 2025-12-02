@@ -236,6 +236,23 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 A subset of these working papers has been selected and distributed through curated SSRN Subject Matter eJournals.  
 This section records confirmed and scheduled editorial inclusions.
 
+### Cloud-Native Resilience: DevOps and DORA in Financial Services
+**SSRN ID:** 5497878  
+**Primary repositories:** Zenodo & SSRN  
+
+**Distributed in:**
+- Management of Innovation eJournal (IRPN/CMBO), Vol. 13, Issue 126 (Nov 10, 2025)
+- Regulation of Financial Institutions eJournal (FEN/CMBO), Vol. 13, Issue 72 (Nov 21, 2025)  
+- Innovation Law & Policy eJournal (IRPN/CMBO), Vol. 13, Issue 222 (Nov 28, 2025)  
+
+**Scheduled distribution:**
+- Risk, Regulation & Policy eJournal (LSN), Dec 8, 2025  
+- Information Technology & Systems eJournal (ISN/CMBO), Dec 24, 2025  
+- Information Systems Legislation & Regulations eJournal (ISN/CMBO), Oct 3, 2025  
+- Information Systems & Economics eJournal (ISN/CMBO), Jul 29, 2027
+
+**Classification networks:** FEN, IRPN, ISN, LSN
+
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
 **SSRN ID:** 5468846  
 **Primary repositories:** Zenodo & SSRN  
