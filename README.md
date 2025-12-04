@@ -246,10 +246,10 @@ This section records confirmed and scheduled editorial inclusions.
 - **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Issue 222 (Nov 28, 2025)  
 
 **Scheduled distribution:**
-- **Risk, Regulation & Policy eJournal (LSN)**, Dec 8, 2025  
-- **Information Technology & Systems eJournal (ISN/CMBO)**, Dec 24, 2025  
+- **Risk, Regulation & Policy eJournal (LSN)**, (Dec 8, 2025)  
+- **Information Technology & Systems eJournal (ISN/CMBO)**, (Dec 24, 2025)  
 - **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**, Oct 3, 2025  
-- **Information Systems & Economics eJournal (ISN/CMBO)**, Jul 29, 2027
+- **Information Systems & Economics eJournal (ISN/CMBO)**, (Jul 29, 2027)
 
 **Classification networks:** FEN, IRPN, ISN, LSN
 
