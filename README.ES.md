@@ -114,7 +114,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
-*Inteligencia artificial en el sistema de salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con especial atención a la atención pediátrica*
+*Inteligencia artificial en la salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
 - **Autores**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Fecha**: 2024-12-20
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & María Noel Arana
