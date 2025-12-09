@@ -124,7 +124,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Language**: English
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#open-source-under-the-cyber-resilience-act-compliance-automation-and-governance-models-for-sustainable-security)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#cra-opensource)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
@@ -264,7 +264,7 @@ This section records confirmed and scheduled editorial inclusions.
 **Classified in:**
 - Artificial Intelligence eJournal (CompSciRN)
 
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="cra-opensource"></a>
 **SSRN ID:** 5552760  
 **Primary repositories:** Zenodo & SSRN  
 
