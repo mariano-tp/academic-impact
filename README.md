@@ -48,7 +48,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Interactive supplementary material**: [Cloud-Native Evidence Demo](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
-*AI Creations: Ownership criteria and regulatory framework*
+*Creations with Artificial Intelligence: ownership criteria and regulatory framework*
 - **Author**: Mariano Enrique Torres Ponce
 - **Publisher**: Ciencia y Técnica Administrativa (CyTA)
 - **Published in**: Técnica Administrativa, Vol. 24, Nº 3, Order: 2, Issue: 103 (2025)
