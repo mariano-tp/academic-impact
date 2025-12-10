@@ -255,12 +255,13 @@ This section records confirmed and scheduled editorial inclusions.
 **Distributed in:**
 - **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Issue 126 (Nov 10, 2025)
 - **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Issue 72 (Nov 21, 2025)  
-- **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Issue 222 (Nov 28, 2025)  
+- **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Issue 222 (Nov 28, 2025)
+- **Risk, Regulation & Policy eJournal (LSN)**, Vol 16, Issue 74 (Dec 9, 2025)  
 
 **Scheduled distribution:**
-- **Risk, Regulation & Policy eJournal (LSN)**, (Dec 8, 2025)  
+
 - **Information Technology & Systems eJournal (ISN/CMBO)**, (Dec 24, 2025)  
-- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**, Oct 3, 2025  
+- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**, (Oct 3, 2025)  
 - **Information Systems & Economics eJournal (ISN/CMBO)**, (Jul 29, 2027)
 
 **Classification networks:** FEN, IRPN, ISN, LSN
@@ -273,8 +274,7 @@ This section records confirmed and scheduled editorial inclusions.
 - **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Issue 51 (Nov 6, 2025)  
 - **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Issue 32 (Oct 1, 2025)
 
-**Classified in:**
-- Artificial Intelligence eJournal (CompSciRN)
+**Classification networks:** CompSciRN
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="cra-opensource"></a>
 **SSRN ID:** 5552760  
@@ -284,10 +284,10 @@ This section records confirmed and scheduled editorial inclusions.
 - **Software Engineering eJournal (CompSciRN/CMBO)**, Vol. 8, Issue 108 (Nov 28, 2025)
 
 **Scheduled distribution:**
-- **Innovation Law & Policy eJournal (IRPN)** (Dec 9, 2025)  
-- **Risk, Regulation & Policy eJournal (LSN)** (Dec 9, 2025)  
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (Apr 28, 2026)  
-- **Entrepreneurship & Law eJournal (ERPN)** (Jun 4, 2026)
+- **Innovation Law & Policy eJournal (IRPN)** (Dec 11, 2025)  
+- **Risk, Regulation & Policy eJournal (LSN)** (Dec 16, 2025)  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (Apr 29, 2026)  
+- **Entrepreneurship & Law eJournal (ERPN)** (Jun 8, 2026)
 
 **Classification networks:** CompSciRN, IRPN, LSN, ERPN
 
