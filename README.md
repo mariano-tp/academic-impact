@@ -151,6 +151,18 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
+### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
+- **Authors**: Mariano Enrique Torres Ponce
+- **Date**: 2024-03-14
+- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Language**: English
+- **Abstract**: Analysis of how digital bureaucracy shifts procedural burdens onto citizens, eroding due process guarantees through technological mediation and platform-based governance.
+- **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17873281)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
+- **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+
+
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
 *The Impact of Kubernetes and GitOps Adoption on Change Governance: An analysis from the post-COVID paradigm*
 - **Author**: Mariano Enrique Torres Ponce
