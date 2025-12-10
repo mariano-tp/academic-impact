@@ -102,7 +102,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
-*Código abierto bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
+*Código Abierto Bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2025-05-21
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -114,7 +114,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
-*Inteligencia artificial en la salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
+*Inteligencia Artificial en la Salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
 - **Autores**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Fecha**: 2024-12-20
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & María Noel Arana
@@ -138,7 +138,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
-*SRE en el derecho del riesgo tecnológico: Confiabilidad y responsabilidad*
+*SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2023-02-07
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -150,7 +150,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
-*Fútbol y la arquitectura de la justicia global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
+*Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2022-11-18
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -162,7 +162,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility  
-*Medicina digital en emergencias sanitarias: Redefinición de la responsabilidad clínica y jurídica*
+*Medicina Digital en Emergencias Sanitarias: Redefinición de la responsabilidad clínica y jurídica*
 - **Autores**: Mariano Enrique Torres Ponce; María Noel Arana
 - **Fecha**: 2021-11-23
 - **Licencia**: CC BY-NC-ND 4.0 – © 2021 María Noel Arana & Mariano Enrique Torres Ponce
