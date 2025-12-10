@@ -256,7 +256,7 @@ This section records confirmed and scheduled editorial inclusions.
 - **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Issue 126 (Nov 10, 2025)
 - **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Issue 72 (Nov 21, 2025)  
 - **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Issue 222 (Nov 28, 2025)
-- **Risk, Regulation & Policy eJournal (LSN)**, Vol 16, Issue 74 (Dec 9, 2025)  
+- **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Issue 74 (Dec 9, 2025)  
 
 **Scheduled distribution:**
 
