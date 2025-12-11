@@ -282,9 +282,9 @@ This section records confirmed and scheduled editorial inclusions.
 
 **Distributed in:**
 - **Software Engineering eJournal (CompSciRN/CMBO)**, Vol. 8, Issue 108 (Nov 28, 2025)
+- **Innovation Law & Policy eJournal (IRPN)** Vol 13, Issue 231 (Dec 11, 2025)  
 
 **Scheduled distribution:**
-- **Innovation Law & Policy eJournal (IRPN)** (Dec 11, 2025)  
 - **Risk, Regulation & Policy eJournal (LSN)** (Dec 16, 2025)  
 - **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (Apr 29, 2026)  
 - **Entrepreneurship & Law eJournal (ERPN)** (Jun 8, 2026)
