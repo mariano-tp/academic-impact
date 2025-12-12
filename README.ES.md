@@ -17,7 +17,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 ## Índice
 1. [Artículos Publicados (Revisados por pares)](#art1)
 2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
-3. [Distribución en eJournals de SSRN](#distribución-en-ejournals-de-ssrn)
+3. [Distribución en eJournals de SSRN](#dis3)
 4. [Capítulos de Libro (Como obra citada)](#capítulos-de-libro-como-obra-citada)
 5. [Revistas Académicas (Como obra citada)](#revistas-académicas-como-obra-citada)
 6. [Tesis y Referencias Institucionales (Como obra citada)](#tesis-y-referencias-institucionales-como-obra-citada)
@@ -194,7 +194,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
-## Distribución en eJournals de SSRN
+## Distribución en eJournals de SSRN<a id="dis3"></a>
 
 Un subconjunto de estos manuscritos ha sido seleccionado para su distribución en eJournals temáticos curados por SSRN.  
 A continuación se documentan las inclusiones editoriales confirmadas y programadas.
