@@ -207,9 +207,9 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Número 126 (10-11-2025)
 - **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Número 72 (21-11-2025)  
 - **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Número 222 (28-11-2025)  
+- **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Número 74 (9-12-2025)
 
 **Distribución programada:**
-- **Risk, Regulation & Policy eJournal (LSN)**, (08-12-2025)  
 - **Information Technology & Systems eJournal (ISN/CMBO)**, (24-12-2025)  
 - **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**, (03-10-2025)  
 - **Information Systems & Economics eJournal (ISN/CMBO)**, (29-06-2027)
