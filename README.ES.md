@@ -19,8 +19,8 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
 3. [Distribución en eJournals de SSRN](#dis3)
 4. [Capítulos de Libro (Como obra citada)](#cap4)
-5. [Revistas Académicas (Como obra citada)](#revistas-académicas-como-obra-citada)
-6. [Tesis y Referencias Institucionales (Como obra citada)](#tesis-y-referencias-institucionales-como-obra-citada)
+5. [Revistas Académicas (Como obra citada)](#rev5)
+6. [Tesis y Referencias Institucionales (Como obra citada)](#tes6)
 7. [Medios Jurídicos y Profesionales](#medios-jurídicos-y-profesionales)
 8. [Menciones en Prensa](#menciones-en-prensa)
 9. [Citaciones en Google Scholar](#citaciones-en-google-scholar)
@@ -255,7 +255,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Argentina
 
 ---
-## Revistas Académicas (Como obra citada)
+## Revistas Académicas (Como obra citada))<a id="rev5"></a>
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Autor**: José Heriberto García Peña
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
@@ -275,7 +275,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Perú
 
 ---
-## Tesis y referencias institucionales (como obra citada)
+## Tesis y referencias institucionales (como obra citada))<a id="tes6"></a>
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Autor**: Juan Andrés Meza Sánchez
 - **Institución**: UNAM – Facultad de Derecho
