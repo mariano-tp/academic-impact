@@ -18,7 +18,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 1. [Artículos Publicados (Revisados por pares)](#art1)
 2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
 3. [Distribución en eJournals de SSRN](#dis3)
-4. [Capítulos de Libro (Como obra citada)](#capítulos-de-libro-como-obra-citada)
+4. [Capítulos de Libro (Como obra citada)](#cap4)
 5. [Revistas Académicas (Como obra citada)](#revistas-académicas-como-obra-citada)
 6. [Tesis y Referencias Institucionales (Como obra citada)](#tesis-y-referencias-institucionales-como-obra-citada)
 7. [Medios Jurídicos y Profesionales](#medios-jurídicos-y-profesionales)
@@ -243,7 +243,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
 
 ---
-## Capítulos de Libro (Como obra citada)
+## Capítulos de Libro (Como obra citada))<a id="cap4"></a>
 ### Derecho y Nuevas Tecnologías
 - **Director**: Gonzalo Ana Dobratinich
 - **Editorial**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
