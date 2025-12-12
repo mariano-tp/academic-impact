@@ -243,7 +243,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
 
 ---
-## Capítulos de Libro (Como obra citada))<a id="cap4"></a>
+## Capítulos de Libro (Como obra citada)<a id="cap4"></a>
 ### Derecho y Nuevas Tecnologías
 - **Director**: Gonzalo Ana Dobratinich
 - **Editorial**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
