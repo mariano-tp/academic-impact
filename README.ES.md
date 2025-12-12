@@ -15,7 +15,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 ---
 ## Índice
-1. [Artículos Publicados (Revisados por pares)](#articulos1)
+1. [Artículos Publicados (Revisados por pares)](#art1)
 2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
 3. [Distribución en eJournals de SSRN](#distribución-en-ejournals-de-ssrn)
 4. [Capítulos de Libro (Como obra citada)](#capítulos-de-libro-como-obra-citada)
@@ -29,7 +29,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 
 ---
-## Artículos Publicados (Revisados por pares)<a id="#articulos1"></a>
+## Artículos Publicados (Revisados por pares)<a id="#art1"></a>
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
 - **Editorial**: Ciencia y Técnica Administrativa (CyTA)
