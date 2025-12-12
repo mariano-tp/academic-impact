@@ -21,8 +21,8 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 4. [Capítulos de Libro (Como obra citada)](#cap4)
 5. [Revistas Académicas (Como obra citada)](#rev5)
 6. [Tesis y Referencias Institucionales (Como obra citada)](#tes6)
-7. [Medios Jurídicos y Profesionales](#medios-jurídicos-y-profesionales)
-8. [Menciones en Prensa](#menciones-en-prensa)
+7. [Medios Jurídicos y Profesionales](#med7)
+8. [Menciones en Prensa](#men8)
 9. [Citaciones en Google Scholar](#citaciones-en-google-scholar)
 10. [Líneas de Investigación](#líneas-de-investigación)
 11. [Nota Final](#nota-final)
@@ -255,7 +255,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Argentina
 
 ---
-## Revistas Académicas (Como obra citada))<a id="rev5"></a>
+## Revistas Académicas (Como obra citada)<a id="rev5"></a>
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Autor**: José Heriberto García Peña
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
@@ -275,7 +275,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Perú
 
 ---
-## Tesis y referencias institucionales (como obra citada))<a id="tes6"></a>
+## Tesis y referencias institucionales (como obra citada)<a id="tes6"></a>
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Autor**: Juan Andrés Meza Sánchez
 - **Institución**: UNAM – Facultad de Derecho
@@ -295,7 +295,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: España
 
 ---
-## Medios Jurídicos y Profesionales
+## Medios Jurídicos y Profesionales<a id="med7"></a>
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
 - **Autor**: María Patrizia Domingues Villarroel
 - **Medio**: ElDerecho – Lefebvre
@@ -306,7 +306,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: España
 
 ---
-## Menciones en Prensa
+## Menciones en Prensa<a id="men8"></a>
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
 - **Medio**: Expediente.News (Venezuela)
 - **Fecha**: 2023-03-10
