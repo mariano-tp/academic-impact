@@ -102,7 +102,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#cloud-native-resilience)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#ssrn3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
@@ -124,7 +124,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Language**: English
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#cra-opensource)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#ssrn2)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
@@ -135,7 +135,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#ai-us-healthcare-pediatric-care)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#ssrn1)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
@@ -248,7 +248,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 A subset of these working papers has been selected and distributed through curated SSRN Subject Matter eJournals.  
 This section records confirmed and scheduled editorial inclusions.
 
-### Cloud-Native Resilience: DevOps and DORA in Financial Services <a id="cloud-native-resilience"></a>
+### Cloud-Native Resilience: DevOps and DORA in Financial Services <a id="ssrn3"></a>
 **SSRN ID:** 5497878  
 **Primary repositories:** Zenodo & SSRN  
 
@@ -266,17 +266,7 @@ This section records confirmed and scheduled editorial inclusions.
 
 **Classification networks:** FEN, IRPN, ISN, LSN
 
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ai-us-healthcare-pediatric-care"></a>   
-**SSRN ID:** 5468846  
-**Primary repositories:** Zenodo & SSRN  
-
-**Distributed in:**
-- **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Issue 51 (Nov 6, 2025)  
-- **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Issue 32 (Oct 1, 2025)
-
-**Classification networks:** CompSciRN
-
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="cra-opensource"></a>
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="ssrn2"></a>
 **SSRN ID:** 5552760  
 **Primary repositories:** Zenodo & SSRN  
 
@@ -291,6 +281,15 @@ This section records confirmed and scheduled editorial inclusions.
 
 **Classification networks:** CompSciRN, IRPN, LSN, ERPN
 
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ssrn1"></a> 
+**SSRN ID:** 5468846  
+**Primary repositories:** Zenodo & SSRN  
+
+**Distributed in:**
+- **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Issue 51 (Nov 6, 2025)  
+- **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Issue 32 (Oct 1, 2025)
+
+**Classification networks:** CompSciRN
 
 ---
 
