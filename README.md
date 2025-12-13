@@ -157,7 +157,7 @@ A curated landing page with extended abstracts is also available on [Academia.ed
 - **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
 - **Language**: English
 - **Abstract**: Analysis of how digital bureaucracy shifts procedural burdens onto citizens, eroding due process guarantees through technological mediation and platform-based governance.
-- **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17873281)
+- **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
