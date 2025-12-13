@@ -132,10 +132,10 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
 - **Idioma**: Inglés
 - **Resumen**: Análisis de cómo la burocracia digital traslada las cargas procedimentales a los ciudadanos, erosionando las garantías del debido proceso a través de la mediación tecnológica y la gobernanza basada en plataformas.
-- **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17873281)
+- **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
-- **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
-- **PDF del autor**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
+- **PDF del autor**: [descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
