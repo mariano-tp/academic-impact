@@ -174,10 +174,10 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
-- **Author**: Mariano Enrique Torres Ponce
-- **Date**: 2019-08-07
-- **License**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
-- **Language**: Español
+- **Autor**: Mariano Enrique Torres Ponce
+- **Fecha**: 2019-08-07
+- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Idioma**: Español
 - **Resumen**: Analiza cómo los contratos informáticos protegen la continuidad operativa mediante garantías y responsabilidad.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
