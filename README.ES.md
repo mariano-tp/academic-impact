@@ -194,7 +194,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
-## Distribución en eJournals de SSRN<a id="indice3"></a>
+## Distribución en eJournals de SSRN <a id="indice3"></a>
 
 Un subconjunto de estos manuscritos ha sido seleccionado para su distribución en eJournals temáticos curados por SSRN.  
 A continuación se documentan las inclusiones editoriales confirmadas y programadas.
@@ -204,15 +204,15 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Repositorios principales:** Zenodo & SSRN  
 
 **Distribuido en:**
-- **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Número 126 (10-11-2025)
-- **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Número 72 (21-11-2025)  
-- **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Número 222 (28-11-2025)  
-- **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Número 74 (9-12-2025)
+- **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Número 126 (2025-11-10)
+- **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Número 72 (2025-11-21)  
+- **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Número 222 (2025-11-28)  
+- **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Número 74 (2025-12-09)
 
 **Distribución programada:**
-- **Information Technology & Systems eJournal (ISN/CMBO)**, (24-12-2025)  
-- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**, (03-10-2025)  
-- **Information Systems & Economics eJournal (ISN/CMBO)**, (29-06-2027)
+- **Information Technology & Systems eJournal (ISN/CMBO)** (2025-12-24)  
+- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)** (2025-10-03)  
+- **Information Systems & Economics eJournal (ISN/CMBO)** (2027-06-29)
 
 **Redes de clasificación:** FEN, IRPN, ISN, LSN
 
@@ -222,27 +222,26 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Repositorios principales:** Zenodo y SSRN  
 
 **Distribuido en:**
-- **Software Engineering eJournal (CompSciRN/CMBO)** Vol. 8, Issue 108 (28-11-2025)
-- **Innovation Law & Policy eJournal (IRPN)** Vol 13, Issue 231 (11-12-2025)
-
+- **Software Engineering eJournal (CompSciRN/CMBO)**, Vol. 8, Issue 108 (2025-11-28)
+- **Innovation Law & Policy eJournal (IRPN)**, Vol. 13, Issue 231 (2025-12-11)
 
 **Distribución programada:**
-- **Risk, Regulation & Policy eJournal (LSN)** (16-12-2025) 
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (28-04-2026)  
-- **Entrepreneurship & Law eJournal (ERPN)** (04-06-2026)
+- **Risk, Regulation & Policy eJournal (LSN)** (2025-12-16)  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (2026-04-28)  
+- **Entrepreneurship & Law eJournal (ERPN)** (2026-06-04)
 
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
+
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ssrn1"></a>
 **SSRN ID:** 5468846  
 **Repositorios principales:** Zenodo y SSRN  
 
 **Distribuido en:**
-- **Public Health Law & Policy eJournal (LSN)** Vol. 16, Número 51 (06-11-2025)
-- **Public Goods & Regulation in Health Economics eJournal (HEN)** Vol. 18, Número 32 (01-10-2025)
+- **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Número 51 (2025-11-06)
+- **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Número 32 (2025-10-01)
 
 **Redes de clasificación:** CompSciRN
-
 
 ---
 ## Capítulos de Libro (como obra citada)<a id="indice4"></a>
