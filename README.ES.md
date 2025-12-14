@@ -15,21 +15,21 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 
 ---
 ## Índice
-1. [Artículos Publicados (Revisados por pares)](#art1)
-2. [Publicaciones en Acceso Abierto con DOI](#publicaciones-en-acceso-abierto-con-doi)
-3. [Distribución en eJournals de SSRN](#dis3)
-4. [Capítulos de Libro (Como obra citada)](#cap4)
-5. [Revistas Académicas (Como obra citada)](#rev5)
-6. [Tesis y Referencias Institucionales (Como obra citada)](#tes6)
-7. [Medios Jurídicos y Profesionales](#med7)
-8. [Menciones en Prensa](#men8)
-9. [Citaciones en Google Scholar](#citaciones-en-google-scholar)
-10. [Líneas de Investigación](#líneas-de-investigación)
-11. [Nota Final](#nota-final)
+1. [Artículos Publicados (Revisados por pares)](#indice1)
+2. [Publicaciones en Acceso Abierto con DOI](#indice2)
+3. [Distribución en eJournals de SSRN](#indice3)
+4. [Capítulos de Libro (Como obra citada)](#indice4)
+5. [Revistas Académicas (Como obra citada)](#indice5)
+6. [Tesis y Referencias Institucionales (Como obra citada)](#indice6)
+7. [Medios Jurídicos y Profesionales](#indice7)
+8. [Menciones en Prensa](#indice8)
+9. [Citaciones en Google Scholar](#indice9)
+10. [Líneas de Investigación](#indice10)
+11. [Nota Final](#indice11)
 
 
 ---
-## Artículos Publicados (Revisados por pares)<a id="art1"></a>
+## Artículos Publicados (Revisados por pares)<a id="indice1"></a>
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
 - **Editorial**: Ciencia y Técnica Administrativa (CyTA)
@@ -88,7 +88,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
-## Publicaciones en Acceso Abierto con DOI
+## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
 ### Cloud-Native Resilience: DevOps and DORA in financial services  
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
@@ -194,7 +194,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **PDF del autor**: [descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
-## Distribución en eJournals de SSRN<a id="dis3"></a>
+## Distribución en eJournals de SSRN<a id="indice3"></a>
 
 Un subconjunto de estos manuscritos ha sido seleccionado para su distribución en eJournals temáticos curados por SSRN.  
 A continuación se documentan las inclusiones editoriales confirmadas y programadas.
@@ -245,7 +245,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 
 ---
-## Capítulos de Libro (Como obra citada)<a id="cap4"></a>
+## Capítulos de Libro (como obra citada)<a id="indice4"></a>
 ### Derecho y Nuevas Tecnologías
 - **Director**: Gonzalo Ana Dobratinich
 - **Editorial**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
@@ -257,7 +257,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Argentina
 
 ---
-## Revistas Académicas (Como obra citada)<a id="rev5"></a>
+## Revistas Académicas (como obra citada)<a id="indice5"></a>
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Autor**: José Heriberto García Peña
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
@@ -277,7 +277,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Perú
 
 ---
-## Tesis y referencias institucionales (como obra citada)<a id="tes6"></a>
+## Tesis y referencias institucionales (como obra citada)<a id="indice6"></a>
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Autor**: Juan Andrés Meza Sánchez
 - **Institución**: UNAM – Facultad de Derecho
@@ -297,7 +297,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: España
 
 ---
-## Medios Jurídicos y Profesionales<a id="med7"></a>
+## Medios Jurídicos y Profesionales<a id="indice7"></a>
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
 - **Autor**: María Patrizia Domingues Villarroel
 - **Medio**: ElDerecho – Lefebvre
@@ -308,7 +308,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: España
 
 ---
-## Menciones en Prensa<a id="men8"></a>
+## Menciones en Prensa<a id="indice8"></a>
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
 - **Medio**: Expediente.News (Venezuela)
 - **Fecha**: 2023-03-10
@@ -318,7 +318,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **País**: Venezuela
 
 ---
-## Citaciones en Google Scholar
+## Citaciones en Google Scholar<a id="indice9"></a>
 [Ver perfil completo](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ)
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
@@ -333,12 +333,12 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
 - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
 ---
-## Líneas de Investigación
+## Líneas de Investigación<a id="indice10"></a>
 - Inteligencia artificial y derecho
 - Evidencia digital e informática forense
 - Arquitecturas cloud-native
 - DevOps, cumplimiento normativo y resiliencia operativa en servicios financieros
 
 ---
-## Nota Final
+## Nota Final<a id="indice11"></a>
 *Este repositorio no reproduce íntegramente obras protegidas por derechos de autor. Solo se incluyen extractos (portada, índice y páginas de citación) con fines probatorios y de referencia académica.*
