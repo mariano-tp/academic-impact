@@ -18,9 +18,9 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 1. [Artículos Publicados (Revisados por pares)](#indice1)
 2. [Publicaciones en Acceso Abierto con DOI](#indice2)
 3. [Distribución en eJournals de SSRN](#indice3)
-4. [Capítulos de Libro (Como obra citada)](#indice4)
-5. [Revistas Académicas (Como obra citada)](#indice5)
-6. [Tesis y Referencias Institucionales (Como obra citada)](#indice6)
+4. [Capítulos de Libro (como obra citada)](#indice4)
+5. [Revistas Académicas (como obra citada)](#indice5)
+6. [Tesis y Referencias Institucionales (como obra citada)](#indice6)
 7. [Medios Jurídicos y Profesionales](#indice7)
 8. [Menciones en Prensa](#indice8)
 9. [Citaciones en Google Scholar](#indice9)
@@ -97,7 +97,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Idioma**: Inglés
 - **Resumen**: Extiende los marcos DORA de cumplimiento a la resiliencia operativa mediante automatización DevOps y observabilidad por diseño.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#ssrn3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
 - **PDF del autor**: [descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
@@ -109,7 +109,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Idioma**: Inglés
 - **Resumen**: Examina el impacto del Reglamento Europeo de Ciberresiliencia en el software de código abierto y propone automatización DevSecOps como modelo de gobernanza.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#ssrn2)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
 - **PDF del autor**: [descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
@@ -121,7 +121,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Idioma**: Inglés
 - **Resumen**: Estudia las implicancias regulatorias y éticas de la IA en atención pediátrica en EE. UU., con énfasis en responsabilidad civil, consentimiento informado y transparencia.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#ssrn1)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **PDF del autor**: [descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
@@ -199,7 +199,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 Un subconjunto de estos manuscritos ha sido seleccionado para su distribución en eJournals temáticos curados por SSRN.  
 A continuación se documentan las inclusiones editoriales confirmadas y programadas.
 
-### Cloud-Native Resilience: DevOps and DORA in Financial Services
+### Cloud-Native Resilience: DevOps and DORA in Financial Services <a id="ssrn3"></a>
 **SSRN ID:** 5497878  
 **Repositorios principales:** Zenodo & SSRN  
 
@@ -217,7 +217,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **Redes de clasificación:** FEN, IRPN, ISN, LSN
 
 
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
+### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="ssrn2"></a>  
 **SSRN ID:** 5552760  
 **Repositorios principales:** Zenodo y SSRN  
 
@@ -233,7 +233,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
 
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
+### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ssrn1"></a>
 **SSRN ID:** 5468846  
 **Repositorios principales:** Zenodo y SSRN  
 
