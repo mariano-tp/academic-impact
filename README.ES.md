@@ -123,7 +123,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#ssrn1)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
-- **PDF del autor**: [descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 *La Burocracia de los Mil Clics: La erosión del debido proceso en la administración digital*
