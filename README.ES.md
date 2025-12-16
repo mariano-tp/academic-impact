@@ -42,7 +42,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240402)
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575262)
-- **PDF del autor**: [descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
+- **PDF del autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
 - **Material complementario interactivo**: [Demo cloud-native evidence](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) – Demostración en navegador que simula un registro de auditoría encadenado por hash y permite descargar un paquete reproducible en formato JSON.
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
@@ -57,7 +57,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
-- **PDF del autor**: [descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
+- **PDF del autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
 
 ### Informática Forense: El camino de la evidencia digital
 - **Autor**: Mariano Enrique Torres Ponce
@@ -71,7 +71,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508884)
-- **PDF del autor**: [descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
+- **PDF del autor**: [Descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
 
 ### Derechos y Desafíos de la Inteligencia Artificial
 - **Autor**: Mariano Enrique Torres Ponce
@@ -85,7 +85,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=1)
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
-- **PDF del autor**: [descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
+- **PDF del autor**: [Descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
@@ -99,7 +99,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#ssrn3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
 *Código Abierto Bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
@@ -111,7 +111,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#ssrn2)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
 *Inteligencia Artificial en la Salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
@@ -135,7 +135,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
@@ -147,7 +147,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
 *Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
@@ -159,7 +159,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5756542)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17625619)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility  
 *Medicina Digital en Emergencias Sanitarias: Redefinición de la responsabilidad clínica y jurídica*
@@ -171,7 +171,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5695082)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17506876)
-- **PDF del autor**: [descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 - **Autor**: Mariano Enrique Torres Ponce
@@ -180,8 +180,8 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los contratos informáticos protegen la continuidad operativa mediante garantías y responsabilidad.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
-- **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
-- **PDF del autor**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17783388)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida
 - **Autor**: Mariano Enrique Torres Ponce
@@ -191,7 +191,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Resumen**: Estudia cómo la trazabilidad documental refuerza la responsabilidad institucional en seguridad de la información.
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17735815)
-- **PDF del autor**: [descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+- **PDF del autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
 ## Distribución en eJournals de SSRN <a id="indice3"></a>
