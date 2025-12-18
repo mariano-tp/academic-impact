@@ -54,10 +54,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
 - **Resumen**:
-Este trabajo analiza el impacto de la IA generativa en autoría, originalidad y fijación, mediante una revisión comparada de marcos normativos y casos relevantes.
-
-<details>
-<summary>Read more</summary>
+Este trabajo analiza el impacto de la IA generativa en autoría, originalidad y fijación, mediante una revisión comparada de marcos normativos y casos relevantes.<details><summary>Read more</summary>
 
 El estudio examina cómo los sistemas de inteligencia artificial generativa desafían los conceptos clásicos de autoría y titularidad del derecho de autor, a partir del análisis de legislación, doctrina y jurisprudencia en Argentina, España, la Unión Europea, Estados Unidos, Reino Unido, Japón y China.
 
