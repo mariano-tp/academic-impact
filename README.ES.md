@@ -53,10 +53,8 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 - **Fecha**: 2025-07-15
 - **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
 - **Idioma**: Español
-- **Resumen**:
-Este trabajo analiza el impacto de la IA generativa en autoría, originalidad y fijación, mediante una revisión comparada de marcos normativos y casos relevantes.<details><summary>*Read more*</summary>El estudio examina cómo los sistemas de inteligencia artificial generativa desafían los conceptos clásicos de autoría y titularidad del derecho de autor, a partir del análisis de legislación, doctrina y jurisprudencia en Argentina, España, la Unión Europea, Estados Unidos, Reino Unido, Japón y China.
-Se sostiene que las obras generadas íntegramente por sistemas de IA, sin intervención creativa humana relevante, no encajan en los criterios tradicionales de autoría protegible. En cambio, las obras producidas con asistencia de IA pueden ser objeto de protección jurídica cuando existe un aporte creativo humano sustancial que permita identificar una voluntad autoral.
-El trabajo propone criterios interpretativos para distinguir entre creación autónoma y creación asistida, y analiza las implicancias de estas distinciones en materia de titularidad, originalidad y fijación de la obra. Asimismo, se identifican tendencias regulatorias y enfoques divergentes entre los distintos ordenamientos jurídicos, destacando los desafíos que la IA plantea para la adaptación del derecho de autor en contextos tecnológicos emergentes.</details>- **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
+- **Resumen**: Este trabajo analiza el impacto de la IA generativa en autoría, originalidad y fijación, mediante una revisión comparada de marcos normativos y casos relevantes.
+- **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
 - **PDF del autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
@@ -323,13 +321,13 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 [Ver perfil completo](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ)
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
-- **Citaciones**: 8 (a diciembre de 2025)
+- **Citaciones**: 9 (hasta diciembre de 2025)
 - **Citaciones seleccionadas**:
 - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
 - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
 
 ### Informática Forense: El camino de la evidencia digital (2020)
-- **Citaciones**: 2 (a diciembre de 2025)
+- **Citaciones**: 2 (hasta diciembre de 2025)
 - **Citaciones seleccionadas**:
 - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
 - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
