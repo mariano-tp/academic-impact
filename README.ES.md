@@ -13,6 +13,9 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 
 Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com/mariano-tp)), orientado a DevOps e ingeniería cloud, así como la página curada con resúmenes ampliados disponible en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/scientific-contributions/Mariano-Enrique-Torres-Ponce-2324603454).
 
+Visibilidad académica
+Autor indexado en AD Scientific Index (plataforma internacional de visibilidad y ranking de investigadores): [AD Scientific Index – Perfil de autor](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
+
 ---
 ## Índice
 1. [Artículos Publicados (Revisados por pares)](#indice1)
