@@ -15,6 +15,9 @@ Index-verified citations (Google Scholar) appear only in [***Google Scholar***](
 It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.  
 A curated landing page with extended abstracts is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/scientific-contributions/Mariano-Enrique-Torres-Ponce-2324603454)
 
+Academic visibility profiles
+Author indexed in AD Scientific Index (international researcher ranking and visibility platform): [AD Scientific Index – Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
+
 ---
 ## Table of Contents
 1. [Published Papers (Peer-Reviewed)](#published-papers-peer-reviewed)
