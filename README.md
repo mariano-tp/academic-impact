@@ -196,7 +196,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Analyses football’s *lex sportiva* as a transnational legal system shaped by institutions, technology and procedural standards.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5756542)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#ssrn0)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
@@ -293,6 +293,12 @@ This section records confirmed and scheduled editorial inclusions.
 - **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Issue 32 (Oct 1, 2025)
 
 **Classification networks:** CompSciRN
+
+### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance <a id="ssrn0"></a>
+**SSRN ID:** 5756542  
+**Primary repositories:** Zenodo & SSRN  
+
+**Distributed in:**
 
 ---
 
