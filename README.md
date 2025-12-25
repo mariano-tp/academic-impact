@@ -15,7 +15,7 @@ Index-verified citations (Google Scholar) appear only in [***Google Scholar***](
 It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.  
 A curated landing page with extended abstracts is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/scientific-contributions/Mariano-Enrique-Torres-Ponce-2324603454)
 
-**Author identifier**
+**Author identifier**  
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 **Academic visibility profiles**  
