@@ -253,6 +253,14 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 **SSRN ID:** 5756542  
 **Repositorios principales:** Zenodo y SSRN  
 
+**Distribución programada:**
+- **Comparative & Global Administrative Law eJournal (LSN/CMBO)**
+- **Comparative Law & Trans-National Studies eJournal (LSN/CMBO)**
+- **Sports, Gaming & Entertainment Law eJournal (LSN/CMBO)**
+- **Public International Law: Human Rights eJournal (LSN/CMBO)** 
+- **Public International Law: Organizations eJournal (LSN/CMBO)**
+- **Negotiation & Dispute Resolution eJournal (LSN/CMBO)**
+
 ---
 ## Capítulos de Libro (como obra citada)<a id="indice4"></a>
 ### Derecho y Nuevas Tecnologías
