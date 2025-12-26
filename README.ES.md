@@ -216,9 +216,9 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Número 74 (2025-12-09)
 
 **Distribución programada:**
-- **Information Technology & Systems eJournal (ISN/CMBO)** (2025-12-24)  
-- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)** (2025-10-03)  
-- **Information Systems & Economics eJournal (ISN/CMBO)** (2027-06-29)
+- **Information Technology & Systems eJournal (ISN/CMBO)**  
+- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**  
+- **Information Systems & Economics eJournal (ISN/CMBO)**
 
 **Redes de clasificación:** FEN, IRPN, ISN, LSN
 
@@ -232,9 +232,9 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 - **Innovation Law & Policy eJournal (IRPN)**, Vol. 13, Issue 231 (2025-12-11)
 
 **Distribución programada:**
-- **Risk, Regulation & Policy eJournal (LSN)** (2025-12-16)  
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (2026-04-28)  
-- **Entrepreneurship & Law eJournal (ERPN)** (2026-06-04)
+- **Risk, Regulation & Policy eJournal (LSN)**  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)**  
+- **Entrepreneurship & Law eJournal (ERPN)**
 
 **Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
 
