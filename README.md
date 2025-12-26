@@ -301,8 +301,13 @@ This section records confirmed and scheduled editorial inclusions.
 **SSRN ID:** 5756542  
 **Primary repositories:** Zenodo & SSRN  
 
-**Distributed in:**
-
+**Scheduled distribution:**
+- **Comparative & Global Administrative Law eJournal (LSN/CMBO)**
+- **Comparative Law & Trans-National Studies eJournal (LSN/CMBO)**
+- **Sports, Gaming & Entertainment Law eJournal (LSN/CMBO)**
+- **Public International Law: Human Rights eJournal (LSN/CMBO)** 
+- **Public International Law: Organizations eJournal (LSN/CMBO)**
+- **Negotiation & Dispute Resolution eJournal (LSN/CMBO)**
 ---
 
 ## Book Chapters (as cited work)
