@@ -266,9 +266,9 @@ This section records confirmed and scheduled editorial inclusions.
 
 **Scheduled distribution:**
 
-- **Information Technology & Systems eJournal (ISN/CMBO)**, (Dec 24, 2025)  
-- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**, (Oct 3, 2025)  
-- **Information Systems & Economics eJournal (ISN/CMBO)**, (Jul 29, 2027)
+- **Information Technology & Systems eJournal (ISN/CMBO)**  
+- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**  
+- **Information Systems & Economics eJournal (ISN/CMBO)**
 
 **Classification networks:** FEN, IRPN, ISN, LSN
 
@@ -281,9 +281,9 @@ This section records confirmed and scheduled editorial inclusions.
 - **Innovation Law & Policy eJournal (IRPN)** Vol 13, Issue 231 (Dec 11, 2025)  
 
 **Scheduled distribution:**
-- **Risk, Regulation & Policy eJournal (LSN)** (Dec 16, 2025)  
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)** (Apr 29, 2026)  
-- **Entrepreneurship & Law eJournal (ERPN)** (Jun 8, 2026)
+- **Risk, Regulation & Policy eJournal (LSN)**  
+- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)**  
+- **Entrepreneurship & Law eJournal (ERPN)**
 
 **Classification networks:** CompSciRN, IRPN, LSN, ERPN
 
