@@ -153,7 +153,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: Spanish
 - **Abstract**: Explores the transformation of digital ownership into access regimes under SaaS and platform economies, bridging law, technology, and economics.
 - **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
-- **Parallel version**: [SSRN](http://dx.doi.org/10.2139/ssrn.5687822)
+- **Parallel version**: [SSRN](http://doi.org/10.2139/ssrn.5687822)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17278111)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
 
