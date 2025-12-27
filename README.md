@@ -50,8 +50,8 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=240402)
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575262)
+- **Supplementary material**: Supplementary interactive demo illustrating cloud-native forensic evidence handling and traceability [Cloud-Native Evidence Demo](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
 - **Author's Copy PDF**: [Download](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
-- **Interactive supplementary material**: [Cloud-Native Evidence Demo](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/)
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo  
 *Creations with Artificial Intelligence: ownership criteria and regulatory framework*
