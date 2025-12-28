@@ -95,6 +95,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
+## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
 ### Cloud-Native Resilience: DevOps and DORA in financial services  
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
@@ -105,7 +106,17 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#ssrn3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
+
+### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
+- **Autores**: Mariano Enrique Torres Ponce; Sandra Susana Arroyo Giuliani
+- **Fecha**: 2025-06-03
+- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Idioma**: Español
+- **Resumen**: Analiza los riesgos éticos, jurídicos y clínicos del uso de la IA en la salud mental, con énfasis en la seguridad del paciente, los sesgos algorítmicos, las limitaciones culturales y el carácter irremplazable de la relación terapéutica humana.
+- **DOI**: [10.5281/zenodo.17297095](https://doi.org/10.5281/zenodo.17297095)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17297095)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_ArroyoGiuliani_2025_IA-Salud-Mental.pdf)
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security  
 *Código Abierto Bajo el Reglamento de Ciberresiliencia: Automatización del cumplimiento y modelos de gobernanza para una seguridad sostenible*
@@ -131,6 +142,17 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **PDF del autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
+### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
+- **Autor**: Mariano Enrique Torres Ponce
+- **Fecha**: 2024-07-24
+- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Idioma**: Español
+- **Resumen**: Explora la transformación de la propiedad digital en regímenes de acceso bajo modelos SaaS y economías de plataformas, articulando una mirada interdisciplinaria entre el derecho, la tecnología y la economía.
+- **DOI**: [10.5281/zenodo.17278111](https://doi.org/10.5281/zenodo.17278111)
+- **Versión paralela**: [SSRN](http://doi.org/10.2139/ssrn.5687822)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17278111)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Propiedad-en-Transicion.pdf)
+
 ### The Thousand-Click Bureaucracy: The erosion of due process in digital administration
 *La Burocracia de los Mil Clics: La erosión del debido proceso en la administración digital*
 - **Autor**: Mariano Enrique Torres Ponce
@@ -141,7 +163,19 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
+
+### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
+*The Impact of Kubernetes and GitOps Adoption on Change Governance: An analysis from the post-COVID paradigm*
+- **Autor**: Mariano Enrique Torres Ponce
+- **Fecha**: 2023-12-15
+- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Idioma**: Spanish
+- **Resumen**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
+- **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5603512)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17350239)
+- **PDF del Autor**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
@@ -153,7 +187,8 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE_Law_of_Technological_Risk_Explanatory_Video.mp4)
+- **PDF del Autor**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
 *Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
@@ -165,7 +200,19 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(Ver distribución de eJournal)](#ssrn0)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17625619)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
+
+### Del Panóptico al Datapoint: Vigilancia y control por arquitectura  
+*From the Panopticon to the Datapoint: Governance and control by design*
+- **Autor**: Mariano Enrique Torres Ponce
+- **Fecha**: 2022-03-10
+- **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
+- **Idioma**: Spanish
+- **Resumen**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
+- **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
+- **Versión paralela**: [SSRN](https://ssrn.com/abstract=5788802)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17438436)
+- **PDF del Autor**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility  
 *Medicina Digital en Emergencias Sanitarias: Redefinición de la responsabilidad clínica y jurídica*
@@ -177,9 +224,9 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5695082)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17506876)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
-### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
+#### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2019-08-07
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
@@ -187,7 +234,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Resumen**: Analiza cómo los contratos informáticos protegen la continuidad operativa mediante garantías y responsabilidad.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17783388)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida
 - **Autor**: Mariano Enrique Torres Ponce
@@ -197,7 +244,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Resumen**: Estudia cómo la trazabilidad documental refuerza la responsabilidad institucional en seguridad de la información.
 - **DOI**: [10.5281/zenodo.17735815](https://doi.org/10.5281/zenodo.17735815)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17735815)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
 ## Distribución en eJournals de SSRN <a id="indice3"></a>
