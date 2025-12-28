@@ -95,7 +95,6 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
-## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
 ### Cloud-Native Resilience: DevOps and DORA in financial services  
 *Resiliencia Cloud-Native: DevOps y DORA en servicios financieros*
 - **Autor**: Mariano Enrique Torres Ponce
