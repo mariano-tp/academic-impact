@@ -235,6 +235,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: Spanish
 - **Abstract**: Analyzes how IT contracts protect operational continuity through safeguards and accountability.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
+- **Parallel version**: [SSRN](http://doi.org/10.2139/ssrn.5877403)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17783388)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
