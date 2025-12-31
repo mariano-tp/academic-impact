@@ -49,7 +49,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575262)
 - **Material complementario interactivo**: [Demo cloud-native evidence](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) – Demostración en navegador que simula un registro de auditoría encadenado por hash y permite descargar un paquete reproducible en formato JSON.
-- **PDF del autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
 
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
@@ -64,7 +64,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240302)
 - **DOI**: [10.5281/zenodo.17575998](https://doi.org/10.5281/zenodo.17575998)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575998)
-- **PDF del autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_2025_Creaciones-con-IA-y-Titularidad.pdf)
 
 ### Informática Forense: El camino de la evidencia digital
 - **Autor**: Mariano Enrique Torres Ponce
@@ -78,7 +78,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=3)
 - **DOI**: [10.5281/zenodo.17508884](https://doi.org/10.5281/zenodo.17508884)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508884)
-- **PDF del autor**: [Descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
+- **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital.pdf) / [Descargar BookIA](papers/TorresPonce_2020_Informática-Forense-Evidencia-Digital-BookIA-.pdf)
 
 ### Derechos y Desafíos de la Inteligencia Artificial
 - **Autor**: Mariano Enrique Torres Ponce
@@ -92,7 +92,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión oficial (BookIA/PDF)**: [Leer online](https://cyta.com.ar/bookia/bookia.php?id=1)
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17508689)
-- **PDF del autor**: [Descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
+- **PDF del Autor**: [Descargar PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Descargar BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
 ## Publicaciones en Acceso Abierto con DOI<a id="indice2"></a>
@@ -129,7 +129,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#ssrn2)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care  
 *Inteligencia Artificial en la Salud de EE.UU.: Marco legal, responsabilidad y desafíos éticos con énfasis en el ámbito pediátrico*
@@ -142,7 +142,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#ssrn1)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **Material suplementario**: Video explicativo suplementario que proporciona una descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
-- **PDF del autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
 - **Autor**: Mariano Enrique Torres Ponce
