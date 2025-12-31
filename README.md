@@ -110,6 +110,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#ssrn3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
+- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
