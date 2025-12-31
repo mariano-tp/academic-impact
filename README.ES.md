@@ -141,6 +141,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#ssrn1)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
+- **Material suplementario**: Video explicativo suplementario que proporciona una descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **PDF del autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
