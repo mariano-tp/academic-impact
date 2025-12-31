@@ -187,7 +187,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
-- **Material suplementario**: Video explicativo suplementario que proporciona una descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE_Law_of_Technological_Risk_Explanatory-Video.mp4)
+- **Material suplementario**: Video explicativo suplementario que proporciona una descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **PDF del Autor**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
