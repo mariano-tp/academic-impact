@@ -226,6 +226,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5695082)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17506876)
+- **Material suplementario**: Video explicativo suplementario que proporciona una descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 #### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
