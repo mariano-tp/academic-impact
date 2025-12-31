@@ -48,8 +48,9 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=240402)
 - **DOI**: [10.5281/zenodo.17575262](https://doi.org/10.5281/zenodo.17575262)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17575262)
-- **PDF del autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
 - **Material complementario interactivo**: [Demo cloud-native evidence](https://mariano-tp.github.io/academic-impact/demos/cloud-native-evidence-pages-demo/) – Demostración en navegador que simula un registro de auditoría encadenado por hash y permite descargar un paquete reproducible en formato JSON.
+- **PDF del autor**: [Descargar](papers/TorresPonce_2025_Evidencia-Digital-Cloud-Native.pdf)
+
 
 ### Creaciones con Inteligencia Artificial: Criterios de titularidad y marco normativo
 - **Autor**: Mariano Enrique Torres Ponce
