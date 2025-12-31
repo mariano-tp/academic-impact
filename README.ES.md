@@ -163,6 +163,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17873281)
+- **Material suplementario**: Video explicativo suplementario que proporciona una descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
