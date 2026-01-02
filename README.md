@@ -96,7 +96,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Official version (BookIA/PDF)**: [Read online](https://cyta.com.ar/bookia/bookia.php?id=1)
 - **DOI**: [10.5281/zenodo.17508689](https://doi.org/10.5281/zenodo.17508689)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17508689)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17508689/TorresPonce_2019_Derechos-y-Desafios-de-la-IA_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Download BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
@@ -111,7 +111,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#ssrn3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
 
 ### Inteligencia Artificial en Salud Mental: Seguridad del paciente, ética y derecho  
@@ -134,7 +134,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#ssrn2)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
@@ -146,7 +146,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#ssrn1)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
 
 ### Propiedad en Transición: SaaS y el nuevo régimen de acceso digital  
@@ -170,7 +170,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 
@@ -195,7 +195,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17363577](https://doi.org/10.5281/zenodo.17363577)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17363577)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance
@@ -230,7 +230,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **DOI**: [10.5281/zenodo.17506876](https://doi.org/10.5281/zenodo.17506876)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5695082)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17506876)
-- **Supplementary material**: Supplementary explanatory video providing a narrative overview of the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
+- **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17506876/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2021_Digital-Medicine-in-Health-Emergencies.pdf)
 
 ### Contratos Informáticos en Argentina: Continuidad operativa, depósito de código fuente y servicios de infraestructura  
