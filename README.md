@@ -6,7 +6,7 @@ This repository collects some of my academic works and evidence of their citatio
 **Inclusion criteria:** This repo lists **non-Scholar citations** with evidence files (books, regional journals, theses, institutional repositories, media).
 Index-verified citations (Google Scholar) appear only in [***Google Scholar***](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-**Repository Structure:**  
+**Repository Structure**  
 `papers/` - Author copies  
 `open-access/` - Published open access works (Institutional repositories)  
 `citations/` - Citation evidence (PDF extracts)  
