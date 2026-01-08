@@ -279,7 +279,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 ### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="ssrn2"></a>  
 **SSRN ID:** 5552760  
-**Repositorios principales:** Zenodo y SSRN  
+**Repositorios principales:** Zenodo & SSRN  
 
 **Distribuido en:**
 - **Software Engineering eJournal (CompSciRN/CMBO)**, Vol. 8, Issue 108 (2025-11-28)
@@ -295,7 +295,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 ### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ssrn1"></a>
 **SSRN ID:** 5468846  
-**Repositorios principales:** Zenodo y SSRN  
+**Repositorios principales:** Zenodo & SSRN  
 
 **Distribuido en:**
 - **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Número 51 (2025-11-06)
@@ -305,7 +305,7 @@ A continuación se documentan las inclusiones editoriales confirmadas y programa
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance <a id="ssrn0"></a>
 **SSRN ID:** 5756542  
-**Repositorios principales:** Zenodo y SSRN  
+**Repositorios principales:** Zenodo & SSRN  
 
 **Distribución programada:**
 - **Comparative & Global Administrative Law eJournal (LSN/CMBO)**
