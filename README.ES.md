@@ -212,8 +212,8 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2022-03-10
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
-- **Idioma**: Spanish
-- **Resumen**: Analyzes the evolution from surveillance societies to algorithmic governance, defining control as a property of digital architecture itself.
+- **Idioma**: Español
+- **Resumen**: Analiza la evolución desde las sociedades de vigilancia a la gobernanza algorítmica, definiendo el control como una propiedad de la propia arquitectura digital.
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
 - **Versión paralela**: [SSRN](https://ssrn.com/abstract=5788802)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17438436)
