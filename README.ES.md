@@ -5,7 +5,7 @@ Este repositorio reúne una selección de mis publicaciones académicas y la evi
 **Criterio de inclusión:** Se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de archivos probatorios (libros, revistas regionales, tesis, repositorios institucionales y prensa).  
 Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de [***Google Scholar***](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-**Estructura del repositorio:**  
+**Estructura del repositorio**  
 `papers/` – Copias del autor  
 `open-access/` – Publicaciones en acceso abierto (repositorios institucionales)  
 `citations/` – Extractos que acreditan la citación (PDF)  
@@ -16,7 +16,7 @@ Complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com
 **Identificación del autor**  
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
-**Visibilidad académica:**  
+**Visibilidad académica**  
 Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
 ---
