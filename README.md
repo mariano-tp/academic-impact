@@ -191,7 +191,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Date**: 2023-07-20
 - **License**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
 - **Language**: English
-- **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributes to health anxiety and overdiagnosis, and transforms validation, reassurance, and responsibility in pediatric and adult care.
+- **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributing to health anxiety and overdiagnosis in pediatric and adult care.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
