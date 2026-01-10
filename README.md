@@ -186,6 +186,17 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
+### Overdiagnosis, Information Overload, and Validation Encounters
+- **Author**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
+- **Date**: 2023-07-20
+- **License**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Language**: English
+- **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributes to health anxiety and overdiagnosis, and transforms validation, reassurance, and responsibility in pediatric and adult care.
+- **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
+- **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
+
 ### SRE in the Law of Technological Risk: Reliability and responsibility
 - **Author**: Mariano Enrique Torres Ponce
 - **Date**: 2023-02-07
