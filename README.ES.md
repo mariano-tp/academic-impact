@@ -171,16 +171,27 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
 
 ### El Impacto de la Adopción de Kubernetes y GitOps en la Gobernanza del Cambio: Un análisis desde el paradigma post-COVID  
-*The Impact of Kubernetes and GitOps Adoption on Change Governance: An analysis from the post-COVID paradigm*
 - **Autor**: Mariano Enrique Torres Ponce
 - **Fecha**: 2023-12-15
 - **Licencia**: CC BY-NC-ND 4.0 – © Mariano Enrique Torres Ponce
-- **Idioma**: Spanish
-- **Resumen**: Discusses post-pandemic infrastructure governance through GitOps automation, resilience, and the cultural shift toward continuous delivery.
+- **Idioma**: Español
+- **Resumen**: Analiza la gobernanza de la infraestructura pospandémica a través de la automatización de GitOps, la resiliencia y el cambio cultural hacia la entrega continua.
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5603512)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17350239)
 - **PDF del Autor**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
+
+### Overdiagnosis, Information Overload, and Validation Encounters
+*Sobrediagnóstico, saturación informativa y encuentros de validación clínica*
+- **Autor**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
+- **Fecha**: 2023-07-20
+- **Licencia**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
+- **Idioma**: Inglés
+- **Resumen**: Examina cómo la sobrecarga de información médica transforma el encuentro clínico, contribuyendo a la ansiedad por la salud y al sobrediagnóstico en la atención pediátrica y de adultos.
+- **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
+- **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
+- **PDF del Autor**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
