@@ -196,7 +196,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17350239)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
-### Overdiagnosis, Information Overload, and Validation Encounters
+### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 - **Author**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
 - **Date**: 2023-07-20
 - **License**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
