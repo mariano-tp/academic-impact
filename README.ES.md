@@ -194,7 +194,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **PDF del Autor**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
-*Sobrediagnóstico por saturación informativa: autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
+*Sobrediagnóstico por saturación informativa: Autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
 - **Autor**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
 - **Fecha**: 2023-07-20
 - **Licencia**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
