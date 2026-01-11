@@ -3,31 +3,31 @@
 
 This repository maintains a curated archive of my academic works and their verified impact across books, journals, theses, institutional repositories and policy-relevant publications. It provides persistent access to author copies, open-access versions, citation evidence and supporting materials linked to each research output, forming a research infrastructure for traceability, preservation and scholarly reuse.
 
-## Scope and inclusion criteria
+### Scope and inclusion criteria
 
 This repository collects my academic works and documented evidence of their citation in books, peer reviewed journals, regional journals, theses, institutional repositories and specialized media.
 
 **Inclusion criteria:** this repository lists **non-Google Scholar citations** with documentary evidence such as scanned book pages, journal PDFs, thesis extracts and repository records.  
 Index-verified citations appear exclusively in my [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-## Repository structure
+###  Repository structure
 
 `papers/` — Author copies of manuscripts and working papers  
 `open-access/` — Published open access versions from institutional and public repositories  
 `citations/` — Documentary evidence of citations and references  
 `demos/` — Interactive materials and technical prototypes linked to specific papers  
 
-## External academic presence
+###  External academic presence
 
 This repository complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps, Cloud Engineering and production systems.
 
 A curated landing page with extended abstracts and bibliographic metadata is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
-## Author identifier
+###  Author identifier
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
-## Academic visibility
+###  Academic visibility
 
 Author indexed in AD Scientific Index: [Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
