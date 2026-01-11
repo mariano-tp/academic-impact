@@ -3,34 +3,33 @@
 
 Este repositorio mantiene un archivo curado de mis trabajos académicos y de su impacto documentado en libros, revistas científicas, tesis, repositorios institucionales y publicaciones especializadas. Proporciona acceso persistente a copias de autor, versiones en acceso abierto, evidencia de citación y materiales de apoyo vinculados a cada producción, funcionando como una infraestructura de trazabilidad, preservación y reutilización académica.
 
-## Alcance y criterios de inclusión
+### Alcance y criterios de inclusión
 
 Este repositorio reúne mis obras académicas y la evidencia documental de su citación en libros, revistas científicas, revistas regionales, tesis, repositorios institucionales y medios especializados.
 
 **Criterio de inclusión:** se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de archivos probatorios como páginas de libros, PDFs de revistas, extractos de tesis y registros de repositorios.  
 Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de [Google Scholar](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-## Estructura del repositorio
+### Estructura del repositorio
 
 `papers/` — Copias del autor de manuscritos y working papers  
 `open-access/` — Versiones publicadas en acceso abierto desde repositorios institucionales y públicos  
 `citations/` — Evidencia documental de citas y referencias  
 `demos/` — Material interactivo y prototipos técnicos vinculados a trabajos específicos  
 
-## Presencia académica externa
+### Presencia académica externa
 
 Este repositorio complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com/mariano-tp)), orientado a DevOps, ingeniería cloud y sistemas de producción.
 
 Una página curada con resúmenes ampliados y metadatos bibliográficos también se encuentra disponible en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
-## Identificación del autor
+### Identificación del autor
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
-## Visibilidad académica
+### Visibilidad académica
 
 Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
-
 
 ---
 ## Índice
