@@ -1,25 +1,38 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
-# Academic Papers & Citation Evidence
+# Academic Research Archive and Curated Impact Repository
 
-This repository collects some of my academic works and evidence of their citation in books, articles, journals, theses, and press.  
+This repository maintains a curated archive of my academic works and their verified impact across books, journals, theses, institutional repositories and policy-relevant publications. It provides persistent access to author copies, open-access versions, citation evidence and supporting materials linked to each research output, forming a research infrastructure for traceability, preservation and scholarly reuse.
 
-**Inclusion criteria:** This repo lists **non-Scholar citations** with evidence files (books, regional journals, theses, institutional repositories, media).
-Index-verified citations (Google Scholar) appear only in [***Google Scholar***](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
+## Scope and inclusion criteria
 
-**Repository Structure**  
-`papers/` - Author copies  
-`open-access/` - Published open access works (Institutional repositories)  
-`citations/` - Citation evidence (PDF extracts)  
-`demos/` - Interactive materials and implementation prototypes linked to specific papers  
+This repository collects my academic works and documented evidence of their citation in books, peer reviewed journals, regional journals, theses, institutional repositories and specialized media.
 
-It complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps and Cloud Engineering.  
-A curated landing page with extended abstracts is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
+**Inclusion criteria:** this repository lists **non-Google Scholar citations** with documentary evidence such as scanned book pages, journal PDFs, thesis extracts and repository records.  
+Index-verified citations appear exclusively in my [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
-**Author identifier**  
+## Repository structure
+
+`papers/` — Author copies of manuscripts and working papers  
+`open-access/` — Published open access versions from institutional and public repositories  
+`citations/` — Documentary evidence of citations and references  
+`demos/` — Interactive materials and technical prototypes linked to specific papers  
+
+## External academic presence
+
+This repository complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps, Cloud Engineering and production systems.
+
+A curated landing page with extended abstracts and bibliographic metadata is also available on  
+[Academia.edu](https://uba.academia.edu/METorresPonce) and  
+[ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
+
+## Author identifier
+
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
-**Academic visibility profiles**  
-Author indexed in AD Scientific Index: [Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
+## Academic visibility
+
+Author indexed in AD Scientific Index:  
+[Mariano Enrique Torres Ponce — Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
 ---
 ## Table of Contents
