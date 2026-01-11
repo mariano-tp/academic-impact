@@ -21,8 +21,7 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 
 Este repositorio complementa mi portafolio profesional en GitHub ([mariano-tp](https://github.com/mariano-tp)), orientado a DevOps, ingeniería cloud y sistemas de producción.
 
-Una página curada con resúmenes ampliados y metadatos bibliográficos también se encuentra disponible en  
-[Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
+Una página curada con resúmenes ampliados y metadatos bibliográficos también se encuentra disponible en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
 ## Identificación del autor
 
