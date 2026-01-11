@@ -21,9 +21,7 @@ Index-verified citations appear exclusively in my [Google Scholar profile](https
 
 This repository complements my professional GitHub portfolio ([mariano-tp](https://github.com/mariano-tp)), which focuses on DevOps, Cloud Engineering and production systems.
 
-A curated landing page with extended abstracts and bibliographic metadata is also available on  
-[Academia.edu](https://uba.academia.edu/METorresPonce) and  
-[ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
+A curated landing page with extended abstracts and bibliographic metadata is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
 ## Author identifier
 
@@ -31,8 +29,7 @@ ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 ## Academic visibility
 
-Author indexed in AD Scientific Index:  
-[Mariano Enrique Torres Ponce — Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
+Author indexed in AD Scientific Index: [Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
 ---
 ## Table of Contents
