@@ -23,6 +23,14 @@ This repository complements my professional GitHub portfolio ([mariano-tp](https
 
 A curated landing page with extended abstracts and bibliographic metadata is also available on [Academia.edu](https://uba.academia.edu/METorresPonce) and [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
+### Editorial review
+
+This repository also documents selected third-party works reviewed and referenced in the context of my role as **editorial reviewer** at *Ciencia y Técnica Administrativa* (ISSN 1666-1680).  
+Reviewed items are recorded through persistent identifiers and links to their original repositories.  
+Full texts remain hosted by their original publishers and platforms.
+
+Selection and referencing decisions follow criteria of thematic relevance, methodological quality, traceability and consistency with the research lines on digital law, technological governance, artificial intelligence and critical systems.
+
 ###  Author identifier
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
