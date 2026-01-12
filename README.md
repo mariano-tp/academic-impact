@@ -5,9 +5,9 @@ This repository maintains a curated archive of my academic works and their verif
 
 ### Scope and inclusion criteria
 
-This repository collects my academic works and documented evidence of their citation in books, peer reviewed journals, regional journals, theses, institutional repositories and specialized media.
+This repository collects my academic works and documented evidence of their citation in books, academic journals, regional journals, theses, institutional repositories and specialized media.
 
-**Inclusion criteria:** this repository lists **non-Google Scholar citations** with documentary evidence such as scanned book pages, journal PDFs, thesis extracts and repository records.  
+**Inclusion criteria**: this repository lists non-Google Scholar citations with documentary evidence such as scanned book pages, journal PDFs, thesis extracts and repository records.  
 Index-verified citations appear exclusively in my [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
 ###  Repository structure
