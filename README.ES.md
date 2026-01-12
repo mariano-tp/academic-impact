@@ -263,8 +263,8 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Idioma**: Español
 - **Resumen**: Analiza cómo los contratos informáticos protegen la continuidad operativa mediante garantías y responsabilidad.
 - **DOI**: [10.5281/zenodo.17783388](https://doi.org/10.5281/zenodo.17783388)
-- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17783388)
 - **Versión paralela**: [SSRN](http://doi.org/10.2139/ssrn.5877403)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17783388)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Contratos-Informaticos-Argentina.pdf)
 
 ### Responsabilidad Institucional en Seguridad de la Información: Evidencia documental y diligencia debida
