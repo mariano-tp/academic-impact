@@ -443,22 +443,26 @@ This section records confirmed and scheduled editorial inclusions.
 
 ---
 
-## Google Scholar Citations
-[See profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ)
+## Google Scholar indexation
+[View profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ)
+
+The following figures summarize the current Google Scholar indexation status of selected works.  
+They are provided for reference only.  
+Documentary evidence of non-Scholar citations is maintained in this repository.
 
 ### Derechos y Desafíos de la Inteligencia Artificial (2019)
 - **Citations**: 9 (as of Dec 2025)
 - **Selected citations**:
-- Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
-- Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
+  - Porcelli, A. M. (2020). *La inteligencia artificial y la robótica: sus dilemas sociales, éticos y jurídicos.* Derecho Global – Estudios sobre Derecho y Justicia (SciELO México).
+  - Sánchez Acevedo, M. E. (2022). *La inteligencia artificial en el sector público y sus límites frente a los derechos fundamentales.* Estudios Constitucionales (SciELO Chile).
 
----
 
 ### Informática Forense: El camino de la evidencia digital (2020)
 - **Citations**: 2 (as of Dec 2025)
 - **Selected citations**:
-- Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
-- Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
+  - Leiner Mendoza, J. A. (2024). *Estrategia de recuperación de información con el uso de herramientas tecnológicas para el desarrollo de periciales.* Universidad Autónoma de Chihuahua.
+  - Salazar Yamberla, A. B., & Mora Mejía, E. F. (2024). *Analizar todo el contenido presente en una imagen de dispositivo Android desde un estudio forense, usando la herramienta de software de pago.* Universidad Internacional del Ecuador.
+
 
 ---
 
