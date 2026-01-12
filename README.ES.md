@@ -23,6 +23,15 @@ Este repositorio complementa mi portafolio profesional en GitHub ([mariano-tp](h
 
 Una página curada con resúmenes ampliados y metadatos bibliográficos también se encuentra disponible en [Academia.edu](https://uba.academia.edu/METorresPonce) y [ResearchGate](https://www.researchgate.net/profile/Mariano-Torres-Ponce).
 
+### Revisión editorial
+
+Este repositorio también documenta obras de terceros evaluadas y referenciadas en el marco de mi función como **revisor editorial** en *Ciencia y Técnica Administrativa* (ISSN 1666-1680).  
+Los trabajos revisados se registran mediante identificadores persistentes y enlaces a sus repositorios de origen.  
+Los textos completos permanecen alojados en sus plataformas editoriales originales.
+
+Las decisiones de referencia y selección responden a criterios de relevancia temática, calidad metodológica, trazabilidad y coherencia con las líneas de investigación en derecho digital, gobernanza tecnológica, inteligencia artificial y sistemas críticos.
+
+
 ### Identificación del autor
 
 ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
