@@ -203,6 +203,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
+- **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **PDF del Autor**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
