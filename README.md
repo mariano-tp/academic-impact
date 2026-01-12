@@ -43,20 +43,20 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 
 ---
 ## Table of Contents
-1. [Published Papers (Peer-Reviewed)](#published-papers-peer-reviewed)
-2. [Open Access Publications with DOI](#open-access-publications-with-doi)
-3. [SSRN eJournal Distribution](#ssrn-ejournal-distribution)
-4. [Book Chapters (as cited work)](#book-chapters-as-cited-work)
-5. [Academic Journals (as cited work)](#academic-journals-as-cited-work)
-6. [Theses & Institutional References (as cited work)](#theses--institutional-references-as-cited-work)
-7. [Professional & Legal Media](#professional--legal-media)
-8. [Press Mentions](#press-mentions)
-9. [Google Scholar Citations](#google-scholar-citations)
-10. [Research Interests](#research-interests)
-11. [Notes](#notes)
+1. [Published Papers (Peer-Reviewed)](#index1)
+2. [Open Access Publications with DOI](#index2)
+3. [SSRN eJournal Distribution](#index3)
+4. [Book Chapters (as cited work)](#index4)
+5. [Academic Journals (as cited work)](#index5)
+6. [Theses & Institutional References (as cited work)](#index6)
+7. [Professional & Legal Media](#index7)
+8. [Press Mentions](#index8)
+9. [Google Scholar Citations](#index9)
+10. [Research Interests](#index10)
+11. [Notes](#index11)
 
 ---
-## Published Papers (Peer-Reviewed)
+## Published Papers (Peer-Reviewed)<a id="index1"></a>
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
 *Digital Evidence in Cloud Native Environments: Forensic procedures for distributed architectures*
 - **Author**: Mariano Enrique Torres Ponce
