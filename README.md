@@ -120,7 +120,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Author's Copy PDF**: [Download PDF](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA.pdf) / [Download BookIA](papers/TorresPonce_2019_Derechos-y-Desafios-de-la-IA-BookIA-.pdf)
 
 ---
-## Open Access Publications with DOI
+## Open Access Publications with DOI<a id="index2"></a>
 
 ### Cloud-Native Resilience: DevOps and DORA in financial services
 - **Author**: Mariano Enrique Torres Ponce
@@ -289,7 +289,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
-## SSRN eJournal Distribution
+## SSRN eJournal Distribution<a id="index3"></a>
 
 A subset of these working papers has been selected and distributed through curated SSRN Subject Matter eJournals.  
 This section records confirmed and scheduled editorial inclusions.
@@ -350,7 +350,7 @@ This section records confirmed and scheduled editorial inclusions.
 - **Negotiation & Dispute Resolution eJournal (LSN/CMBO)**
 ---
 
-## Book Chapters (as cited work)
+## Book Chapters (as cited work)<a id="index4"></a>
 
 ### Derecho y Nuevas Tecnologías
 - **Author / Editor**: Gonzalo Ana Dobratinich (dir.)
@@ -365,7 +365,7 @@ This section records confirmed and scheduled editorial inclusions.
 
 ---
 
-## Academic Journals (as cited work)
+## Academic Journals (as cited work)<a id="index5"></a>
 
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
 - **Author**: José Heriberto García Peña
@@ -391,7 +391,7 @@ This section records confirmed and scheduled editorial inclusions.
 
 ---
 
-## Theses & Institutional References (as cited work)
+## Theses & Institutional References (as cited work)<a id="index6"></a>
 
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Author**: Juan Andrés Meza Sánchez
@@ -417,7 +417,7 @@ This section records confirmed and scheduled editorial inclusions.
 
 ---
 
-## Professional & Legal Media
+## Professional & Legal Media<a id="index7"></a>
 
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
 - **Author**: María Patrizia Domingues Villarroel
@@ -431,7 +431,7 @@ This section records confirmed and scheduled editorial inclusions.
 
 ---
 
-## Press Mentions
+## Press Mentions<a id="index8"></a>
 
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
 - **Publisher**: Venezuela News – *Expediente.News*
@@ -443,7 +443,7 @@ This section records confirmed and scheduled editorial inclusions.
 
 ---
 
-## Google Scholar indexation
+## Google Scholar indexation<a id="index9"></a>
 [View profile](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ)
 
 The following figures summarize the current Google Scholar indexation status of selected works.  
@@ -466,7 +466,7 @@ Documentary evidence of non-Scholar citations is maintained in this repository.
 
 ---
 
-## Research Interests
+## Research Interests<a id="index10"></a>
 - Artificial Intelligence & Law
 - Digital Evidence
 - Cloud-native Systems
@@ -474,6 +474,6 @@ Documentary evidence of non-Scholar citations is maintained in this repository.
 
 ---
 
-## Notes
+## Notes<a id="index11"></a>
 
 *This repository does not reproduce copyrighted works in full. Only excerpts (cover, index, citation pages) are provided as evidence of citation and academic reference.*
