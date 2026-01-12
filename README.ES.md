@@ -191,7 +191,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17350239](https://doi.org/10.5281/zenodo.17350239)
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5603512)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17350239)
-- **PDF del Autor**: [Download](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
 *Sobrediagnóstico por saturación informativa: Autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
@@ -204,7 +204,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
 - **URI permanente (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
-- **PDF del Autor**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
 ### SRE in the Law of Technological Risk: Reliability and responsibility  
 *SRE en el Derecho del Riesgo Tecnológico: Confiabilidad y responsabilidad*
@@ -217,7 +217,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5613230)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17363577)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17363577/TorresPonce_2023_SRE-Law-Technological-Risk_Explanatory-Video.mp4)
-- **PDF del Autor**: [Download](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_SRE-Law-Technological-Risk.pdf)
 
 ### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance  
 *Fútbol y la Arquitectura de la Justicia Global: Lex sportiva, tecnología y el auge de la gobernanza transnacional*
@@ -241,7 +241,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **DOI**: [10.5281/zenodo.17438436](https://doi.org/10.5281/zenodo.17438436)
 - **Versión paralela**: [SSRN](https://ssrn.com/abstract=5788802)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17438436)
-- **PDF del Autor**: [Download](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
+- **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Del-Panoptico-al-Datapoint.pdf)
 
 ### Digital Medicine in Health Emergencies: Redefining clinical and legal responsibility  
 *Medicina Digital en Emergencias Sanitarias: Redefinición de la responsabilidad clínica y jurídica*
