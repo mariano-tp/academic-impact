@@ -16,6 +16,8 @@ Las citaciones verificadas por bases bibliométricas figuran exclusivamente en m
 `open-access/` — Versiones publicadas en acceso abierto desde repositorios institucionales y públicos  
 `citations/` — Evidencia documental de citas y referencias  
 `demos/` — Material interactivo y prototipos técnicos vinculados a trabajos específicos  
+`curation/` — Registros de revisión editorial de obras de terceros evaluadas para publicación  
+
 
 ### Presencia académica externa
 
