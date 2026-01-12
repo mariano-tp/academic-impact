@@ -16,6 +16,8 @@ Index-verified citations appear exclusively in my [Google Scholar profile](https
 `open-access/` — Published open access versions from institutional and public repositories  
 `citations/` — Documentary evidence of citations and references  
 `demos/` — Interactive materials and technical prototypes linked to specific papers  
+`curation/` — Editorial review records of third-party works evaluated for publication  
+
 
 ###  External academic presence
 
