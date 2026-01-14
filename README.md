@@ -144,7 +144,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Extends DORA-compliance frameworks to operational resilience through DevOps automation and observability-by-design.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#ssrn3)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17423551)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
@@ -167,7 +167,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Analyzes how the EU Cyber Resilience Act affects open source compliance and explores DevSecOps automation as a governance solution.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#ssrn2)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17479259)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
@@ -179,7 +179,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Examines regulatory and ethical implications of AI in U.S. pediatric healthcare, focusing on liability, informed consent, and transparency.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#ssrn1)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17344639)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
@@ -203,7 +203,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Analysis of how digital bureaucracy shifts procedural burdens onto citizens, eroding due process guarantees through technological mediation and platform-based governance.
 - **DOI**: [10.5281/zenodo.17873281](https://doi.org/10.5281/zenodo.17873281)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5895782)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5895782) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17873281)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.17873281/TorresPonce_2024_Thousand-Click-Bureaucracy_Explanatory-Video.mp4)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2024_Thousand-Click-Bureaucracy.pdf)
@@ -229,7 +229,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributing to health anxiety and overdiagnosis in pediatric and adult care.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
 - **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
-- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838) [(See eJournal Distribution)](#index3)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
@@ -252,7 +252,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Analyses football’s *lex sportiva* as a transnational legal system shaped by institutions, technology and procedural standards.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#ssrn0)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(See eJournal Distribution)](#index3)
 - **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17625619)
 - **Author's Copy PDF**: [Download](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
@@ -306,63 +306,12 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 ---
 ## SSRN eJournal Distribution<a id="index3"></a>
 
-A subset of these working papers has been selected and distributed through curated SSRN Subject Matter eJournals.  
-This section records confirmed and scheduled editorial inclusions.
+A selection of my research outputs has been editorially distributed through curated SSRN Subject Matter eJournals. Distribution reflects thematic relevance and inclusion in peer-curated academic mailing lists across law, regulation, technology and governance.
 
-### Cloud-Native Resilience: DevOps and DORA in Financial Services <a id="ssrn3"></a>
-**SSRN ID:** 5497878  
-**Primary repositories:** Zenodo & SSRN  
+My papers have been distributed or scheduled for distribution within multiple SSRN classification networks, including LSN, IRPN, ISN, CompSciRN, HEN, FEN and ERPN, covering areas such as digital governance, financial regulation, cybersecurity, health law, innovation policy and transnational legal studies.
 
-**Distributed in:**
-- **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Issue 126 (Nov 10, 2025)
-- **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Issue 72 (Nov 21, 2025)  
-- **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Issue 222 (Nov 28, 2025)
-- **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Issue 74 (Dec 9, 2025)  
+For complete and up-to-date distribution records, see the SSRN Author Page ID: [8104256](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8104256) / [8103297](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8103297)
 
-**Scheduled distribution:**
-
-- **Information Technology & Systems eJournal (ISN/CMBO)**  
-- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**  
-- **Information Systems & Economics eJournal (ISN/CMBO)**
-
-**Classification networks:** FEN, IRPN, ISN, LSN
-
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="ssrn2"></a>
-**SSRN ID:** 5552760  
-**Primary repositories:** Zenodo & SSRN  
-
-**Distributed in:**
-- **Software Engineering eJournal (CompSciRN/CMBO)**, Vol. 8, Issue 108 (Nov 28, 2025)
-- **Innovation Law & Policy eJournal (IRPN)** Vol 13, Issue 231 (Dec 11, 2025)  
-
-**Scheduled distribution:**
-- **Risk, Regulation & Policy eJournal (LSN)**  
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)**  
-- **Entrepreneurship & Law eJournal (ERPN)**
-
-**Classification networks:** CompSciRN, IRPN, LSN, ERPN
-
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ssrn1"></a> 
-**SSRN ID:** 5468846  
-**Primary repositories:** Zenodo & SSRN  
-
-**Distributed in:**
-- **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Issue 51 (Nov 6, 2025)  
-- **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Issue 32 (Oct 1, 2025)
-
-**Classification networks:** CompSciRN
-
-### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance <a id="ssrn0"></a>
-**SSRN ID:** 5756542  
-**Primary repositories:** Zenodo & SSRN  
-
-**Scheduled distribution:**
-- **Comparative & Global Administrative Law eJournal (LSN/CMBO)**
-- **Comparative Law & Trans-National Studies eJournal (LSN/CMBO)**
-- **Sports, Gaming & Entertainment Law eJournal (LSN/CMBO)**
-- **Public International Law: Human Rights eJournal (LSN/CMBO)** 
-- **Public International Law: Organizations eJournal (LSN/CMBO)**
-- **Negotiation & Dispute Resolution eJournal (LSN/CMBO)**
 ---
 
 ## Book Chapters (as cited work)<a id="index4"></a>
