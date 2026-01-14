@@ -305,78 +305,13 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
-## Distribución en eJournals de SSRN <a id="indice3"></a>
+## Distribución en eJournals de SSRN<a id="index3"></a>
 
-Un subconjunto de estos manuscritos ha sido seleccionado para su distribución en eJournals temáticos curados por SSRN.  
-A continuación se documentan las inclusiones editoriales confirmadas y programadas.
+Una selección de estos trabajos de investigación ha sido distribuida editorialmente a través de eJournals temáticos de SSRN. La distribución refleja la pertinencia temática y la inclusión en circuitos académicos curatoriales en los ámbitos del derecho, la regulación, la tecnología y la gobernanza.
 
-### Cloud-Native Resilience: DevOps and DORA in Financial Services <a id="ssrn3"></a>
-**SSRN ID:** 5497878  
-**Repositorios principales:** Zenodo & SSRN  
+Los artículos han sido distribuidos o se encuentran programados para su distribución dentro de múltiples redes de clasificación de SSRN, entre ellas LSN, IRPN, ISN, CompSciRN, HEN, FEN y ERPN, abarcando áreas como gobernanza digital, regulación financiera, ciberseguridad, derecho de la salud, políticas de innovación y estudios jurídicos transnacionales.
 
-**Distribuido en:**
-- **Management of Innovation eJournal (IRPN/CMBO)**, Vol. 13, Número 126 (2025-11-10)
-- **Regulation of Financial Institutions eJournal (FEN/CMBO)**, Vol. 13, Número 72 (2025-11-21)  
-- **Innovation Law & Policy eJournal (IRPN/CMBO)**, Vol. 13, Número 222 (2025-11-28)  
-- **Risk, Regulation & Policy eJournal (LSN)**, Vol. 16, Número 74 (2025-12-09)
-
-**Distribución programada:**
-- **Information Technology & Systems eJournal (ISN/CMBO)**  
-- **Information Systems Legislation & Regulations eJournal (ISN/CMBO)**  
-- **Information Systems & Economics eJournal (ISN/CMBO)**
-
-**Redes de clasificación:** FEN, IRPN, ISN, LSN
-
-
-### Open Source Under the Cyber Resilience Act: Compliance automation and governance models for sustainable security <a id="ssrn2"></a>  
-**SSRN ID:** 5552760  
-**Repositorios principales:** Zenodo & SSRN  
-
-**Distribuido en:**
-- **Software Engineering eJournal (CompSciRN/CMBO)**, Vol. 8, Issue 108 (2025-11-28)
-- **Innovation Law & Policy eJournal (IRPN)**, Vol. 13, Issue 231 (2025-12-11)
-
-**Distribución programada:**
-- **Risk, Regulation & Policy eJournal (LSN)**  
-- **Cybersecurity, Privacy & Networks eJournal (CompSciRN)**  
-- **Entrepreneurship & Law eJournal (ERPN)**
-
-**Redes de clasificación:** CompSciRN, IRPN, LSN, ERPN
-
-
-### Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care <a id="ssrn1"></a>
-**SSRN ID:** 5468846  
-**Repositorios principales:** Zenodo & SSRN  
-
-**Distribuido en:**
-- **Public Health Law & Policy eJournal (LSN)**, Vol. 16, Número 51 (2025-11-06)
-- **Public Goods & Regulation in Health Economics eJournal (HEN)**, Vol. 18, Número 32 (2025-10-01)
-
-**Redes de clasificación:** CompSciRN
-
-### Football and the Architecture of Global Justice: Lex sportiva, technology and the rise of transnational governance <a id="ssrn0"></a>
-**SSRN ID:** 5756542  
-**Repositorios principales:** Zenodo & SSRN  
-
-**Distribución programada:**
-- **Comparative & Global Administrative Law eJournal (LSN/CMBO)**
-- **Comparative Law & Trans-National Studies eJournal (LSN/CMBO)**
-- **Sports, Gaming & Entertainment Law eJournal (LSN/CMBO)**
-- **Public International Law: Human Rights eJournal (LSN/CMBO)** 
-- **Public International Law: Organizations eJournal (LSN/CMBO)**
-- **Negotiation & Dispute Resolution eJournal (LSN/CMBO)**
-
----
-## Capítulos de Libro (como obra citada)<a id="indice4"></a>
-### Derecho y Nuevas Tecnologías
-- **Director**: Gonzalo Ana Dobratinich
-- **Editorial**: Universidad de Buenos Aires – Thomson Reuters / La Ley (2021)
-- **ISBN**: 978-987-03-4271-7
-- **Idioma**: Español
-- **Enlace oficial**: [UBA](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)
-- **Evidencia de citación**: [Extracto PDF](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)
-- **Citado como**: TORRES, Mariano, "Derechos y desafíos de la Inteligencia Artificial"
-- **País**: Argentina
+Para consultar los registros completos y actualizados de distribución editorial, véase la página de autor en SSRN ID: [8104256](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8104256) / [8103297](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8103297)
 
 ---
 ## Revistas Académicas (como obra citada)<a id="indice5"></a>
