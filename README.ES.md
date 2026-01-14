@@ -59,6 +59,22 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 
 ---
 ## Artículos Publicados (Revisados por pares)<a id="indice1"></a>
+
+### From the Panopticon to the Datapoint: Operational power and governance by design
+*Del Panóptico al Datapoint: Poder operativo y gobernanza por diseño*
+- **Autor**: Mariano Enrique Torres Ponce
+- **Editorial**: Ciencia y Técnica Administrativa (CyTA)
+- **Revista**: Técnica Administrativa, Vol. 25, Nº 2, Order: 3, Issue: 106 (2026)
+- **ISSN**: 1666-1680
+- **Fecha**: 2026-04-15
+- **Licencia**: CC BY 4.0 – © Ciencia y Técnica Administrativa (CyTA)
+- **Idioma**: Inglés
+- **Resumen**: Define el poder operativo como una forma de autoridad incorporada en los sistemas digitales que configura la gobernanza y el debido proceso a través del diseño.
+- **Versión oficial**: [Leer online](https://www.cyta.com.ar/ta/article.php?id=250203)
+- **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
+- **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.18237585)
+- **PDF del Autor**: [Descargar](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
+
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas
 - **Autor**: Mariano Enrique Torres Ponce
 - **Editorial**: Ciencia y Técnica Administrativa (CyTA)
