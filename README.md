@@ -69,7 +69,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Abstract**: Defines operational power as a form of authority embedded in digital systems that shape governance and due process through design.
 - **Official version**: [Read online](https://www.cyta.com.ar/ta/article.php?id=250203)
 - **DOI**: [10.5281/zenodo.18237585](https://doi.org/10.5281/zenodo.18237585)
-- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.17575262)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18237585)
 - **Author's Copy PDF**: [Download](papers/TorresPonce_2026_From-Panopticon-Datapoint.pdf)
 
 ### Evidencia Digital en Entornos Cloud Native: Procedimientos forenses para arquitecturas distribuidas  
