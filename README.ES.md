@@ -305,7 +305,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2019_Responsabilidad-Seguridad-Informacion.pdf)
 
 ---
-## Distribución en eJournals de SSRN<a id="index3"></a>
+## Distribución en eJournals de SSRN<a id="indice3"></a>
 
 Una selección de estos trabajos de investigación ha sido distribuida editorialmente a través de eJournals temáticos de SSRN. La distribución refleja la pertinencia temática y la inclusión en circuitos académicos curatoriales en los ámbitos del derecho, la regulación, la tecnología y la gobernanza.
 
