@@ -224,8 +224,8 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 - **Language**: English
 - **Abstract**: Examines how medical information overload reshapes the clinical encounter, contributing to health anxiety and overdiagnosis in pediatric and adult care.
 - **DOI**: [10.5281/zenodo.18208838](https://doi.org/10.5281/zenodo.18208838)
-- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6056414)
-- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838) [(See eJournal Distribution)](#index3)
+- **Parallel version**: [SSRN](https://doi.org/10.2139/ssrn.6056414) [(See eJournal Distribution)](#index3)
+- **Permanent URI (Internet Archive)**: [View on Archive.org](https://archive.org/details/zenodo.18208838)
 - **Supplementary material**: Explanatory video summarizing the paper’s core arguments. [(Watch video)](https://archive.org/download/zenodo.18208838/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload_Explanatory-Video.mp4)
 - **Author’s Copy PDF**: [Download](open-access/TorresPonce_Arana_ArroyoGiuliani_2023_Overdiagnosis-Information-Overload.pdf)
 
