@@ -140,7 +140,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Idioma**: Inglés
 - **Resumen**: Extiende los marcos DORA de cumplimiento a la resiliencia operativa mediante automatización DevOps y observabilidad por diseño.
 - **DOI**: [10.5281/zenodo.17423551](https://doi.org/10.5281/zenodo.17423551)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#ssrn3)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5497878) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17423551)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17423551/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2025_Cloud-Native-Resilience-DevOps-DORA.pdf)
@@ -163,7 +163,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Idioma**: Inglés
 - **Resumen**: Examina el impacto del Reglamento Europeo de Ciberresiliencia en el software de código abierto y propone automatización DevSecOps como modelo de gobernanza.
 - **DOI**: [10.5281/zenodo.17479259](https://doi.org/10.5281/zenodo.17479259)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#ssrn2)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5552760) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17479259)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17479259/TorresPonce_2025_Open-Source-Under-the-Cyber-Resilience-Act_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2024_Open-Source-Under-the-Cyber-Resilience-Act.pdf)
@@ -176,7 +176,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Idioma**: Inglés
 - **Resumen**: Estudia las implicancias regulatorias y éticas de la IA en atención pediátrica en EE. UU., con énfasis en responsabilidad civil, consentimiento informado y transparencia.
 - **DOI**: [10.5281/zenodo.17344639](https://doi.org/10.5281/zenodo.17344639)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#ssrn1)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5468846) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17344639)
 - **Material suplementario**: Video explicativo con descripción narrativa de los argumentos centrales del artículo. [(Ver video)](https://archive.org/download/zenodo.17344639/TorresPonce_Arana_2024_AI-in-US-Healthcare_Explanatory-Video.mp4)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_Arana_2024_AI-in-US-Healthcare.pdf)
@@ -250,7 +250,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 - **Idioma**: Inglés
 - **Resumen**: Analiza la *lex sportiva* del fútbol como sistema jurídico transnacional moldeado por instituciones, tecnología y estándares procesales.
 - **DOI**: [10.5281/zenodo.17625619](https://doi.org/10.5281/zenodo.17625619)
-- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(Ver distribución de eJournal)](#ssrn0)
+- **Versión paralela**: [SSRN](https://doi.org/10.2139/ssrn.5756542) [(Ver distribución de eJournal)](#indice3)
 - **URI permanente (Internet Archive)**: [Ver en Archive.org](https://archive.org/details/zenodo.17625619)
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2022_Football-Architecture-of-Global-Justice.pdf)
 
