@@ -361,13 +361,14 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **País**: España
 
 ---
-## Menciones en Prensa<a id="indice8"></a>
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
-- **Medio**: Expediente.News (Venezuela)
+- **Autor**: Daniel Córdova
+- **Medio**: Venezuela News – *Expediente.News*
 - **Fecha**: 2023-03-10
 - **Idioma**: Español
-- **Enlace**: [Leer online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
-- **Nota**: Mención periodística (no citación académica formal).
+- **Publicación oficial (actualmente no disponible)**: [Leer online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
+- **Versión archivada (Wayback Machine)**: [Leer archivo](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
+- **Nota**: Mención periodística que incluye la frase *"Como refiere el investigador argentino, Mariano Enrique Torres…"*. Se trata de una **mención en medios** (no constituye una cita académica formal).
 - **País**: Venezuela
 
 ---
