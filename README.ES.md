@@ -1,13 +1,9 @@
 > Available languages / Idiomas disponibles: [*English*](README.md) / [*Español*](README.ES.md)
 # Archivo de investigación académica y repositorio de impacto curado
 
-Este repositorio mantiene un archivo curado de mis trabajos académicos y de su impacto documentado en libros, revistas científicas, tesis, repositorios institucionales y publicaciones especializadas. Proporciona acceso persistente a copias de autor, versiones en acceso abierto, evidencia de citación y materiales de apoyo vinculados a cada producción, funcionando como una infraestructura de trazabilidad, preservación y reutilización académica.
+Este repositorio conserva un archivo curado de mis trabajos académicos y de su impacto documentado en libros, revistas científicas, tesis, repositorios institucionales y publicaciones especializadas. Proporciona acceso persistente a copias de autor, versiones en acceso abierto, evidencia de citación y materiales de apoyo vinculados a cada producción, funcionando como una infraestructura de trazabilidad, preservación y reutilización académica.
 
-### Alcance y criterios de inclusión
-
-Este repositorio reúne mis obras académicas y la evidencia documental de su citación en libros, revistas científicas, revistas regionales, tesis, repositorios institucionales y medios especializados.
-
-**Criterio de inclusión:** se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de archivos probatorios como páginas de libros, PDFs de revistas, extractos de tesis y registros de repositorios.  
+**Criterio de inclusión:** se registran únicamente citaciones externas no indexadas en Google Scholar, acompañadas de evidencia verificable (páginas de libros, PDFs de revistas, extractos de tesis o registros de repositorios).
 Las citaciones verificadas por bases bibliométricas figuran exclusivamente en mi perfil de [Google Scholar](https://scholar.google.com/citations?hl=es&user=FCQXlNMAAAAJ).
 
 ### Estructura del repositorio
