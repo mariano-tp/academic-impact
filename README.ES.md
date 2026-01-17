@@ -368,7 +368,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Fecha**: 2023-03-10
 - **Idioma**: Español
 - **Publicación oficial (actualmente no disponible)**: [Leer online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
-- **Copia preservada (Internet Archive - Wayback Machine):**: [Leer archivo](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
+- **Copia preservada (Internet Archive - Wayback Machine)**: [Leer archivo](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
 - **Nota**: Mención periodística que incluye la frase *"Como refiere el investigador argentino, Mariano Enrique Torres…"*. Se trata de una **mención en medios** (no constituye una cita académica formal).
 - **País**: Venezuela
 
