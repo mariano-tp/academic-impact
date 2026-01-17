@@ -399,7 +399,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Date**: 2023-03-10
 - **Language**: Spanish
 - **Official listing (currently unavailable)**: [Read online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
-- **Archived version (Wayback Machine)**: [Read archived](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
+- **Preserved copy (Internet Archive – Wayback Machine)**: [Read archived](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
 - **Note**: Press mention including the line *"Como señala el investigador argentino, Mariano Enrique Torres…"*. This is a **media mention** (not a formal scholarly citation).
 - **Country**: Venezuela
 
