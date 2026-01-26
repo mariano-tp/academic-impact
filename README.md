@@ -390,7 +390,8 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Date**: Not publicly visible (access restricted)
 - **Language**: English
 - **Official listing**: [Bartleby Research](https://www.bartleby.com/essay/What-Is-The-Ethical-Use-Of-AI-1FA1064E87602B0C)
-- **Citation evidence (public snippet)**: SSRN reference visible in bibliography snippet (full text behind paywall)
+- **Citation evidence (public bibliography snippet)**: SSRN reference is visible in the public bibliography section (full content behind paywall)
+- **Citation evidence (screenshot)**: [View image](citations/2026-01-26_bartleby_ethical_use_ai_healthcare_citation.png)  
 - **Cited as (as shown on platform)**: *Enrique, Mariano, and Maria Noel Arana. “Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care.” SSRN Electronic Journal, RELX Group (Netherlands)*
 - **Correct citation (recommended)**: *Torres Ponce, M. E., & Arana, M. N. (2024). Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on pediatric care. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.5468846*
 - **Country**: Not specified
