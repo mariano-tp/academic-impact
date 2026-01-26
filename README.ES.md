@@ -310,66 +310,113 @@ Los artículos han sido distribuidos o se encuentran programados para su distrib
 Para consultar los registros completos y actualizados de distribución editorial, véase la página de autor en SSRN ID: [8104256](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8104256) / [8103297](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=8103297)
 
 ---
+## Capítulos de libro (como obra citada)<a id="indice4"></a>
+
+### Derecho y Nuevas Tecnologías
+- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Autor / Director (compilación)**: Gonzalo Ana Dobratinich (dir.)
+- **Tipo**: Obra colectiva
+- **Editorial**: Universidad de Buenos Aires - Thomson Reuters / La Ley (2021)
+- **ISBN**: 978-987-03-4271-7
+- **Idioma**: Español
+- **Publicación oficial**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)
+- **Evidencia de citación**: [Extracto PDF](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)
+- **Citado como**: *TORRES, Mariano, "Derechos y desafíos de la Inteligencia Artificial".*
+- **País**: Argentina
+---
 ## Revistas Académicas (como obra citada)<a id="indice5"></a>
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
+- **Obra citada**: Derechos y desafíos de la inteligencia artificial
 - **Autor**: José Heriberto García Peña
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
 - **ISSN**: 2530-4496
 - **Idioma**: Español
 - **Enlace oficial**: [FCU](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
 - **Evidencia de citación**: [Extracto PDF](citations/2022-deteccion-delitos-extract.pdf)
+- **Citado como**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*
 - **País**: Uruguay
 
 ### Garantías Procesales Penales en la Evidencia Digital
+- **Obra citada**: Informática forense y el camino de la Evidencia digital
 - **Autor**: Gladys Liliana Gonzáles Obando
-- **Revista**: Revista de Investigación de la Academia de la Magistratura, Vol. 3, No. 5 (2021)
+- **Editorial**: Academia de la Magistratura
+- **Revista**: Revista de Investigación de la Academia de la Magistratura, Vol. 3, N.º 5 (jul–dic 2021), pp. 165–174
 - **ISSN**: 2707-4056
 - **Idioma**: Español
 - **Enlace oficial**: [AMag](https://revistas.amag.edu.pe/index.php/amag/issue/view/6)
 - **Evidencia de citación**: [Extracto PDF](citations/2021-garantias-procesales-extract.pdf)
+- **Citado como**: *Torres, M. (2020). Informática forense y el camino de la Evidencia digital. Ciencia y Técnica Administrativa.*
 - **País**: Perú
 
 ---
-## Tesis y referencias institucionales (como obra citada)<a id="indice6"></a>
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
+- **Obra citada**: Derechos y desafíos de la inteligencia artificial
 - **Autor**: Juan Andrés Meza Sánchez
-- **Institución**: UNAM – Facultad de Derecho
-- **Tipo**: Tesis de maestría (2023)
+- **Institución**: Universidad Nacional Autónoma de México (UNAM) – Facultad de Derecho
+- **Tipo**: Tesis de maestría
+- **Fecha**: 2023-12-02
 - **Idioma**: Español
-- **Enlace oficial**: [RU-DGB UNAM](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)
+- **Publicación oficial**: [Repositorio UNAM de la Dirección General de Bibliotecas (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)
 - **Evidencia de citación**: [Extracto PDF](citations/2023-ia-ddhh-extract.pdf)
+- **Citado como (según la plataforma)**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **País**: México
 
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
+- **Obra citada**: Derechos y desafíos de la inteligencia artificial
 - **Autor**: María Patrizia Domingues Villarroel
-- **Institución**: Universidad de La Laguna
-- **Tipo**: Trabajo Final de Grado (2021)
+- **Institución**: Universidad de La Laguna (ULL) – Facultad de Derecho
+- **Tipo**: Trabajo Final de Grado (TFG)
+- **Fecha**: 2021-10
 - **Idioma**: Español
-- **Enlace oficial**: [RIULL](https://riull.ull.es/xmlui/handle/915/25652)
+- **Publicación oficial**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/handle/915/25652)
 - **Evidencia de citación**: [Extracto PDF](citations/2021-responsabilidad-civil-extract.pdf)
+- **Citado como (según la plataforma)**: *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **País**: España
 
+### What Is The Ethical Use Of AI In Healthcare
+- **Obra citada**: Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on Pediatric Care
+- **Autor**: No visible públicamente (contenido alojado por la plataforma)
+- **Institución**: Bartleby Research (plataforma educativa de ensayos)
+- **Tipo**: Ensayo educativo online / trabajo estudiantil (contenido de pago)
+- **Fecha**: No visible públicamente (acceso restringido)
+- **Idioma**: Inglés
+- **Publicación oficial**: [Bartleby Research](https://www.bartleby.com/essay/What-Is-The-Ethical-Use-Of-AI-1FA1064E87602B0C)
+- **Evidencia de citación**: Referencia a SSRN visible en el fragmento público de bibliografía (texto completo detrás de paywall)
+- **Citado como (según la plataforma)**: *Enrique, Mariano, and Maria Noel Arana. “Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care.” SSRN Electronic Journal, RELX Group (Netherlands)*
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E., & Arana, M. N. (2024). Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on pediatric care. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.5468846*
+- **País**: No especificado
+
 ---
-## Medios Jurídicos y Profesionales<a id="indice7"></a>
+
+## Medios jurídicos y profesionales<a id="indice7"></a>
+
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
+- **Obra citada**: Derechos y desafíos de la inteligencia artificial
 - **Autor**: María Patrizia Domingues Villarroel
 - **Medio**: ElDerecho – Lefebvre
+- **Sección**: Tribuna profesional
 - **Fecha**: 2022-07-01
 - **Idioma**: Español
-- **Enlace**: [Leer online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
-- **Nota**: Adaptación profesional de la tesis de grado que cita la obra original.
+- **Publicación oficial**: [Leer online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
+- **Nota**: Adaptación profesional del Trabajo Final de Grado *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL), que cita *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
+- **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **País**: España
 
 ---
-## Menciones en Prensa<a id="indice8"></a>
+
+## Menciones en prensa<a id="indice8"></a>
+
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
+- **Obra citada**: Derechos y desafíos de la inteligencia artificial
 - **Autor**: Daniel Córdova
 - **Medio**: Venezuela News – *Expediente.News*
 - **Fecha**: 2023-03-10
 - **Idioma**: Español
 - **Publicación oficial (actualmente no disponible)**: [Leer online](https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
-- **Copia preservada (Internet Archive - Wayback Machine)**: [Leer archivo](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
-- **Nota**: Mención periodística que incluye la frase *"Como refiere el investigador argentino, Mariano Enrique Torres…"*. Se trata de una **mención en medios** (no constituye una cita académica formal).
+- **Copia preservada (Internet Archive – Wayback Machine)**: [Leer archivado](https://web.archive.org/web/20230310194252/https://venezuela-news.com/expediente-news-inteligencia-artificial-mundo-feliz-o-distopico/)
+- **Nota**: Mención periodística que incluye la línea *"Como señala el investigador argentino, Mariano Enrique Torres…"*. Se trata de una **mención en medios** (no constituye una cita académica formal).
 - **País**: Venezuela
 
 ---
