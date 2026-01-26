@@ -407,7 +407,8 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Date**: 2022-07-01
 - **Language**: Spanish
 - **Official listing**: [Read online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
-- **Note**: Professional adaptation of the undergraduate thesis *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL), which cites *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
+- **Note**: Professional adaptation of the undergraduate thesis *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL)  
+- **Cited as (as shown on platform)**: *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
 - **Correct citation (recommended)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **Country**: Spain
 
