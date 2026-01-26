@@ -386,7 +386,8 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Fecha**: No visible públicamente (acceso restringido)
 - **Idioma**: Inglés
 - **Publicación oficial**: [Bartleby Research](https://www.bartleby.com/essay/What-Is-The-Ethical-Use-Of-AI-1FA1064E87602B0C)
-- **Evidencia de citación**: Referencia a SSRN visible en el fragmento público de bibliografía (texto completo detrás de paywall)
+- **Evidencia de citación** (fragmento público de bibliografía): La referencia a SSRN es visible en la sección pública de bibliografía (el contenido completo está detrás de un paywall)
+- **Evidencia de citación (captura de pantalla)**: [Ver imagen](citations/2026-01-26_bartleby_ethical_use_ai_healthcare_citation.png)
 - **Citado como (según la plataforma)**: *Enrique, Mariano, and Maria Noel Arana. “Artificial Intelligence in U.S. Healthcare: Legal Framework, Liability, and Ethical Challenges with Special Focus on Pediatric Care.” SSRN Electronic Journal, RELX Group (Netherlands)*
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E., & Arana, M. N. (2024). Artificial Intelligence in U.S. Healthcare: Legal framework, liability, and ethical challenges with special focus on pediatric care. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.5468846*
 - **País**: No especificado
@@ -406,7 +407,6 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Nota**: Adaptación profesional del Trabajo Final de Grado *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL)  
 - **Citado como (según la plataforma)**:  *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
-
 - **País**: España
 
 ---
