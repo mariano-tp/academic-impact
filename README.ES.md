@@ -349,6 +349,9 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **País**: Perú
 
 ---
+
+## Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)<a id="indice6"></a>
+
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
 - **Obra citada**: Derechos y desafíos de la inteligencia artificial
 - **Autor**: Juan Andrés Meza Sánchez
