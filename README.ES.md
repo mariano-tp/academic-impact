@@ -45,7 +45,7 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 3. [Distribución en eJournals de SSRN](#indice3)
 4. [Capítulos de Libro (como obra citada)](#indice4)
 5. [Revistas Académicas (como obra citada)](#indice5)
-6. [Tesis y Referencias Institucionales (como obra citada)](#indice6)
+6. [Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)](#indice6)
 7. [Medios Jurídicos y Profesionales](#indice7)
 8. [Menciones en Prensa](#indice8)
 9. [Citaciones en Google Scholar](#indice9)
@@ -320,7 +320,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **ISBN**: 978-987-03-4271-7
 - **Idioma**: Español
 - **Publicación oficial**: [UBA Publications](https://www.derecho.uba.ar/publicaciones/libros/pdf/2021-derecho-y-nuevas-tecnologias.pdf)
-- **Evidencia de citación**: [Extracto PDF](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2021-derecho-y-nuevas-tecnologias-extract.pdf)
 - **Citado como**: *TORRES, Mariano, "Derechos y desafíos de la Inteligencia Artificial".*
 - **País**: Argentina
 ---
@@ -332,7 +332,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **ISSN**: 2530-4496
 - **Idioma**: Español
 - **Enlace oficial**: [FCU](https://revistas.fcu.edu.uy/index.php/informaticayderecho/article/view/3046)
-- **Evidencia de citación**: [Extracto PDF](citations/2022-deteccion-delitos-extract.pdf)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2022-deteccion-delitos-extract.pdf)
 - **Citado como**: *TORRES, Mariano E., Derechos y desafíos de la Inteligencia Artificial (2019).*
 - **País**: Uruguay
 
@@ -344,7 +344,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **ISSN**: 2707-4056
 - **Idioma**: Español
 - **Enlace oficial**: [AMag](https://revistas.amag.edu.pe/index.php/amag/issue/view/6)
-- **Evidencia de citación**: [Extracto PDF](citations/2021-garantias-procesales-extract.pdf)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2021-garantias-procesales-extract.pdf)
 - **Citado como**: *Torres, M. (2020). Informática forense y el camino de la Evidencia digital. Ciencia y Técnica Administrativa.*
 - **País**: Perú
 
@@ -357,7 +357,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Fecha**: 2023-12-02
 - **Idioma**: Español
 - **Publicación oficial**: [Repositorio UNAM de la Dirección General de Bibliotecas (RU-DGB)](https://ru.dgb.unam.mx/server/api/core/bitstreams/2369db04-0a30-4e67-a103-f98be21324ef/content)
-- **Evidencia de citación**: [Extracto PDF](citations/2023-ia-ddhh-extract.pdf)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2023-ia-ddhh-extract.pdf)
 - **Citado como (según la plataforma)**: *MARIANO TORRES, Enrique, Derechos y desafíos de la Inteligencia Artificial*
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **País**: México
@@ -370,7 +370,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Fecha**: 2021-10
 - **Idioma**: Español
 - **Publicación oficial**: [Repositorio Institucional (RIULL)](https://riull.ull.es/xmlui/handle/915/25652)
-- **Evidencia de citación**: [Extracto PDF](citations/2021-responsabilidad-civil-extract.pdf)
+- **Evidencia de citación (extracto PDF)**: [Descargar](citations/2021-responsabilidad-civil-extract.pdf)
 - **Citado como (según la plataforma)**: *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
 - **País**: España
@@ -400,8 +400,10 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **Fecha**: 2022-07-01
 - **Idioma**: Español
 - **Publicación oficial**: [Leer online](https://elderecho.com/responsabilidad-civil-derivada-uso-inteligencia-artificial)
-- **Nota**: Adaptación profesional del Trabajo Final de Grado *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL), que cita *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
+- **Nota**: Adaptación profesional del Trabajo Final de Grado *"La responsabilidad civil derivada del uso de la inteligencia artificial"* (Universidad de La Laguna, 2021, RIULL)  
+- **Citado como (según la plataforma)**:  *ENRIQUE TORRES MARIANO, "Derechos y desafíos de la Inteligencia Artificial"*.
 - **Cita correcta (recomendada)**: *Torres Ponce, M. E. (2019). Derechos y desafíos de la inteligencia artificial. Ciencia y Técnica Administrativa, 18(1). https://cyta.com.ar/bookia/bookia.php?id=1*
+
 - **País**: España
 
 ---
