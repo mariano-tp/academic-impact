@@ -41,13 +41,12 @@ Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientifi
 ---
 ### Marco de producción interdisciplinaria
 
-Parte de los trabajos archivados y referenciados en este repositorio se producen en el marco del **Grupo Interdisciplinario de Clínica, Tecnología y Derecho**, un proyecto colaborativo integrado por un abogado especialista en tecnología, una médica pediatra y neonatóloga, una psicóloga, una kinesióloga y un licenciado en Producción y Realización Audiovisual.
+Parte de los trabajos archivados y referenciados en este repositorio se producen en el marco del **Grupo Interdisciplinario de Clínica, Tecnología y Derecho**, un proyecto colaborativo integrado por un abogado especialista en tecnología, profesionales de la medicina y la kinesiología, una psicóloga, especialistas en producción audiovisual y profesionales de la ingeniería de software e infraestructura tecnológica.
 
 El grupo desarrolla y difunde sus trabajos mediante documentos académicos formales en formato PDF, estructurados conforme a estándares académicos y publicados en repositorios de acceso abierto.  
 Estas infraestructuras proporcionan identificadores persistentes (DOI, URI), mecanismos de preservación a largo plazo y trazabilidad bibliográfica, permitiendo la citación, verificación e indexación de los contenidos en sistemas académicos como Google Scholar.
 
 La estrategia de publicación prioriza repositorios académicos consolidados y el uso de fuentes abiertas, frente a formatos de divulgación efímera o plataformas no orientadas a la preservación científica.
-
 
 ---
 ## Índice
