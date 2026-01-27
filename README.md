@@ -37,7 +37,7 @@ ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 Author indexed in AD Scientific Index: [Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
-
+---
 ### Interdisciplinary Production Framework
 
 Part of the works archived and referenced in this repository are produced within the framework of the **Interdisciplinary Group on Clinical Practice, Technology and Law**, a collaborative project composed of a technology law specialist, a pediatrician and neonatologist, a psychologist, a physiotherapist, and a specialist in audiovisual production and direction.
