@@ -38,7 +38,7 @@ ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 Autor indexado en AD Scientific Index: [Perfil de autor](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
-
+---
 ### Marco de producción interdisciplinaria
 
 Parte de los trabajos archivados y referenciados en este repositorio se producen en el marco del **Grupo Interdisciplinario de Clínica, Tecnología y Derecho**, un proyecto colaborativo integrado por un abogado especialista en tecnología, una médica pediatra y neonatóloga, una psicóloga, una kinesióloga y un licenciado en Producción y Realización Audiovisual.
