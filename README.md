@@ -37,6 +37,17 @@ ORCID iD: [0009-0009-6284-3867](https://orcid.org/0009-0009-6284-3867)
 
 Author indexed in AD Scientific Index: [Author profile](https://www.adscientificindex.com/scientist/mariano-enrique-torres-ponce/6353254)
 
+
+### Interdisciplinary Production Framework
+
+Part of the works archived and referenced in this repository are produced within the framework of the **Interdisciplinary Group on Clinical Practice, Technology and Law**, a collaborative project composed of a technology law specialist, a pediatrician and neonatologist, a psychologist, a physiotherapist, and a specialist in audiovisual production and direction.
+
+The group develops and disseminates its work through formal academic documents in PDF format, structured according to academic standards and published in open access repositories.  
+These infrastructures provide persistent identifiers (DOI, URI), long-term preservation mechanisms, and bibliographic traceability, enabling citation, verification, and indexing of the contents in recognized academic systems such as Google Scholar.
+
+The publication strategy prioritizes consolidated academic repositories and the use of open sources, over ephemeral dissemination formats or platforms not oriented toward scientific preservation.
+
+
 ---
 ## Table of Contents
 1. [Published Papers (Peer-Reviewed)](#index1)
