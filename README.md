@@ -339,7 +339,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 ## Academic Journals (as cited work)<a id="index5"></a>
 
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
-- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: José Heriberto García Peña
 - **Publisher**: Fundación de Cultura Universitaria
 - **Published in**: Revista Informática y Derecho, Nº 11 (2022), pp. 67–83
@@ -351,7 +351,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Country**: Uruguay
 
 ### Garantías Procesales Penales en la Evidencia Digital
-- **Cited work**: Informática forense y el camino de la Evidencia digital
+- **Cited work**: Informática Forense: El camino de la evidencia digital
 - **Author**: Gladys Liliana Gonzáles Obando
 - **Publisher**: Academia de la Magistratura
 - **Published in**: Revista de Investigación de la Academia de la Magistratura, Vol. 3, No. 5 (Jul–Dec 2021), pp. 165–174
@@ -367,7 +367,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 ## Theses, Student Papers & Institutional References (as cited work)<a id="index6"></a>
 
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
-- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Juan Andrés Meza Sánchez
 - **Institution**: Universidad Nacional Autónoma de México (UNAM) - Facultad de Derecho
 - **Type**: Master's Thesis
@@ -380,7 +380,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 - **Country**: Mexico
 
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
-- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: María Patrizia Domingues Villarroel
 - **Institution**: Universidad de La Laguna (ULL) - Facultad de Derecho
 - **Type**: Undergraduate Final Project (TFG)
@@ -411,7 +411,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 ## Professional & Legal Media<a id="index7"></a>
 
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
-- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: María Patrizia Domingues Villarroel
 - **Publisher**: ElDerecho - Lefebvre
 - **Section**: Tribuna profesional
@@ -428,7 +428,7 @@ For complete and up-to-date distribution records, see the SSRN Author Page ID: [
 ## Press Mentions<a id="index8"></a>
 
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
-- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Author**: Daniel Córdova
 - **Publisher**: Venezuela News – *Expediente.News*
 - **Date**: 2023-03-10
