@@ -227,7 +227,7 @@ La estrategia de publicación prioriza repositorios académicos consolidados y e
 - **PDF del Autor**: [Descargar](open-access/TorresPonce_2023_Kubernetes-GitOps-Gobernanza.pdf)
 
 ### Overdiagnosis by Information Overload: Self-diagnosis, health anxiety, and the clinical visit as a validation encounter
-*Sobrediagnóstico por saturación informativa: Autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
+*Sobrediagnóstico por Saturación Informativa: Autodiagnóstico, ansiedad en salud y la consulta clínica como encuentro de validación*
 - **Autor**: Mariano Enrique Torres Ponce; María Noel Arana; Sandra Susana Arroyo Giuliani
 - **Fecha**: 2023-07-20
 - **Licencia**: CC BY-NC-ND 4.0 – © María Noel Arana, Mariano Enrique Torres Ponce & Sandra Susana Arroyo Giuliani
@@ -323,7 +323,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 ## Capítulos de libro (como obra citada)<a id="indice4"></a>
 
 ### Derecho y Nuevas Tecnologías
-- **Cited work**: Derechos y desafíos de la Inteligencia Artificial
+- **Cited work**: Derechos y Desafíos de la Inteligencia Artificial
 - **Autor / Director (compilación)**: Gonzalo Ana Dobratinich (dir.)
 - **Tipo**: Obra colectiva
 - **Editorial**: Universidad de Buenos Aires - Thomson Reuters / La Ley (2021)
@@ -336,7 +336,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 ---
 ## Revistas Académicas (como obra citada)<a id="indice5"></a>
 ### La Aplicación de Técnicas de Investigación en la Detección y Persecución de Delitos Económicos
-- **Obra citada**: Derechos y desafíos de la inteligencia artificial
+- **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: José Heriberto García Peña
 - **Revista**: Informática y Derecho, Nº 11 (2022), pp. 67–83
 - **ISSN**: 2530-4496
@@ -347,7 +347,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **País**: Uruguay
 
 ### Garantías Procesales Penales en la Evidencia Digital
-- **Obra citada**: Informática forense y el camino de la Evidencia digital
+- **Obra citada**: Informática Forense: El camino de la evidencia digital
 - **Autor**: Gladys Liliana Gonzáles Obando
 - **Editorial**: Academia de la Magistratura
 - **Revista**: Revista de Investigación de la Academia de la Magistratura, Vol. 3, N.º 5 (jul–dic 2021), pp. 165–174
@@ -363,7 +363,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 ## Tesis, trabajos estudiantiles y referencias institucionales (como obra citada)<a id="indice6"></a>
 
 ### La Inteligencia Artificial frente a los Derechos Humanos: Retos y expectativas
-- **Obra citada**: Derechos y desafíos de la inteligencia artificial
+- **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: Juan Andrés Meza Sánchez
 - **Institución**: Universidad Nacional Autónoma de México (UNAM) – Facultad de Derecho
 - **Tipo**: Tesis de maestría
@@ -376,7 +376,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 - **País**: México
 
 ### La Responsabilidad Civil Derivada del Uso de la Inteligencia Artificial
-- **Obra citada**: Derechos y desafíos de la inteligencia artificial
+- **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: María Patrizia Domingues Villarroel
 - **Institución**: Universidad de La Laguna (ULL) – Facultad de Derecho
 - **Tipo**: Trabajo Final de Grado (TFG)
@@ -407,7 +407,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 ## Medios jurídicos y profesionales<a id="indice7"></a>
 
 ### La Responsabilidad Civil Derivada del Uso de Inteligencia Artificial
-- **Obra citada**: Derechos y desafíos de la inteligencia artificial
+- **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: María Patrizia Domingues Villarroel
 - **Medio**: ElDerecho – Lefebvre
 - **Sección**: Tribuna profesional
@@ -424,7 +424,7 @@ Para consultar los registros completos y actualizados de distribución editorial
 ## Menciones en prensa<a id="indice8"></a>
 
 ### Inteligencia Artificial: ¿Hacia un mundo feliz o distópico?
-- **Obra citada**: Derechos y desafíos de la inteligencia artificial
+- **Obra citada**: Derechos y Desafíos de la inteligencia artificial
 - **Autor**: Daniel Córdova
 - **Medio**: Venezuela News – *Expediente.News*
 - **Fecha**: 2023-03-10
