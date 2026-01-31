@@ -40,7 +40,7 @@ Author indexed in AD Scientific Index: [Author profile](https://www.adscientific
 ---
 ### Interdisciplinary Production Framework
 
-Part of the works archived and referenced in this repository are produced within the framework of the **Interdisciplinary Group on Clinical Practice, Technology and Law**, a collaborative project composed of a technology law specialist, professionals in medicine and physiotherapy, a psychologist, specialists in audiovisual production, and professionals in software engineering and technological infrastructure.
+Part of the works archived and referenced in this repository are developed within the framework of the **Interdisciplinary Group on Clinical Practice, Technology and Law (GICTyD)**, a collaborative initiative bringing together a technology law specialist, professionals in medicine and physiotherapy, a psychologist, specialists in audiovisual production, and professionals in software engineering and technological infrastructure.
 
 The group develops and disseminates its work through formal academic documents in PDF format, structured according to academic standards and published in open access repositories.  
 These infrastructures provide persistent identifiers (DOI, URI), long-term preservation mechanisms, and bibliographic traceability, enabling citation, verification, and indexing of the contents in recognized academic systems such as Google Scholar.
